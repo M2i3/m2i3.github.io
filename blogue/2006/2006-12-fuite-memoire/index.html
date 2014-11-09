@@ -1,0 +1,190 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" >
+	<head>
+		<base href="" />
+		<title>Houston nous avons une fuite... de mémoire</title>
+<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="fuites de mémoire, ruby on rails, memory profiler" />
+<meta name="description" content="Un outil pour diagnostiquer les fuites de mémoire en Ruby on Rails" />
+Ruby on Rails,Programmation,Ruby
+
+    <meta name="thumbnail" content="http://m2i3.com/M2i3_logo_100x100.png" />
+    <link rel="image_src" href="../../../M2i3_logo_100x100.png" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/print.css" type="text/css" media="print" /> 
+		<!--[if IE]>
+			<link rel="stylesheet" href="themes/m2i3/css/ie.css" type="text/css" media="screen, projection" />
+		<![endif]-->
+		<link rel="stylesheet" href="../../../themes/m2i3/css/style.css" type="text/css" media="screen, projection" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>    
+		
+		
+		
+		
+                <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-539937-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/layout.css?m=1362517564" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/typography.css?m=1360348269" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/form.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../blog/css/blog.css?m=1297660841" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/menu.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/footer.css?m=1297660847" />
+</head>
+	<body>
+		<div id="banner"></div>
+		<div id="header">
+			<a id="logo" href="../../../index.html" Title="M2i3 - Connecter vos besoins aux solutions"></a>
+			<ul id="menu1">
+   
+      <li class="mega">
+      	<a href="../../../notre-entreprise/index.html" title="Notre entreprise">Notre entreprise</a>
+      	
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../portfolio/index.html" title="Portfolio">Portfolio</a>
+      	
+			<div>
+			  	
+					<a href="../../../portfolio/m2i3/index.html" >M2i3</a>
+				
+					<a href="../../../portfolio/artyan/index.html" >Artyan</a>
+				
+					<a href="../../../portfolio/karate-sunfuki/index.html" >Karaté Sunfuki</a>
+				
+					<a href="../../../portfolio/esprit-du-the/index.html" >L&#39;Esprit du The</a>
+				
+					<a href="../../../portfolio/retrouvailles-de-la-promotion-de-1994-de-l-esfl/index.html" >Retrouvailles de la promotion de 1994 de l&#39;ESFL</a>
+				
+					<a href="../../../portfolio/g-force/index.html" >G-Force</a>
+				
+					<a href="../../../portfolio/omniscient-technology/index.html" >Omniscient Technology</a>
+				
+					<a href="../../../portfolio/m2i/index.html" >M2i3</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../blog.1" title="Blogue">Blogue</a>
+      	
+			<div>
+			  	
+					<a href="../../2014/index.html" >2014</a>
+				
+					<a href="../../2013/index.html" >2013</a>
+				
+					<a href="../../2012/index.html" >2012</a>
+				
+					<a href="../../2011/index.html" >2011</a>
+				
+					<a href="../../2010/index.html" >2010</a>
+				
+					<a href="../../2009/index.html" >2009</a>
+				
+					<a href="../../2008/index.html" >2008</a>
+				
+					<a href="../../2007/index.html" >2007</a>
+				
+					<a href="../index.html" >2006</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../contactez-nous/index.html" title="Contactez-nous">Contactez-nous</a>
+      	
+      </li>
+   
+</ul>
+
+		</div>
+		<div id="main">
+			<div class="shadow_holder">
+				<div class="container">
+					<!-- div id="Sidebar" class="span-6 pull-6">
+	
+</div -->
+
+<div id="BlogContent" class="typography push-3 span-18">
+	
+	<div class="blogEntry">
+		<h2>Houston nous avons une fuite... de mémoire</h2>
+		<p class="authorDate">Posté par Jean-Marc sur 20 December 2006 | 0 Commentaires</p>
+		
+			<p class="tags">
+				 Tags: 
+				
+					<a href="../tag/Ruby+on+Rails" title="Voir tous les messages marqués 'Ruby on Rails'" rel="tag">Ruby on Rails</a>,
+				
+					<a href="../tag/Programmation" title="Voir tous les messages marqués 'Programmation'" rel="tag">Programmation</a>,
+				
+					<a href="../tag/Ruby" title="Voir tous les messages marqués 'Ruby'" rel="tag">Ruby</a>
+				
+			</p>
+		
+      <p>Les fuites de mémoires... le cauchemar des programmeurs.  Je ne connais pas un langage de programmation qui sous une forme ou une autre ne connaît pas ce problème.  Eh bien, Ruby et Ruby on Rails ne font pas exception.  Je suis à diagnostiquer un problème de fuite de mémoire en ce moment sur un projet Ruby on Rails.</p>
+<p>Ma première réaction fut la panique (enfin presque)... considérant les outils disponibles pour Visual Basic, C++ ou en Java je m'attendais au pire; acheter un produit ou encore ajouter du code pour établir où la fuite se situe.  Mes recherches m'ont conduit sur le <a href="http://scottstuff.net/blog/">blogue de Scott Laird</a> où il présente le code nécessaire pour effectuer un <a href="http://scottstuff.net/blog/articles/2006/08/17/memory-leak-profiling-with-rails">profilage mémoire en Ruby</a>.</p>
+<p>Là je suis resté surpris... Le langage lui-même présente toute la fonctionnalité pour diagnostiquer ce genre de problème et ce grâce à la classe ObjectSpace et la méthode employé par Scott reste très simple.  Dans son blogue Scott mentionne son désir de faire de ce bout de code un plugiciel pour Rails.</p>
+<p>Ne l'ayant trouvé nul part j'ai donc ouvert un projet sur <a href="http://tigris.org">tigris.org</a> pour partager la version <a href="http://rails-memoryprofiler-plugin.tigris.org/">plugiciel de l'outil de profilage mémoire</a>.    Bon, j'retourne à mon problème.</p>
+<p>L'outil m'a déjà permit d'isoler la portion du code à la source de la fuite de mémoire... je n'ai plus qu'à la colmater. </p>
+<p> </p>
+<div class="postslinks">
+<h2>Liens discutés dans ce blogue</h2>
+<ul><li><a href="http://scottstuff.net/blog/articles/2006/08/17/memory-leak-profiling-with-rails">le blogue sur le profilage mémoire en Ruby.</a> {en}</li>
+<li><a title="A Memory Profiling and diagnosis plugin for Ruby on Rails." href="http://rails-memoryprofiler-plugin.tigris.org/">le projet rails-memoryprofiler-plugin sur tigris.org</a> {en}</li>
+</ul></div>
+		<br />
+	</div>
+	
+	
+	
+	
+	
+</div>
+
+				</div>
+			</div>
+		</div>
+		<div id="bottom_ribbon">
+			<div id="footer">
+				<div class="container"> 
+					<div class="span-10 prefix-1">
+  <a href="../../../index.html">M2i3.com</a><br/>
+  Notre courriel: <a href="mailto:info@m2i3.com">info@m2i3.com</a><br/>
+  Notre téléphone: <strong>+1.888.403.5998</strong>
+</div>
+
+					<div id="randomproduct" class="span-12">
+  
+    <img src="../../../assets/Uploads/backblaze-vault-door-open3.png" alt="backblaze vault door open3" />
+    <div class="span-8 prefix-1">
+      <p><span style="font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; color: #666666;"><span style="font-size: 12px; line-height: 19px;">La meilleure copie de sécurité (backup) c'est celle que vous avez <strong>avant</strong> d'avoir un problème matériel ou une perte de données. Avec le service de <a href="http://www.backblaze.com/partner/af3776">copie de sécurité en ligne de Backblaze</a> vous installez le client et laissez le logiciel prendre les copies de sécurité en temps réel et en tout temps. <a href="http://www.backblaze.com/partner/af3776">Inscrivez-vous dès aujourd'hui</a>.</span></span></p>
+    </div>
+  
+</div>
+
+				</div>
+			</div>
+		</div>
+                <div id="copyright">This website is copyright of M2i3 &copy; 2004-2012<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" style="margin-left:20px"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</div>
+		
+	<script type="text/javascript" src="../../../mysite/javascript/jquery.hoverIntent.js?m=1297660842"></script><script type="text/javascript" src="../../../mysite/javascript/menu.js?m=1297660842"></script></body>
+</html>

@@ -1,0 +1,189 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" >
+	<head>
+		<base href="" />
+		<title>La beauté est dans l&#39;implémentation</title>
+<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Gem PayPal, test unitaire, mock" />
+<meta name="description" content="Le Gem PayPal et une façon ingénieuse de simplifier les tests" />
+Ruby on Rails,Programmation,Ruby
+
+    <meta name="thumbnail" content="http://m2i3.com/M2i3_logo_100x100.png" />
+    <link rel="image_src" href="../../../M2i3_logo_100x100.png" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/print.css" type="text/css" media="print" /> 
+		<!--[if IE]>
+			<link rel="stylesheet" href="themes/m2i3/css/ie.css" type="text/css" media="screen, projection" />
+		<![endif]-->
+		<link rel="stylesheet" href="../../../themes/m2i3/css/style.css" type="text/css" media="screen, projection" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>    
+		
+		
+		
+		
+                <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-539937-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/layout.css?m=1362517564" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/typography.css?m=1360348269" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/form.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../blog/css/blog.css?m=1297660841" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/menu.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/footer.css?m=1297660847" />
+</head>
+	<body>
+		<div id="banner"></div>
+		<div id="header">
+			<a id="logo" href="../../../index.html" Title="M2i3 - Connecter vos besoins aux solutions"></a>
+			<ul id="menu1">
+   
+      <li class="mega">
+      	<a href="../../../notre-entreprise/index.html" title="Notre entreprise">Notre entreprise</a>
+      	
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../portfolio/index.html" title="Portfolio">Portfolio</a>
+      	
+			<div>
+			  	
+					<a href="../../../portfolio/m2i3/index.html" >M2i3</a>
+				
+					<a href="../../../portfolio/artyan/index.html" >Artyan</a>
+				
+					<a href="../../../portfolio/karate-sunfuki/index.html" >Karaté Sunfuki</a>
+				
+					<a href="../../../portfolio/esprit-du-the/index.html" >L&#39;Esprit du The</a>
+				
+					<a href="../../../portfolio/retrouvailles-de-la-promotion-de-1994-de-l-esfl/index.html" >Retrouvailles de la promotion de 1994 de l&#39;ESFL</a>
+				
+					<a href="../../../portfolio/g-force/index.html" >G-Force</a>
+				
+					<a href="../../../portfolio/omniscient-technology/index.html" >Omniscient Technology</a>
+				
+					<a href="../../../portfolio/m2i/index.html" >M2i3</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../blog.1" title="Blogue">Blogue</a>
+      	
+			<div>
+			  	
+					<a href="../../2014/index.html" >2014</a>
+				
+					<a href="../../2013/index.html" >2013</a>
+				
+					<a href="../../2012/index.html" >2012</a>
+				
+					<a href="../../2011/index.html" >2011</a>
+				
+					<a href="../../2010/index.html" >2010</a>
+				
+					<a href="../../2009/index.html" >2009</a>
+				
+					<a href="../../2008/index.html" >2008</a>
+				
+					<a href="../index.html" >2007</a>
+				
+					<a href="../../2006/index.html" >2006</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../contactez-nous/index.html" title="Contactez-nous">Contactez-nous</a>
+      	
+      </li>
+   
+</ul>
+
+		</div>
+		<div id="main">
+			<div class="shadow_holder">
+				<div class="container">
+					<!-- div id="Sidebar" class="span-6 pull-6">
+	
+</div -->
+
+<div id="BlogContent" class="typography push-3 span-18">
+	
+	<div class="blogEntry">
+		<h2>La beauté est dans l&#39;implémentation</h2>
+		<p class="authorDate">Posté par Jean-Marc sur 7 August 2007 | 0 Commentaires</p>
+		
+			<p class="tags">
+				 Tags: 
+				
+					<a href="../tag/Ruby+on+Rails" title="Voir tous les messages marqués 'Ruby on Rails'" rel="tag">Ruby on Rails</a>,
+				
+					<a href="../tag/Programmation" title="Voir tous les messages marqués 'Programmation'" rel="tag">Programmation</a>,
+				
+					<a href="../tag/Ruby" title="Voir tous les messages marqués 'Ruby'" rel="tag">Ruby</a>
+				
+			</p>
+		
+      <p>Je suis à travailler sur une intégration avec PayPal sur un projet en Ruby on Rails.    Pour ce faire j'ai donc téléchargé le <a title="Ruby PayPal Gem" href="http://www.elctech.com/projects/paypal">Gem PayPal</a> développé par <a href="http://www.elctech.com">ELC Technologies</a>.  Les vérifications préliminaires sont prometteuses, le Gem se comporte tel que souhaité et fidèle à la philosophie de Rails il se concentre sur le résultat faisant fi de la configuration</p>
+<p>au profit de la normalisation.    Au moment d'entamer le code qui vas assurer la modification du profil des utilisateurs en fonction de l'abonnement sélectionné j'arrive au point épineux des tests.  Je ne vais certainement pas écrire une portion si important du site sans m'assurer qu'elle se comporte adéquatement.   Le problème est simple, le Gem sers précisément à interagir avec le site externe qu'est  PayPal et je ne désire pas dépendre de la présence de leur serveur pour exécuter mes tests fonctionnels.  Après quelque recherches dans la base de code du Gem lui même j'ai trouvé ma réponse... et je dois admettre que la solution de Mr Luetke au problème est très... ingénieuse.</p>
+<div class="inline_ad">// --&gt;</div>
+<p>Dans les tests du Gem, on trouve un fichier nommé « method_mock.rb » qui est utilisé dans les tests unitaires du Gem.  Après plusieurs lectures et un merveilleux mal de tête j'ai finalement accroché sur la première ligne du fichier... « class Module ».  Une révélation, <a title="La part du plaisir dans l'apprentissage et la compréhension... des éléments essentiels au travail" href="../../../2007/08/ces-ha-qui-nous-font-avancer">un de ces « Ah Moment » dont je vous parlais l'autre jour</a>.  Le code du fichier sers à remplacer temporairement le code de n'importe quelle méthode de n'importe quel module (et donc par extension classe) du langage... par exemple, le code nécessaire pour se connecter à un serveur distant.   Mon problème est résolu... pas le même moyen qu'à utilisé Mr Luetke pour tester son Gem.  La solution est élégante et permet beaucoup d'autre utilisations, comme par exemple fournir un fichier de la suite de test en remplacement d'un fichier externe.  Bon, j'y retourne, les doigts me démangent d'avance encore un peu... un test à la fois (ou comme chanterais les américains: « Test by test... oh baby... gonna get software that will works! »)</p>
+<div class="postslinks">
+<h2>Liens discutés dans ce blogue</h2>
+<ul><li><a title="Ruby PayPal Gem" href="http://www.elctech.com/projects/paypal">Gem PayPal</a></li>
+<li><a href="http://www.elctech.com">ELC Technologies</a></li>
+<li><a title="La part du plaisir dans l'apprentissage et la compréhension... des éléments essentiels au travail" href="../../../2007/08/ces-ha-qui-nous-font-avancer">un de ces « Ah Moment » dont je vous parlais l'autre jour</a></li>
+</ul></div>
+		<br />
+	</div>
+	
+	
+	
+	
+	
+</div>
+
+				</div>
+			</div>
+		</div>
+		<div id="bottom_ribbon">
+			<div id="footer">
+				<div class="container"> 
+					<div class="span-10 prefix-1">
+  <a href="../../../index.html">M2i3.com</a><br/>
+  Notre courriel: <a href="mailto:info@m2i3.com">info@m2i3.com</a><br/>
+  Notre téléphone: <strong>+1.888.403.5998</strong>
+</div>
+
+					<div id="randomproduct" class="span-12">
+  
+    <img src="../../../assets/Uploads/RubyonRailslogo.png" alt="RubyonRailslogo" />
+    <div class="span-8 prefix-1">
+      <p><span style="font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; color: #666666;"><span style="font-size: 12px; line-height: 19px;"><strong>Ruby on Rails</strong> est un cadre applicatif Web écrit en Ruby. Il suit le motif de conception modèle-vue-contrôleur. Le cadre rigide force aux développeurs une démarche de travail rigoureuse. Site principal: <a href="http://rubyonrails.org" target="_blank">Ruby on Rails</a></span></span></p>
+    </div>
+  
+</div>
+
+				</div>
+			</div>
+		</div>
+                <div id="copyright">This website is copyright of M2i3 &copy; 2004-2012<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" style="margin-left:20px"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</div>
+		
+	<script type="text/javascript" src="../../../mysite/javascript/jquery.hoverIntent.js?m=1297660842"></script><script type="text/javascript" src="../../../mysite/javascript/menu.js?m=1297660842"></script></body>
+</html>

@@ -1,0 +1,313 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" >
+	<head>
+		<base href="" />
+		<title>Faire la vie dure aux hackers en protégeant votre courriel (et une histoire de sous-marin)</title>
+<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Protéger son compte Google Apps avec l&#39;authentification à facteur multiple" />
+
+    <meta name="thumbnail" content="http://m2i3.com/M2i3_logo_100x100.png" />
+    <link rel="image_src" href="../../../M2i3_logo_100x100.png" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/print.css" type="text/css" media="print" /> 
+		<!--[if IE]>
+			<link rel="stylesheet" href="themes/m2i3/css/ie.css" type="text/css" media="screen, projection" />
+		<![endif]-->
+		<link rel="stylesheet" href="../../../themes/m2i3/css/style.css" type="text/css" media="screen, projection" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>    
+		
+		
+		
+		
+                <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-539937-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/layout.css?m=1362517564" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/typography.css?m=1360348269" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/form.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../blog/css/blog.css?m=1297660841" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/menu.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/footer.css?m=1297660847" />
+</head>
+	<body>
+		<div id="banner"></div>
+		<div id="header">
+			<a id="logo" href="../../../index.html" Title="M2i3 - Connecter vos besoins aux solutions"></a>
+			<ul id="menu1">
+   
+      <li class="mega">
+      	<a href="../../../notre-entreprise/index.html" title="Notre entreprise">Notre entreprise</a>
+      	
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../portfolio/index.html" title="Portfolio">Portfolio</a>
+      	
+			<div>
+			  	
+					<a href="../../../portfolio/m2i3/index.html" >M2i3</a>
+				
+					<a href="../../../portfolio/artyan/index.html" >Artyan</a>
+				
+					<a href="../../../portfolio/karate-sunfuki/index.html" >Karaté Sunfuki</a>
+				
+					<a href="../../../portfolio/esprit-du-the/index.html" >L&#39;Esprit du The</a>
+				
+					<a href="../../../portfolio/retrouvailles-de-la-promotion-de-1994-de-l-esfl/index.html" >Retrouvailles de la promotion de 1994 de l&#39;ESFL</a>
+				
+					<a href="../../../portfolio/g-force/index.html" >G-Force</a>
+				
+					<a href="../../../portfolio/omniscient-technology/index.html" >Omniscient Technology</a>
+				
+					<a href="../../../portfolio/m2i/index.html" >M2i3</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../blog.1" title="Blogue">Blogue</a>
+      	
+			<div>
+			  	
+					<a href="../../2014/index.html" >2014</a>
+				
+					<a href="../../2013/index.html" >2013</a>
+				
+					<a href="../index.html" >2012</a>
+				
+					<a href="../../2011/index.html" >2011</a>
+				
+					<a href="../../2010/index.html" >2010</a>
+				
+					<a href="../../2009/index.html" >2009</a>
+				
+					<a href="../../2008/index.html" >2008</a>
+				
+					<a href="../../2007/index.html" >2007</a>
+				
+					<a href="../../2006/index.html" >2006</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../contactez-nous/index.html" title="Contactez-nous">Contactez-nous</a>
+      	
+      </li>
+   
+</ul>
+
+		</div>
+		<div id="main">
+			<div class="shadow_holder">
+				<div class="container">
+					<!-- div id="Sidebar" class="span-6 pull-6">
+	
+</div -->
+
+<div id="BlogContent" class="typography push-3 span-18">
+	
+	<div class="blogEntry">
+		<h2>Faire la vie dure aux hackers en protégeant votre courriel (et une histoire de sous-marin)</h2>
+		<p class="authorDate">Posté par Jean-Marc sur 24 October 2012 | 0 Commentaires</p>
+		
+			<p class="tags">
+				 Tags: 
+				
+					<a href="../tag/sécurité" title="Voir tous les messages marqués 'sécurité'" rel="tag">sécurité</a>,
+				
+					<a href="../tag/Google+Apps" title="Voir tous les messages marqués 'Google Apps'" rel="tag">Google Apps</a>
+				
+			</p>
+		
+      <p>Il y a à peine deux mois, <a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/">Mat Honan a vu sa vie numérique entière être détruite à cause de failles chez Amazon et Apple</a>. Comme ce denier l'explique, il aurait pu se protéger plutôt que de perdre le contenu de son ordinateur personnel, son compte Twitter, son compte de courriel, bref, de perdre sa vie numérique. Pour les curieux, faites en la lecture, l'histoire fait peur, mais revenez vite puisque je vais vous expliquer comment vous protéger (et probablement même simplifier votre présence en ligne). Pour les moins curieux, ça tombe bien, je vais quand même vous expliquer comment vous protéger ici.</p>
+<p>Faites l'exercice rapidement. Combien de comptes possédez-vous sur internet? Un? Deux? Vous n'êtes pas certains et ça j'en suis sûr.</p>
+<p>La majorité des gens en possèdent au moins deux : Un compte de courriel et un Facebook. Ce nombre augmente très rapidement si vous considérez les sites d'achats en ligne, les panneaux de contrôles des compagnies de télécommunication comme Bell et Vidéotron ou encore votre site web en Wordpress ou Silverstripe.</p>
+<p>Tous ces sites exigent de vous identifier avant d'accéder à leur service et c'est une bonne chose. Pourtant, l'internet dans sa forme actuelle ne dispose pas d'une tonne de façon de vous identifier ou de vous acheminer vos mots de passes quand vous les oubliez. Et c'est là que le bât blesse. Le courriel est devenu la pierre angulaire de votre présence web. Si votre compte de courriel est compromis, vous ouvrez toute grande la porte à faire voler votre identité. En perdre l'accès revient à perdre son portefeuille ou son téléphone portable et implique de contacter beaucoup, beaucoup de gens pour leur indiquer vos nouvelles coordonnées et leur prouver (dans le cas de sites commerciaux) que vous êtes bien la personne que vous prétendez être.</p>
+<p>Sans être devin, j'imagine que certains se disent : "je ne suis pas à risque, j'ai un bon mot de passe". C'est ce que l'auteur de l'article sur Wired.com avait un bon mot de passe aussi; pourtant la personne qui a compromis tous ces comptes (en plus de détruire les données de son téléphone et son ordinateur personnel) n'a pas eu besoin d'un mot de passe pour y arriver.</p>
+<p>En sécurité il existe trois éléments principaux pour identifier quelqu'un et sa capacité à accéder un service. Ces trois éléments sont :</p>
+<ul><li>quelque chose que vous connaissez : un code secret, votre courriel, votre mot de passe, votre nom d'utilisateur, votre NIP;</li>
+<li>quelque chose que vous possédez : votre carte de crédit, une clef, votre rapport d'impôt;</li>
+<li>quelque chose que vous êtes : votre ADN, votre voix, vos empreintes digitales, vos yeux.</li>
+</ul><p>Si vous remarquez bien, du premier au dernier, la complexité à obtenir et dupliquer un élément de sécurité va en croissant. Il en va de même de la probabilité pour le propriétaire légitime de réaliser la copie ou la perte de l'élément de sécurité. Il est bien plus facile de deviner, noter, copier, un code secret (sans être remarqué) que de répliquer / voler les empreintes digitales de quelqu'un. On augmente aussi le niveau de sécurité lorsqu'on combine des éléments de sécurité de plusieurs catégories. Par exemple votre carte de guichet à puce avec un NIP est beaucoup plus sécuritaire que votre numéro de compte bancaire seul pour protéger votre argent.</p>
+<p>Revenons aux comptes sur le web et à votre courriel. Combien d'éléments doivent être connu pour accéder à votre courriel? Dans combien de catégories? Combien de ces éléments sont réellement secrets? Dans les faits, la majorité des comptes de courriel sont protégés par un seul élément de sécurité : votre mot de passe. Et les procédures de récupération de mot de passe permettent facilement de le contourner (la démonstration est dans l'article de Wired.com). C'est encore plus vrai que la majorité des procédures d'identification ou de récupération de mot de passe utilisent des éléments de la première catégorie (quelque chose que vous connaissez); éléments qui sont le plus facile à dupliquer et le plus difficile à reconnaître qu'ils ont été compromis.</p>
+<p>C'est une des raisons pour lesquelles je recommande Google Apps pour les courriels. Ils offrent des fonctions de sécurité qui visent à protéger votre identité et le contenu de votre boite de courriel. La façon la plus simple d'y arriver est d'utiliser l'authentification à facteur multiple. Différents services offrent différentes méthodes mais l'idée est la même: utiliser plus qu'un mot de passe pour vous identifier. Ce que j'ai de Google c'est qu'ils ont développé une petite application qui s'exécute sur votre téléphone intelligent <a href="https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8">iPhone/iPod/iPad</a>  ou <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=fr">Android</a> appelé "Google Authenticator". Cette dernière génère des mots de passes valide pour une durée de 30 secondes. L'application ne vous intéresse pas? Ils peuvent vous envoyer un SMS qui contient ce code lors de la connexion sur un ordinateur non reconnu. Ce que j'aime de l'application "Google Authenticator" c'est qu'elle fonctionne sans connexion réseau comme en voyage et qu'elle fonctionne avec plusieurs fournisseurs de service et même avec votre blogue Wordpress et site Silverstripe.</p>
+<p>Dans la pratique comment ça fonctionne? Très simplement en fait. Une fois votre nom d'utilisateur et votre mot de passe saisi, Google vous demande alors un code que vous récupérez sur votre téléphone. Vous pouvez sauter cette étape sur votre ordinateur pendant 30 jours pour vous simplifier la vie. Et si vous êtes fan des films de guerres et de sous-marin, vous pouvez même avoir ces codes pré-imprimés sur une feuille de papier (bon ça sonne très Geek mais c'est quand même hyper cool).</p>
+<p>Et voilà, une fois activé vous avez maintenant un compte beaucoup plus sécurisé puisque vous devez utiliser pour vous identifier de quelque chose que vous connaissez et de quelque chose que vous possédez.</p>
+<p>Pour l'activer, suivez les instructions dans la <a href="https://www.google.com/settings/security?hl=fr">section Sécurité</a> de votre compte Google. Les étapes sont bien décrites. Une fois cette fonction de sécurité activée il ne vous restera qu'à configurer des <a href="http://support.google.com/accounts/bin/static.py?hl=fr&amp;guide=1056283&amp;hlrm=fr&amp;page=guide.cs&amp;answer=185833">mots de passes spécifiques</a> pour votre téléphone intelligent ou encore votre client de courriel ces derniers ne supportant pas nécessairement la validation en deux étapes. La procédure de sécurisation est différente si vous êtes sur <a href="https://edit.yahoo.com/commchannel/sec_chal_manage">Yahoo</a>. À ce moment, Microsoft n'offre pas cette fonction pour les comptes Hotmail.</p>
+<p>Une fois habitué à cette procédure vous vous demanderez certainement pourquoi votre institution bancaire n'offre pas l'authentification à facteur multiple et vous vous mettrez certainement en quête d'autre comptes à sécuriser. À ce sujet, si vous connaissez d'autres services qui offrent l'authentification à facteur multiple n'hésitez pas à me le mentionner.</p>
+<p>p.s. Si vous êtes déjà un client M2i3 et que vous n'arrivez pas à trouver cette fonction dans votre compte Google Apps envoyez-nous un message puisqu'il faut souvent l'activer. De même, n'hésitez pas à me <a href="mailto:info+google-apps@m2i3.com">contacter par courriel</a> si vous désirez transférer les courriels de votre corporation sur Google Apps pour tirer profiter de l'authentification à facteur multiple.</p>
+<p>--<br/>Jean-Marc</p>
+<div class="postslinks">
+<h2>Liens discutés dans ce blogue</h2>
+<ul><li><a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/">L'article sur Mat Honan et comment il a perdu sa vie numérique [en]</a></li>
+<li><a href="https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8">Google Authenticator sur le AppleStore pour le iPhone/iPod/iPad</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;hl=fr">Google Authenticator sur Google play</a></li>
+<li><a href="https://www.google.com/settings/security?hl=fr">Section Sécurité sur le compte Google pour activer la validation en deux temps</a></li>
+<li><a href="https://edit.yahoo.com/commchannel/sec_chal_manage">Section de sécurité sur Yahoo</a></li>
+</ul></div>
+		<br />
+	</div>
+	
+	
+	
+	
+	<div id="PageComments_holder" class="typography">
+
+	<h4>Envoyer votre commentaire</h4>
+	
+		
+			
+<form  id="PageCommentInterface_Form_PostCommentForm" action="http://m2i3.com/blogue/2012/2012-10-faire-la-vie-dure-aux-hackers-en-protegeant-votre-compte-courriel/PageComments/PostCommentForm" method="post" enctype="application/x-www-form-urlencoded">
+
+	
+	<p id="PageCommentInterface_Form_PostCommentForm_error" class="message " style="display: none"></p>
+	
+	
+	<fieldset>
+		 
+		
+			<input class="hidden" type="hidden" id="PageCommentInterface_Form_PostCommentForm_ParentID" name="ParentID" value="249" />
+		
+			<div id="Name" class="field text "><label class="left" for="PageCommentInterface_Form_PostCommentForm_Name">Votre nom</label><div class="middleColumn"><input type="text" class="text" id="PageCommentInterface_Form_PostCommentForm_Name" name="Name" value="" /></div></div>
+		
+			<div id="CommenterURL" class="field text "><label class="left" for="PageCommentInterface_Form_PostCommentForm_CommenterURL">L'URL de votre site Web</label><div class="middleColumn"><input type="text" class="text" id="PageCommentInterface_Form_PostCommentForm_CommenterURL" name="CommenterURL" value="" /></div></div>
+		
+			<div id="Comment" class="field textarea "><label class="left" for="PageCommentInterface_Form_PostCommentForm_Comment">Commentaires</label><div class="middleColumn"><textarea id="PageCommentInterface_Form_PostCommentForm_Comment" name="Comment" rows="5" cols="20"></textarea></div></div>
+		
+			<input class="hidden nolabel" type="hidden" id="PageCommentInterface_Form_PostCommentForm_SecurityID" name="SecurityID" value="258930919" />
+		
+		<div class="clear"></div>
+	</fieldset>
+
+	
+	<div class="Actions">
+		
+			<input class="action " id="PageCommentInterface_Form_PostCommentForm_action_postcomment" type="submit" name="action_postcomment" value="Post" title="Post" />
+		
+	</div>
+	
+
+</form>
+
+
+		
+	
+
+	<h4>Commentaires</h4>
+	
+	<div id="CommentHolder">
+		
+			<p id="NoComments">Personne n'a encore commenté cette page.</p>
+		
+	</div>
+	
+	<p id="CommentsRSSFeed">
+		<a class="commentrss" href="../../../PageComment/rss?pageid=249">flux RSS pour les commentaires de cette page</a> | 
+		<a href="../../../PageComment/rss" class="commentrss" title="Voir tous les Commentaires">Flux RSS pour tous les commentaires</a>
+	</p>
+</div>
+	
+
+</div>
+
+				</div>
+			</div>
+		</div>
+		<div id="bottom_ribbon">
+			<div id="footer">
+				<div class="container"> 
+					<div class="span-10 prefix-1">
+  <a href="../../../index.html">M2i3.com</a><br/>
+  Notre courriel: <a href="mailto:info@m2i3.com">info@m2i3.com</a><br/>
+  Notre téléphone: <strong>+1.888.403.5998</strong>
+</div>
+
+					<div id="randomproduct" class="span-12">
+  
+    <img src="../../../assets/Uploads/backblaze-vault-door-open3.png" alt="backblaze vault door open3" />
+    <div class="span-8 prefix-1">
+      <p><span style="font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; color: #666666;"><span style="font-size: 12px; line-height: 19px;">La meilleure copie de sécurité (backup) c'est celle que vous avez <strong>avant</strong> d'avoir un problème matériel ou une perte de données. Avec le service de <a href="http://www.backblaze.com/partner/af3776">copie de sécurité en ligne de Backblaze</a> vous installez le client et laissez le logiciel prendre les copies de sécurité en temps réel et en tout temps. <a href="http://www.backblaze.com/partner/af3776">Inscrivez-vous dès aujourd'hui</a>.</span></span></p>
+    </div>
+  
+</div>
+
+				</div>
+			</div>
+		</div>
+                <div id="copyright">This website is copyright of M2i3 &copy; 2004-2012<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" style="margin-left:20px"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</div>
+		
+	<script type="text/javascript" src="../../../sapphire/thirdparty/behaviour/behaviour.js?m=1297660844"></script><script type="text/javascript" src="../../../sapphire/thirdparty/prototype/prototype.js?m=1297660844"></script><script type="text/javascript" src="../../../sapphire/thirdparty/scriptaculous/effects.js?m=1297660844"></script><script type="text/javascript" src="../../../cms/javascript/PageCommentInterface.js?m=1297660842"></script><script type="text/javascript" src="../../../sapphire/javascript/prototype_improvements.js?m=1297660845"></script><script type="text/javascript" src="../../../sapphire/javascript/i18n.js?m=1297660845"></script><script type="text/javascript" src="../../../sapphire/javascript/lang/en_US.js?m=1297660845"></script><script type="text/javascript" src="../../../sapphire/javascript/lang/fr_FR.js?m=1297660845"></script><script type="text/javascript" src="../../../sapphire/javascript/Validator.js?m=1297660845"></script><script type="text/javascript" src="../../../mysite/javascript/jquery.hoverIntent.js?m=1297660842"></script><script type="text/javascript" src="../../../mysite/javascript/menu.js?m=1297660842"></script><script type="text/javascript">//<![CDATA[
+Behaviour.register({
+	'#PageCommentInterface_Form_PostCommentForm': {
+		validate : function(fromAnOnBlur) {
+			initialiseForm(this, fromAnOnBlur);
+			
+
+			var error = hasHadFormError();
+			if(!error && fromAnOnBlur) clearErrorMessage(fromAnOnBlur);
+			if(error && !fromAnOnBlur) focusOnFirstErroredField();
+			
+			return !error;
+		},
+		onsubmit : function() {
+			if(typeof this.bypassValidation == 'undefined' || !this.bypassValidation) return this.validate();
+		}
+	},
+	'#PageCommentInterface_Form_PostCommentForm input' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				// Don't perform instant validation for CalendarDateField fields; it creates usability wierdness.
+				if(this.parentNode.className.indexOf('calendardate') == -1 || this.value) {
+					return $('PageCommentInterface_Form_PostCommentForm').validate(this);
+				} else {
+					return true;
+				}
+			}
+		}
+	},
+	'#PageCommentInterface_Form_PostCommentForm textarea' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+			if(!this.old_onfocus) this.old_onfocus = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('PageCommentInterface_Form_PostCommentForm').validate(this);
+			}
+		}
+	},
+	'#PageCommentInterface_Form_PostCommentForm select' : {
+		initialise: function() {
+			if(!this.old_onblur) this.old_onblur = function() { return true; } 
+		},
+		onblur : function() {
+			if(this.old_onblur()) {
+				return $('PageCommentInterface_Form_PostCommentForm').validate(this); 
+			}
+		}
+	}
+});
+
+//]]></script></body>
+</html>

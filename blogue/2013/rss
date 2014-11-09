@@ -1,0 +1,78 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2013/</link>
+		<atom:link href="http://m2i3.com/blogue/2013/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Dis maman, pourquoi est-ce que le ciel est bleu?</title>
+			<link>http://m2i3.com/blogue/2013/2013-02-pourquoi-le-ciel-est-bleu/</link>
+			<description>&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Il y a bien des questions qu'un enfant peut demander mais aucune aussi puissante que la questions &quot;pourquoi&quot;. Vous connaissez cette phase où les enfants qui nous entoure vont demander &quot;pourquoi&quot; sur à peu près tous les sujets possibles et imaginables (et même certains qu'on préférerait ne pas imaginer). Cette question est tellement importante que Toyota l'a même intégré à son propre processus de troubleshooting (&quot;élimination de problème&quot;) sous la forme des cinq pourquoi (&quot;5 whys&quot;). &lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;La méthode fonctionne ailleurs qu'en résolution de problème. C'est en fait un de mes outils préférés en analyse puisqu'il nous permet de creuser une demande, une motivation, un problème, la raison derrière toute demande (enfin pour autant que les deux parties soient honnêtes et connaissantes). Je ne vous cacherai pas que se faire demander à mainte reprise &quot;mais, pourquoi&quot; peut être très frustrant (n'importe quel parent peut vous le confirmer). Ceci-dit, le jeu en vaut la chandelle, puisqu'au final vous obtiendriez une situation claire et surtout libre de toutes idées préconçues.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Bien sûr il faut un peu de bonne volonté pour y arriver.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Prenons un exemple hypothétique:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;j'aimerais que le fond de ma page soit rose avec du bling 	bling qui bouge&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;pourquoi?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;parce que rose c'est la couleur de ma compagnie et que je veux 	du rose sur le site web&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;d'accord et le bling bling?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;parce que juste rose ça va faire trop simple et que le fond 	d'une page c'est comme un mur et que ça doit être peinturé pour 	être agréable&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;comme un mur? pourquoi pensez-vous cela?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;je l'ai lu quelque part&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;et le rose et le bling bling, ils viennent d'où?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;parce que je vends des accessoires de mode pour de jeunes 	filles et que le rose c'est féminin et jeune. tout comme le bling 	bling&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;La quantité d'information obtenu dans une telle conversation est énorme. Le potentiel d'éducation aussi. Le designer peut maintenant éduquer sur l'importance de ne pas distraire le visiteur sur les produits vendus et la transaction d'achat. Il a aussi obtenu une montagne d'information sur l'âge, le style de la clientèle visée. Et, au final, que le fond de la page devienne rose pétant (ou pas), comme designer vous avez maintenant en main beaucoup d'information pour intégrer et mieux rejoindre la clientèle que si vous vous étiez arrêté à la première question.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Comme client, être la cible de ces questions peut sembler désagréable et dans le fond ça l'est puisqu'on revisite alors des informations acquises depuis longtemps. Cependant il faut garder en tête que le designer et concepteur de votre site web ne connaît pas tout de votre entreprise et de votre mission. Il faut bien l'éduquer un peu sur ce qui vous a amené à choisir telle couleur. Au final vous risquez même d'apprendre ou même de redécouvrir quelque chose d'important sur votre entreprise.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Comme mon père disait: &quot;il n'y a pas de questions stupides&quot;. Bon, dans les faits il y en a, mais vous comprenez mon point.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Tous les aspects d'un design et d'un site web doivent être analysé et creusé à leur motivation de base. Chaque requête ausculté sur tous ses angles. C'est la seule façon de savoir si on tiens quelque chose de solide ou simplement un &quot;on va mettre un chaton, c'est beau un chaton, j'adore les chatons&quot;. &lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Il y a un risque à suivre la logique et à trop creuser un design. Premièrement, parce qu'un design fait souvent appel à l'émotion et que les gens vont réagir différemment aux couleurs et polices. Il y a aussi la problématique des connaissances. La personne qui travaille avec vous ne connaît peut être pas les raisons profondes. En fait, des fois, il n'y a tout simplement pas de raisons ou cette dernière est tellement ridicule qu'on va préférer la garder secrète. L'honnêteté est primordiale dans un tel processus et répondre: &quot;je ne sais pas&quot; est tout à fais acceptable.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Ceci-dit, il y a d'autres méthodes pour obtenir un design solide. L'expérimentation et les tests A/B font partie des outils permettant au designer de créer une expérience utilisateur qui va supporter les objectifs d'affaires. Et n'oublions pas qu'il n'est pas le seul à pouvoir demander &quot;pourquoi&quot;. En tant que client vous pouvez et devriez questionner les choix de votre designer.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Alors, pourquoi est-ce que le ciel est bleu? Une question toute anodine, entendue des milliers de fois. Et pourtant, l'outil de design et de conception le plus important que l'on possède.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Fri, 01 Mar 2013 07:15:17 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2013/2013-02-pourquoi-le-ciel-est-bleu/</guid>
+		</item>
+		
+		<item>
+			<title>Retourner aux sources du mouvement agile</title>
+			<link>http://m2i3.com/blogue/2013/2013-01-retourner-aux-sources-du-mouvement-agile/</link>
+			<description>&lt;p&gt;Notre site comporte une &lt;a href=&quot;http://m2i3.com/notre-entreprise/manifeste-agile/&quot;&gt;version française du manifeste pour le développement de logiciel Agile&lt;/a&gt; et après un mois dans la nouvelle année je crois qu'il est important de le remettre à l'ordre du jour. Pas parce que je doute de la qualité du travail de mes collègues qui travaillent avec SCRUM mais bien parce q'un retour au sources s'impose.&lt;/p&gt;
+&lt;p&gt;Les signataires du manifeste ont réfléchis longtemps aux valeurs du manifeste pour rendre le développement logiciel plus viable, plus durable et plus humain. Personnellement je vois dans ce manifeste le rappel qu'en tant que profession nous en sommes encore au stade du maître-compagnon-apprenti. Nous avons formalisé et codifié beaucoup d'aspects de notre métier mais il y a tellement encore à découvrir sur les dynamiques du développement logiciel qu'il me semble encore trop tôt pour adopter un comportement et des méthodologies tirées de l'ingénierie.&lt;/p&gt;
+&lt;p&gt;Et même si nous en étions arrivés à ce stade le manifeste redonne une dimension humaine nécessaire à notre travail. Il tient compte des incessants changements propre aux processus d'apprentissages (même en 2013). &lt;/p&gt;
+&lt;p&gt;Je réinscrit donc la version officiel (en français) du manifeste comme un testament à &lt;a href=&quot;http://agilemanifesto.org/iso/fr/principles.html&quot;&gt;ses principes&lt;/a&gt;: &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les individus et leurs interactions&lt;/strong&gt; plus que les processus et les outils&lt;br/&gt;&lt;strong&gt;Des logiciels opérationnels&lt;/strong&gt; plus qu’une documentation exhaustive&lt;br/&gt;&lt;strong&gt;La collaboration avec les clients&lt;/strong&gt; plus que la négociation contractuelle&lt;br/&gt;&lt;strong&gt;L’adaptation au changement&lt;/strong&gt; plus que le suivi d’un plan&lt;/p&gt;
+&lt;p&gt;(source: &lt;a href=&quot;http://agilemanifesto.org/iso/fr/&quot;&gt;http://agilemanifesto.org/iso/fr/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt; Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Fri, 25 Jan 2013 07:18:49 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2013/2013-01-retourner-aux-sources-du-mouvement-agile/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

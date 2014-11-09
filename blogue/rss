@@ -1,0 +1,427 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/</link>
+		<atom:link href="http://m2i3.com/blogue/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Votre site web est trop lourd</title>
+			<link>http://m2i3.com/blogue/2014/2014-01-votre-site-web-est-trop-lourd/</link>
+			<description>&lt;p&gt;J'ai eu une drôle de discussion hier sur le poids d'un site web et du temps nécessaire pour l'afficher. Mes amis me disaient: &quot;oui mais visuellement c'est quand même extraordinaire&quot; et ma position était: &quot;peut-être, mais ça prends trop de temps, c'est lourd et ça génère des erreurs inutilement; faut pas juste être beau dehors, mais en dedans aussi&quot;.&lt;/p&gt;
+&lt;p&gt;Bon, c'est vrai que nos connexions à l'internet n'ont jamais été aussi rapide (J'ai même vu récemment qu'ils ont réussi à obtenir une connexion à 54 Mbps sur un téléphone intelligent en Belgique... rapide comparé au 20 Mbps que j'ai à la maison). Même nos ordinateurs, nos téléphones sont de plus en plus puissants.&lt;/p&gt;
+&lt;p&gt;Alors, pourquoi est-ce que je critique? Parce que tout n'est pas aussi rose que nous aimerions.&lt;/p&gt;
+&lt;p&gt;Vous avez probablement jamais entendu parler du terme &quot;neutralité du net&quot; . C'est un concept qui date de l'aube de l' Internet qui veut dire que toutes les compagnies qui sont en charge du traffic de l'internet se doivent d'acheminer le contenu rapidement, sans pénalité, et ce, quel que soit la nature, la source et la destination du contenu. Vous avez déjà entendu parler des rumeurs sur Bell Canada qui pénalisait le contenu des sites hébergés ailleur que sur leur réseau. Eh bien, selon cette rumeur, Bell Canada ne respecterait pas la &quot;neutralité du net&quot; puisqu'un site web hébergé sur le réseau de Bell Canada versus le même site web hébergé ailleur prendrait beaucoup plus de temps à visionner s'il est hébergé ailleur que chez Bell Canada.&lt;/p&gt;
+&lt;h2&gt;Récemment, les choses ont changées&lt;/h2&gt;
+&lt;p&gt;Le 15 Janvier ,certaines sociétés nord-américaines (Verizon étant l'un d'entre elles) ont remporté une grande bataille contre la neutralité du net (pour être technique un appel à la cour a été rejeté). Ce qui signifie que les entreprises vont très bientôt commencer à changer la priorité de certains contenus selon leurs propres intérêts. Qu'est-ce que cela signifie pour vous? Eh bien, simplement, peu importe la vitesse de votre connexion Internet, si le film, la chanson, une page web ,un logiciel que vous tentez de télécharger ne répond pas aux règles de cette compagnie, eh bien, il faudra plus de temps pour le télécharger.&lt;/p&gt;
+&lt;p&gt;Vous l'ignorez probablement, mais lorsque vous affichez une page Web ou un film en ligne, le contenu passe par le réseau de nombreuses sociétés comme Verizon, Rogers, Bell et Vidéotron. Chacune de ces sociétés contrôle la vitesse et la priorité du contenu qui transite par leur réseau. Si ces sociétés peuvent choisir ce qui transite rapidement et ce qui se transite lentement, au final, peu importe qui est votre fournisseur d'accès Internet ou l'emplacement de votre site web, vous devrez attendre plus longtemps avant d'accéder à votre contenu.&lt;/p&gt;
+&lt;p&gt;Certaines de ces sociétés sont prêtes et offrent déjà d'accélérer votre contenu pour un prix assez élevé. Si vous êtes Facebook, Google ou Amazon ce ne sera pas un problème puisque vous pouvez vous permettre de payer plus et que vous êtes en mesure de négocier un prix de volume.&lt;/p&gt;
+&lt;p&gt;Mais pour vous et moi? Je n'en suis pas trop sûr. Donc, en abandonnant la neutralité du Net, nous créons un plus grand gouffre entre les grandes compagnies et les petites entreprises. Cette situation rendra plus difficile pour les petites entreprises qui n'ont pas des moyens énormes de se démarquer sur le web par rapport aux mastodontes du web.&lt;/p&gt;
+&lt;h2&gt;La page au coeur de la discussion&lt;/h2&gt;
+&lt;p&gt;Tout d'abord, allez jeter un oeil à la page qui a lancé le débat : &lt;a href=&quot;http://discover.store.sony.com/be-moved/&quot;&gt;http://discover.store.sony.com/be-moved/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Soyons d'accord, visuellement c'est génial. Mais, côté architecture et utilisation des ressources c'est mauvais, très mauvais.&lt;/p&gt;
+&lt;p&gt;Cette page requiert à elle seule 50 Mo de bande passante pour télécharger. En comparaison, un épisode de Dexter d'une heure sur Netflix requiert environ 700 Mo pour être visionné. Cette page, que vous consulterez en 2-3 minutes, est donc seulement 14 fois plus petite que 60 minutes de contenu. Et à la différence de l'épisode de Dexter le téléchargement doit être complété dès le début pour être utilisable.&lt;/p&gt;
+&lt;p&gt;Ça c'est sur un web rapide. Qu'en sera-t-il lorsque le web sera à vitesses multiples?&lt;/p&gt;
+&lt;p&gt;Cette page à aussi d'autres problèmes. Le forfait tout compris de Vidéotron mobile (pour 59,95$ par mois) permet de 1 Go de données; vous pouvez donc consulter une page similaire 20 fois dans un mois avant de dépasser votre bande passante mensuelle (et encourir des frais supplémentaires). Chez Bell, le forfait pour l'iPad de 30 jours est de 5 Go de données (pour 35 $ par mois); une telle page ne pourra être visualisée que 102 fois dans un mois.&lt;/p&gt;
+&lt;p&gt;Bon, c'est vrai la page que j'ai pris en exemple est très lourde. Le poids moyen des pages Web en 2013 est en fait de 1,25 Mo. Il s'agit d'une augmentation de 30% par rapport au poids moyen de 2012. Reste que la page moyenne est seulement 50 fois plus légerte que l'exemple de Sony.&lt;/p&gt;
+&lt;p&gt;Pourrions-nous faire plus petit et plus rapide? Oui! Oh que oui!&lt;/p&gt;
+&lt;p&gt;Devons-nous sacrifier ce qui est beau pour avoir un web efficace, rapide et moins dispendieux? Non, ce n'est pas nécessaire. Nos sites web peuvent être beau en dehors comme en dedans. C'est simple. Il s'agit de compresser le contenu, enlever les trucs inutiles, utiliser des sprites. Il y a des centaines de façon de permettre à un site web d'aller plus vite. Le problème c'est que le site de Sony est donné en exemple de ce qui est beau et que la beaucoup de nouveaux sites suivent cet exemple.&lt;/p&gt;
+&lt;h2&gt;Ce qu'il faut retenir&lt;/h2&gt;
+&lt;p&gt;La tendance à avoir des sites Web plus gros, combinés avec les modifications législatives qui se passent en ce moment sont une recette pour un Web beaucoup plus lent et un environnement où il sera beaucoup plus difficile pour les petites entreprises de rivaliser contre les grandes entreprises. Même sans ces changements, il est faux de croire que tout le monde, partout, a des connexions Internet aussi rapide que les concepteurs web et les social-geeks. Beaucoup de gens ne peuvent se d'avoir un accès rapide, mais pratiquement tout le monde à besoin d'accéder au contenu sur internet.&lt;/p&gt;
+&lt;p&gt;La bonne nouvelle c'est que vous pouvez faire quelque chose à ce niveau. Assurez-vous que les images que vous mettez en ligne sont aussi petites que possible, enlever les trucs inutiles, &lt;a href=&quot;http://m2i3.com/contactez-nous/&quot;&gt;embauchez M2i3 pour vous aider à le faire&lt;/a&gt;. De cette façon, nous pourrons tous profiter d'une meilleure expérience en ligne.&lt;/p&gt;
+&lt;p&gt;-- Jean-Marc&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;p.s. Vous avez remarqué que je n'ai pas traité du nombre de fichiers téléchargés. Quel est le problème avec ce nombre? Très simplement, vous savez le court délai qui se produit lorsque vous ouvrez un site Web? Ce délai s'appelle de la latence. Chaque fichier qu'on télécharge sur un site web implique un petit peu de latence. Que signifie un millier de fichiers en termes d'expérience de web? Beaucoup, beaucoup de latence.&lt;/p&gt;</description>
+			<pubDate>Thu, 16 Jan 2014 07:50:46 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2014/2014-01-votre-site-web-est-trop-lourd/</guid>
+		</item>
+		
+		<item>
+			<title>Dis maman, pourquoi est-ce que le ciel est bleu?</title>
+			<link>http://m2i3.com/blogue/2013/2013-02-pourquoi-le-ciel-est-bleu/</link>
+			<description>&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Il y a bien des questions qu'un enfant peut demander mais aucune aussi puissante que la questions &quot;pourquoi&quot;. Vous connaissez cette phase où les enfants qui nous entoure vont demander &quot;pourquoi&quot; sur à peu près tous les sujets possibles et imaginables (et même certains qu'on préférerait ne pas imaginer). Cette question est tellement importante que Toyota l'a même intégré à son propre processus de troubleshooting (&quot;élimination de problème&quot;) sous la forme des cinq pourquoi (&quot;5 whys&quot;). &lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;La méthode fonctionne ailleurs qu'en résolution de problème. C'est en fait un de mes outils préférés en analyse puisqu'il nous permet de creuser une demande, une motivation, un problème, la raison derrière toute demande (enfin pour autant que les deux parties soient honnêtes et connaissantes). Je ne vous cacherai pas que se faire demander à mainte reprise &quot;mais, pourquoi&quot; peut être très frustrant (n'importe quel parent peut vous le confirmer). Ceci-dit, le jeu en vaut la chandelle, puisqu'au final vous obtiendriez une situation claire et surtout libre de toutes idées préconçues.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Bien sûr il faut un peu de bonne volonté pour y arriver.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Prenons un exemple hypothétique:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;j'aimerais que le fond de ma page soit rose avec du bling 	bling qui bouge&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;pourquoi?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;parce que rose c'est la couleur de ma compagnie et que je veux 	du rose sur le site web&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;d'accord et le bling bling?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;parce que juste rose ça va faire trop simple et que le fond 	d'une page c'est comme un mur et que ça doit être peinturé pour 	être agréable&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;comme un mur? pourquoi pensez-vous cela?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;je l'ai lu quelque part&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Designer: 	&quot;et le rose et le bling bling, ils viennent d'où?&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p style=&quot;margin-right: 0.1in; margin-top: 0.04in; margin-bottom: 0.04in;&quot;&gt;Client: 	&quot;parce que je vends des accessoires de mode pour de jeunes 	filles et que le rose c'est féminin et jeune. tout comme le bling 	bling&quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;La quantité d'information obtenu dans une telle conversation est énorme. Le potentiel d'éducation aussi. Le designer peut maintenant éduquer sur l'importance de ne pas distraire le visiteur sur les produits vendus et la transaction d'achat. Il a aussi obtenu une montagne d'information sur l'âge, le style de la clientèle visée. Et, au final, que le fond de la page devienne rose pétant (ou pas), comme designer vous avez maintenant en main beaucoup d'information pour intégrer et mieux rejoindre la clientèle que si vous vous étiez arrêté à la première question.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Comme client, être la cible de ces questions peut sembler désagréable et dans le fond ça l'est puisqu'on revisite alors des informations acquises depuis longtemps. Cependant il faut garder en tête que le designer et concepteur de votre site web ne connaît pas tout de votre entreprise et de votre mission. Il faut bien l'éduquer un peu sur ce qui vous a amené à choisir telle couleur. Au final vous risquez même d'apprendre ou même de redécouvrir quelque chose d'important sur votre entreprise.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Comme mon père disait: &quot;il n'y a pas de questions stupides&quot;. Bon, dans les faits il y en a, mais vous comprenez mon point.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Tous les aspects d'un design et d'un site web doivent être analysé et creusé à leur motivation de base. Chaque requête ausculté sur tous ses angles. C'est la seule façon de savoir si on tiens quelque chose de solide ou simplement un &quot;on va mettre un chaton, c'est beau un chaton, j'adore les chatons&quot;. &lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Il y a un risque à suivre la logique et à trop creuser un design. Premièrement, parce qu'un design fait souvent appel à l'émotion et que les gens vont réagir différemment aux couleurs et polices. Il y a aussi la problématique des connaissances. La personne qui travaille avec vous ne connaît peut être pas les raisons profondes. En fait, des fois, il n'y a tout simplement pas de raisons ou cette dernière est tellement ridicule qu'on va préférer la garder secrète. L'honnêteté est primordiale dans un tel processus et répondre: &quot;je ne sais pas&quot; est tout à fais acceptable.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Ceci-dit, il y a d'autres méthodes pour obtenir un design solide. L'expérimentation et les tests A/B font partie des outils permettant au designer de créer une expérience utilisateur qui va supporter les objectifs d'affaires. Et n'oublions pas qu'il n'est pas le seul à pouvoir demander &quot;pourquoi&quot;. En tant que client vous pouvez et devriez questionner les choix de votre designer.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;Alors, pourquoi est-ce que le ciel est bleu? Une question toute anodine, entendue des milliers de fois. Et pourtant, l'outil de design et de conception le plus important que l'on possède.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0.21in;&quot;&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Fri, 01 Mar 2013 07:15:17 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2013/2013-02-pourquoi-le-ciel-est-bleu/</guid>
+		</item>
+		
+		<item>
+			<title>Retourner aux sources du mouvement agile</title>
+			<link>http://m2i3.com/blogue/2013/2013-01-retourner-aux-sources-du-mouvement-agile/</link>
+			<description>&lt;p&gt;Notre site comporte une &lt;a href=&quot;http://m2i3.com/notre-entreprise/manifeste-agile/&quot;&gt;version française du manifeste pour le développement de logiciel Agile&lt;/a&gt; et après un mois dans la nouvelle année je crois qu'il est important de le remettre à l'ordre du jour. Pas parce que je doute de la qualité du travail de mes collègues qui travaillent avec SCRUM mais bien parce q'un retour au sources s'impose.&lt;/p&gt;
+&lt;p&gt;Les signataires du manifeste ont réfléchis longtemps aux valeurs du manifeste pour rendre le développement logiciel plus viable, plus durable et plus humain. Personnellement je vois dans ce manifeste le rappel qu'en tant que profession nous en sommes encore au stade du maître-compagnon-apprenti. Nous avons formalisé et codifié beaucoup d'aspects de notre métier mais il y a tellement encore à découvrir sur les dynamiques du développement logiciel qu'il me semble encore trop tôt pour adopter un comportement et des méthodologies tirées de l'ingénierie.&lt;/p&gt;
+&lt;p&gt;Et même si nous en étions arrivés à ce stade le manifeste redonne une dimension humaine nécessaire à notre travail. Il tient compte des incessants changements propre aux processus d'apprentissages (même en 2013). &lt;/p&gt;
+&lt;p&gt;Je réinscrit donc la version officiel (en français) du manifeste comme un testament à &lt;a href=&quot;http://agilemanifesto.org/iso/fr/principles.html&quot;&gt;ses principes&lt;/a&gt;: &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Les individus et leurs interactions&lt;/strong&gt; plus que les processus et les outils&lt;br/&gt;&lt;strong&gt;Des logiciels opérationnels&lt;/strong&gt; plus qu’une documentation exhaustive&lt;br/&gt;&lt;strong&gt;La collaboration avec les clients&lt;/strong&gt; plus que la négociation contractuelle&lt;br/&gt;&lt;strong&gt;L’adaptation au changement&lt;/strong&gt; plus que le suivi d’un plan&lt;/p&gt;
+&lt;p&gt;(source: &lt;a href=&quot;http://agilemanifesto.org/iso/fr/&quot;&gt;http://agilemanifesto.org/iso/fr/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt; Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Fri, 25 Jan 2013 07:18:49 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2013/2013-01-retourner-aux-sources-du-mouvement-agile/</guid>
+		</item>
+		
+		<item>
+			<title>Fin des versions gratuites de Google Apps</title>
+			<link>http://m2i3.com/blogue/2012/2012-12-fin-versions-gratuites-google-apps/</link>
+			<description>&lt;p&gt;Pendant le weekend Google a fait une annonce qui en choquerons plusieurs d'entre-vous. Effectivement vous avez très certainement reçu un courriel de Google vous informant, qu'effectif immédiatement, il n'était plus possible de s'inscrire à la version gratuite de Google Apps.&lt;/p&gt;
+&lt;p&gt;Ce changement n'affecte que les clients qui sont actuellement en période d'essai. Si vous êtes déjà sur la version gratuite vous pouvez continuer à l'utiliser sans frais.&lt;/p&gt;
+&lt;p&gt;Ce changement par Google a pour but de mieux servir les entreprises et améliorer la qualité des services à votre disposition.&lt;/p&gt;
+&lt;p&gt;Le nombre d'outils à la disposition des clients d'affaire est impressionnante (intégration aux utilisateurs du réseau, archivage des courriels à long terme pour les audits). Et c'est sans compter un service clientèle 24/7, une boite de courriel de 25GB, 99.9% de disponibilité et tout ça pour 5$/utilisateur/mois (i.e. moins que le coût du café que beaucoup achète quotidiennement).&lt;/p&gt;
+&lt;p&gt;Comme mentionné plus haut, si vous êtes à la version gratuite, vous pouvez continuer à l'utiliser sans problème. Si vous désirez passer à la version payante nous sommes à votre disposition n'hésitez pas à &lt;a href=&quot;mailto:info+google-apps-blog@m2i3.com&quot;&gt;nous contacter&lt;/a&gt; (étant revendeur authorisé pour Google Apps).&lt;/p&gt;</description>
+			<pubDate>Mon, 10 Dec 2012 09:24:11 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-12-fin-versions-gratuites-google-apps/</guid>
+		</item>
+		
+		<item>
+			<title>Ce que les statistiques sur les visiteurs ne vous diront jamais</title>
+			<link>http://m2i3.com/blogue/2012/2012-11-ce-que-les-statistiques-sur-les-visiteurs-ne-vous-diront-jamais/</link>
+			<description>&lt;p&gt;Je vais partager un secret avec vous. Les statistiques que vous récoltez en ce moment sur votre site web vous mentent. Du moins, ils ne vous disent pas toute la vérité. Un visiteur n'est jamais qu'un visiteur. Même si vous utilisez Google Analytics et que vous savez de quel pays viennent ces visiteurs, combien de sont des visiteurs récurrents ou combien correspondent à des visites uniques.&lt;/p&gt;
+&lt;p&gt;Bon j'exagère peut être un peu. Si vous avez un site de contenu (blogue, site d'informatoin) et que vous voyez votre nombre de visiteur augmenter à tous les mois et que conservez un pourcentage de visiteurs récurrents constant vous savez que vous attirez et retenez votre auditoire. &lt;/p&gt;
+&lt;p&gt;Autrement, vous ne savez pas réellement qui sont ces gens. Ils vous visitent effectivement mais est-ce qu'ils vous rapproche de votre objectif?&lt;/p&gt;
+&lt;p&gt;Pour faire un parallèle, un visiteur sur un site web c'est comme un passant dans un commerce de détail. Tant qu'il n'a pas un article en main et qu'il n'est pas passé à la caisse le passant n'est pas un client. C'est pour cette raison que les commerçants comptent en général le nombre de vente qu'ils font plutôt que le nombre de personne qui franchissent la porte pour évaluer l'efficacité d'une campagne publicitaire ou d'un article à leur sujet dans un journal.&lt;/p&gt;
+&lt;p&gt;Sur le web on parle alors de définir un entonnoir (funnel en anglais). Les commerces qui ont pieds sur rue le font aussi même s'ils n'emploient pas un aussi joli terme. Ils pourraient compter le nombre de passants versus le nombre de personnes qui franchissent la porte du commerce versus le nombre de personne qui s'approche de l'article à vendre versus le nombre de personnes qui en achètent un et qui deviennent de ce fait, un client.&lt;/p&gt;
+&lt;p&gt;Comment faire alors? Très simplement, créant différents points de contrôle sur votre site web. Voici un exemple pratique. Imagisons que vous voulez connaître combien de gens sont intéressés à votre nouveau service de surveillance de site web.  Vous écrivez alors une entrée dans votre blogue ou une page sur votre site web. L'amorce sera visible sur votre page d'accueil (si vous êtes arrivé ici dans mon blogue c'est que l'amorce de la page principale était suffisant pour vous inciter à continuer à lire, ou encore vous l'avez trouvé à travers une recherche ce qui en démontre l'importance relative). L'important c'est que votre visiteur s'est déjà qualifié un peu. Il est arrivé à votre texte qui parle de ce superbe service. Vers la fin de l'article vous annoncez la date où il sera disponible.&lt;/p&gt;
+&lt;p&gt;Beaucoup d'entre-vous s'arrêteraient là et c'est une grave erreur. Votre visiteur vous à lu (peut-être qu'il s'est arrêté en plein milieu) mais est-t'il intéressé? Pour le savoir à coup sûr, proposez lui de s'inscrire à votre liste de diffusion où vous l'informerez au moment où le service sera disponible. Proposez lui même un rabais pour rendre l'offre encore plus intéressante. Ceci-dit ne brisez jamais la confiance d'un client. S'il vous donne ses coordonnées ce n'est pas pour que vous les vendiez et ce n'est pas pour se faire contacter pour d'autres services que celui pour lequel il s'est inscrit.&lt;/p&gt;
+&lt;p&gt;Une fois inscrit, envoyez-lui un premier courriel pour lui laisser savoir qu'il est effectivement inscrit et que vous le recontacterez au moment du pré-lancement de votre service. Avec son rabais à la clef.&lt;/p&gt;
+&lt;p&gt;À ce point, vous me direz: &quot;C'est bien beau tout ça mais on parle quand même de créer une liste de diffusion, d'envoyer des courriels, de faire des pages multiples. C'est compliqué non??&quot; &lt;/p&gt;
+&lt;p&gt;Ce à quoi je réponds: &quot;Pas du tout&quot;&lt;/p&gt;
+&lt;p&gt;Voici en cinq étapes comment y arriver:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Vous &lt;a href=&quot;http://eepurl.com/pQGFj&quot;&gt;ouvrez un compte sur MailChimp&lt;/a&gt;. Ils se chargent de gérer votre liste de distribution. Ils s'assurent aussi que vous respectiez les normes en matière de SPAM. &lt;/li&gt;
+&lt;li&gt;Créez une liste de distribution. Cette étape vous permet de décrire ce que vous voulez faire avec l'information ainsi que les adresses de courriel pour vous contacter. &lt;/li&gt;
+&lt;li&gt;Dans le processus de création votre liste de distribution vous crééez aussi le formulaire d'abonnement. N'hésitez pas à lui donner un visuel qui corresponds à votre site web.&lt;/li&gt;
+&lt;li&gt;Finalement, placez le lien à la fin de votre blogue, texte, bref, sur votre site web.&lt;/li&gt;
+&lt;li&gt;Au moment de lancer votre produit, vous retournez sur &lt;a href=&quot;http://eepurl.com/pQGFj&quot;&gt;MailChimp&lt;/a&gt; et vous envoyez un courriel à tous vos abonnés.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Et voilà! Vous savez maintenant combien de vos visiteurs sont des clients potentiels.&lt;/p&gt;
+&lt;p&gt;Si la taille de votre liste augmente rapidement vous savez avoir écrit correctement pour rejoindre les bon clients. Sinon, c'est encore très simple. Variez votre contenu, l'emplacement des liens dans la page. Le nombre de lien d'inscription. Ne faites pas trop de changements à la fois. Vous voulez mesurer l'impact de chaque changement pour revenir en arrière si un changement n'a pas l'effet escompté.&lt;/p&gt;
+&lt;p&gt;À ce point, vos visiteurs ne sont plus que de simples flanneurs puisque vous serez capable de mesure si vous vous rapprochez de votre objectif.&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;
+&lt;p&gt;Vous aimeriez mieux suivre vos visiteurs et aimeriez qu'on vous aide à y arriver plus rapidement. &lt;a href=&quot;mailto:info+2012-11-statistique-WxsjkL@m2i3.com&quot;&gt;Contactez-vous directement par courriel&lt;/a&gt; et nous nous ferons un plaisir de voir ce qui peut être fait.&lt;/p&gt;
+&lt;p&gt;Vous voulez avoir d'autres trucs pour vous aider à gérer votre entreprise dans les nuages? &lt;a href=&quot;http://eepurl.com/sHdRj&quot;&gt;Inscrivez-vous à notre infolettre&lt;/a&gt;, livrée le 15 de chaque mois, directement dans votre boîte de courriel.&lt;/p&gt;</description>
+			<pubDate>Thu, 29 Nov 2012 07:17:49 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-11-ce-que-les-statistiques-sur-les-visiteurs-ne-vous-diront-jamais/</guid>
+		</item>
+		
+		<item>
+			<title>Il y a des choses qu&#39;on ne peut se permettre d&#39;oublier</title>
+			<link>http://m2i3.com/blogue/2012/2012-11-il-y-a-des-choses-qu-on-ne-peut-se-permettre-d-oublier/</link>
+			<description>&lt;p&gt;Il y a des choses qu'on ne peut se permettre d'oublier - c'est la réalisation à laquelle je suis arrivé au milieu de 2011 en pensant à ma mère et belle-mère qui vieillissent. La prise de médicament semble être une chose inévitable passé un certain âge. Notre corps fonctionne moins bien et la réponse de la science moderne c'est, entre-autre, la prise régulière d'une médication ou une autre. Le mot clef c'est justement ça: &quot;régulière&quot;. Étant un &quot;oublieux&quot; de nature (j'suis du genre à mettre une alarme sur mon téléphone quand j'ai une prescription à prendre) j'ai pensé à tous ceux que je connais qui ne sont pas intéressés par la technologie comme je le suis.&lt;/p&gt;
+&lt;p&gt;Soyons honnête, ce n'est pas tout le monde qui sait qu'on peut configurer plusieurs alarmes sur leur iPhone (ou qui en ont l'intérêt). C'est pour cette raison que j'ai créé le &lt;a href=&quot;http://www.rappel-m.com&quot;&gt;service de rappel automatisé Rappel-M&lt;/a&gt; et que le service est conçu pour fonctionner avec un téléphone régulier.&lt;/p&gt;
+&lt;p&gt;L'idée, pour en revenir à ma mère, c'est que nous sommes habitués à répondre au téléphone, à regarder nos messages textes. C'est presqu'un réflexe. Alors pourquoi ne pas en tirer avantage. Surtout qu'à la recherche j'ai trouvé des services qui permettent d'interragir verbalement avec la personne. Pas besoin de pitonner, le service téléphone nous parle et réagit quand on lui réponds.&lt;/p&gt;
+&lt;p&gt;Le projet a donc commencé à l'extérieur d'M2i3, un projet personnel, une exploration à savoir si c'était possible de permettre à ma belle-mère qui n'a jamais touché à un ordinateur de sa vie de profiter des avancées technologiques modernes à travers un appareil qu'elle connaît très bien: son téléphone. Ça peut sonner cliché. En fait ça l'est probablement. Mais c'est l'idée de départ.&lt;/p&gt;
+&lt;p&gt;Maintenant que le service est stable, M2i3 va en assurer le support technique et l'entretiens. C'est un projet qui ouvre des portes immenses quand à l'offre de service de M2i3, autant au niveau de la communication téléphonique, que pour les SMS. Des façons intéressantes et différentes de rejoindre les gens, de leur donner accès à de l'information et des services.&lt;/p&gt;
+&lt;p&gt;Je vous invite donc à essayer &lt;a href=&quot;http://www.rappel-m.com&quot;&gt;Rappel-M&lt;/a&gt;. Le service est disponible en français et en anglais (sous le nom &lt;a href=&quot;http://www.remind-m.com&quot;&gt;Remind-M&lt;/a&gt;). Il fonctionne avec les téléphones de maison bien ordinaire, les téléphones intelligents et même le courriel.&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Sun, 11 Nov 2012 11:40:13 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-11-il-y-a-des-choses-qu-on-ne-peut-se-permettre-d-oublier/</guid>
+		</item>
+		
+		<item>
+			<title>L&#39;art de de ne pas mettre tous ses œufs dans le même panier</title>
+			<link>http://m2i3.com/blogue/2012/2012-10-l-art-de-de-ne-pas-mettre-tous-ses-oeufs-dans-le-meme-panier/</link>
+			<description>&lt;p&gt;Vous connaissez le proverbe: &quot;il ne faut pas mettre tous ses œufs dans le même panier&quot;. Pourtant, l'adage ne semble pas être appliqué souvent lorsqu'on crée une présence web. Combien de fournisseurs, de partenaires et d'amis placent leur site web, courriel, gestion de nom sur le même serveur en hébergement partagé sans se questionner de la robustesse du service.&lt;/p&gt;
+&lt;p&gt;C'est vrai que c'est plus compliqué. Qu'il faut faire affaire avec plus d'un fournisseur ou bien accepter de payer un montant non-négligeable pour y arriver. Être rapide, résistant et résiliant se paie, parfois même, très cher. Ce qu'il ne faut pas oublier dans l'équation c'est le coût rattaché à un service non disponible.&lt;/p&gt;
+&lt;p&gt;Déterminer ce coût est relativement simple. Comme on dit souvent, se questionner c'est y répondre.&lt;/p&gt;
+&lt;h3&gt;&quot;combien de temps puis-je fonctionner sans X?&quot;&lt;/h3&gt;
+&lt;p&gt;Cette première question est simple. Remplacez X par courriel, site web, plateforme de commerce électronique. La durée devrait être 30 minutes; 1 heure; 2 heures; 3 heures, 1/2 journée, 1 journée, etc.  Cette question vous permettra de valider à quel point votre entreprise est dépendante d'un service web. Plus la durée est courte, plus il est important de s'assurer que ce service ne soit pas indisponible. Ne stressez pas à établir une durée précise.&lt;/p&gt;
+&lt;h3&gt;&quot;combien d'argent est-ce que je perds à l'heure si X n'est pas disponible?&quot;&lt;/h3&gt;
+&lt;p&gt;La seconde question est plus complexe. Cette question vous permet d'établir une valeur financière à l'indisponibilité d'un service. Si faire le calcul à l'heure est impensable, allez-y à la journée ou même à la semaine. L'important c'est de rattacher un montant d'argent au service. Ce montant vous permettra de mieux déterminer le prix que vous êtes prêt à payer un service.&lt;/p&gt;
+&lt;h3&gt;&quot;quelle est la probabilité que X ne soit pas disponible dans l'année qui vient&quot;&lt;/h3&gt;
+&lt;p&gt;Cette question peut sembler complexe à répondre et c'est probablement la plus simple des trois. La majorité des fournisseurs de service rendent cette donnée publique. Il en va de leur crédibilité. Ne vous laissez pas impressionner par une garantie de 99.9% de disponibilité, dans une année ça représente quand même 8 heures où le service va être impossible. Ce pourcentage ne tiens pas toujours compte des pannes puisqu'il est généralement calculé en fonction de la quantité de temps que votre fournisseur aura besoin pour l'entretien régulier du service. Alors, dans les faits, si votre fournisseur vous garantie que son service est disponible à 99.9% vous pouvez assumer que ce dernier le sera entre 99% et 99.9%.&lt;/p&gt;
+&lt;p&gt;À ce point-ci vous vous demandez probablement quel est le lien avec les œufs et le panier. Eh bien, en reprenant l'exemple de l'hébergement partagé, si le serveur est indisponible, il l'est pour votre courriel, votre site web, votre site de e-commerce. Les pertes peuvent s'accumuler très vite.&lt;/p&gt;
+&lt;p&gt;Vous aurez remarqué que je n'ai pas couvert les coûts rattachés à la perte irrémédiable des données. L'exercice est similaire, la durée d'indisponibilité corresponds alors au temps nécessaire pour récupérer (ou même reconstruire) les données perdues. La probabilité est plus difficile à estimer puisqu'elle dépend de plus de facteurs et de la présence (ou absence) d'une copie de sécurité.&lt;/p&gt;
+&lt;p&gt;La bonne nouvelle dans tout ça c'est qu'il coûte moins cher qu'on pense pour avoir une présence web hyper résistante. En utilisant plusieurs fournisseurs, votre site web ou votre courriel pourrait être indisponible; mais la probabilité que les deux services soient indisponible simultanément deviendra alors de l'ordre de l'infiniment petit. Et ce, pour un prix très similaire à de l'hébergement partagé à 5$/mois.&lt;/p&gt;
+&lt;p&gt;Connaissez-vous votre tolérance aux risques rattachés à votre présence web? La réponse ne sera peut être pas agréable. Mais au moins, devant les données vous serez à même de prendre des décisions éclairées.&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;
+&lt;p&gt;p.s. Il va sans dire que M2i3 est disponible pour vous aider à établir votre profil de risque et les actions nécessaires à apporter pour ajuster votre présence web.&lt;/p&gt;</description>
+			<pubDate>Sat, 27 Oct 2012 07:33:20 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-10-l-art-de-de-ne-pas-mettre-tous-ses-oeufs-dans-le-meme-panier/</guid>
+		</item>
+		
+		<item>
+			<title>Faire la vie dure aux hackers en protégeant votre courriel (et une histoire de sous-marin)</title>
+			<link>http://m2i3.com/blogue/2012/2012-10-faire-la-vie-dure-aux-hackers-en-protegeant-votre-compte-courriel/</link>
+			<description>&lt;p&gt;Il y a à peine deux mois, &lt;a href=&quot;http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/&quot;&gt;Mat Honan a vu sa vie numérique entière être détruite à cause de failles chez Amazon et Apple&lt;/a&gt;. Comme ce denier l'explique, il aurait pu se protéger plutôt que de perdre le contenu de son ordinateur personnel, son compte Twitter, son compte de courriel, bref, de perdre sa vie numérique. Pour les curieux, faites en la lecture, l'histoire fait peur, mais revenez vite puisque je vais vous expliquer comment vous protéger (et probablement même simplifier votre présence en ligne). Pour les moins curieux, ça tombe bien, je vais quand même vous expliquer comment vous protéger ici.&lt;/p&gt;
+&lt;p&gt;Faites l'exercice rapidement. Combien de comptes possédez-vous sur internet? Un? Deux? Vous n'êtes pas certains et ça j'en suis sûr.&lt;/p&gt;
+&lt;p&gt;La majorité des gens en possèdent au moins deux : Un compte de courriel et un Facebook. Ce nombre augmente très rapidement si vous considérez les sites d'achats en ligne, les panneaux de contrôles des compagnies de télécommunication comme Bell et Vidéotron ou encore votre site web en Wordpress ou Silverstripe.&lt;/p&gt;
+&lt;p&gt;Tous ces sites exigent de vous identifier avant d'accéder à leur service et c'est une bonne chose. Pourtant, l'internet dans sa forme actuelle ne dispose pas d'une tonne de façon de vous identifier ou de vous acheminer vos mots de passes quand vous les oubliez. Et c'est là que le bât blesse. Le courriel est devenu la pierre angulaire de votre présence web. Si votre compte de courriel est compromis, vous ouvrez toute grande la porte à faire voler votre identité. En perdre l'accès revient à perdre son portefeuille ou son téléphone portable et implique de contacter beaucoup, beaucoup de gens pour leur indiquer vos nouvelles coordonnées et leur prouver (dans le cas de sites commerciaux) que vous êtes bien la personne que vous prétendez être.&lt;/p&gt;
+&lt;p&gt;Sans être devin, j'imagine que certains se disent : &quot;je ne suis pas à risque, j'ai un bon mot de passe&quot;. C'est ce que l'auteur de l'article sur Wired.com avait un bon mot de passe aussi; pourtant la personne qui a compromis tous ces comptes (en plus de détruire les données de son téléphone et son ordinateur personnel) n'a pas eu besoin d'un mot de passe pour y arriver.&lt;/p&gt;
+&lt;p&gt;En sécurité il existe trois éléments principaux pour identifier quelqu'un et sa capacité à accéder un service. Ces trois éléments sont :&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;quelque chose que vous connaissez : un code secret, votre courriel, votre mot de passe, votre nom d'utilisateur, votre NIP;&lt;/li&gt;
+&lt;li&gt;quelque chose que vous possédez : votre carte de crédit, une clef, votre rapport d'impôt;&lt;/li&gt;
+&lt;li&gt;quelque chose que vous êtes : votre ADN, votre voix, vos empreintes digitales, vos yeux.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Si vous remarquez bien, du premier au dernier, la complexité à obtenir et dupliquer un élément de sécurité va en croissant. Il en va de même de la probabilité pour le propriétaire légitime de réaliser la copie ou la perte de l'élément de sécurité. Il est bien plus facile de deviner, noter, copier, un code secret (sans être remarqué) que de répliquer / voler les empreintes digitales de quelqu'un. On augmente aussi le niveau de sécurité lorsqu'on combine des éléments de sécurité de plusieurs catégories. Par exemple votre carte de guichet à puce avec un NIP est beaucoup plus sécuritaire que votre numéro de compte bancaire seul pour protéger votre argent.&lt;/p&gt;
+&lt;p&gt;Revenons aux comptes sur le web et à votre courriel. Combien d'éléments doivent être connu pour accéder à votre courriel? Dans combien de catégories? Combien de ces éléments sont réellement secrets? Dans les faits, la majorité des comptes de courriel sont protégés par un seul élément de sécurité : votre mot de passe. Et les procédures de récupération de mot de passe permettent facilement de le contourner (la démonstration est dans l'article de Wired.com). C'est encore plus vrai que la majorité des procédures d'identification ou de récupération de mot de passe utilisent des éléments de la première catégorie (quelque chose que vous connaissez); éléments qui sont le plus facile à dupliquer et le plus difficile à reconnaître qu'ils ont été compromis.&lt;/p&gt;
+&lt;p&gt;C'est une des raisons pour lesquelles je recommande Google Apps pour les courriels. Ils offrent des fonctions de sécurité qui visent à protéger votre identité et le contenu de votre boite de courriel. La façon la plus simple d'y arriver est d'utiliser l'authentification à facteur multiple. Différents services offrent différentes méthodes mais l'idée est la même: utiliser plus qu'un mot de passe pour vous identifier. Ce que j'ai de Google c'est qu'ils ont développé une petite application qui s'exécute sur votre téléphone intelligent &lt;a href=&quot;https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8&quot;&gt;iPhone/iPod/iPad&lt;/a&gt;  ou &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;amp;hl=fr&quot;&gt;Android&lt;/a&gt; appelé &quot;Google Authenticator&quot;. Cette dernière génère des mots de passes valide pour une durée de 30 secondes. L'application ne vous intéresse pas? Ils peuvent vous envoyer un SMS qui contient ce code lors de la connexion sur un ordinateur non reconnu. Ce que j'aime de l'application &quot;Google Authenticator&quot; c'est qu'elle fonctionne sans connexion réseau comme en voyage et qu'elle fonctionne avec plusieurs fournisseurs de service et même avec votre blogue Wordpress et site Silverstripe.&lt;/p&gt;
+&lt;p&gt;Dans la pratique comment ça fonctionne? Très simplement en fait. Une fois votre nom d'utilisateur et votre mot de passe saisi, Google vous demande alors un code que vous récupérez sur votre téléphone. Vous pouvez sauter cette étape sur votre ordinateur pendant 30 jours pour vous simplifier la vie. Et si vous êtes fan des films de guerres et de sous-marin, vous pouvez même avoir ces codes pré-imprimés sur une feuille de papier (bon ça sonne très Geek mais c'est quand même hyper cool).&lt;/p&gt;
+&lt;p&gt;Et voilà, une fois activé vous avez maintenant un compte beaucoup plus sécurisé puisque vous devez utiliser pour vous identifier de quelque chose que vous connaissez et de quelque chose que vous possédez.&lt;/p&gt;
+&lt;p&gt;Pour l'activer, suivez les instructions dans la &lt;a href=&quot;https://www.google.com/settings/security?hl=fr&quot;&gt;section Sécurité&lt;/a&gt; de votre compte Google. Les étapes sont bien décrites. Une fois cette fonction de sécurité activée il ne vous restera qu'à configurer des &lt;a href=&quot;http://support.google.com/accounts/bin/static.py?hl=fr&amp;amp;guide=1056283&amp;amp;hlrm=fr&amp;amp;page=guide.cs&amp;amp;answer=185833&quot;&gt;mots de passes spécifiques&lt;/a&gt; pour votre téléphone intelligent ou encore votre client de courriel ces derniers ne supportant pas nécessairement la validation en deux étapes. La procédure de sécurisation est différente si vous êtes sur &lt;a href=&quot;https://edit.yahoo.com/commchannel/sec_chal_manage&quot;&gt;Yahoo&lt;/a&gt;. À ce moment, Microsoft n'offre pas cette fonction pour les comptes Hotmail.&lt;/p&gt;
+&lt;p&gt;Une fois habitué à cette procédure vous vous demanderez certainement pourquoi votre institution bancaire n'offre pas l'authentification à facteur multiple et vous vous mettrez certainement en quête d'autre comptes à sécuriser. À ce sujet, si vous connaissez d'autres services qui offrent l'authentification à facteur multiple n'hésitez pas à me le mentionner.&lt;/p&gt;
+&lt;p&gt;p.s. Si vous êtes déjà un client M2i3 et que vous n'arrivez pas à trouver cette fonction dans votre compte Google Apps envoyez-nous un message puisqu'il faut souvent l'activer. De même, n'hésitez pas à me &lt;a href=&quot;mailto:info+google-apps@m2i3.com&quot;&gt;contacter par courriel&lt;/a&gt; si vous désirez transférer les courriels de votre corporation sur Google Apps pour tirer profiter de l'authentification à facteur multiple.&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/all/&quot;&gt;L'article sur Mat Honan et comment il a perdu sa vie numérique [en]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8&quot;&gt;Google Authenticator sur le AppleStore pour le iPhone/iPod/iPad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&amp;amp;hl=fr&quot;&gt;Google Authenticator sur Google play&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/settings/security?hl=fr&quot;&gt;Section Sécurité sur le compte Google pour activer la validation en deux temps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://edit.yahoo.com/commchannel/sec_chal_manage&quot;&gt;Section de sécurité sur Yahoo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 24 Oct 2012 07:10:56 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-10-faire-la-vie-dure-aux-hackers-en-protegeant-votre-compte-courriel/</guid>
+		</item>
+		
+		<item>
+			<title>Comprendre son nom de domaine</title>
+			<link>http://m2i3.com/blogue/2012/2012-08-comprendre-son-domaine/</link>
+			<description>&lt;p&gt;Vous êtes l'heureux propriétaire d'un nom de domaine. La pierre angulaire de votre site web, de votre service de courriel, bref, de votre présence sur internet. Les gens dans la rue vous connaissent sous ce nom. Vous n'êtes pas encore propriétaire d'un domaine? Ne savez pas ce qu'un domaine est? Détromprez-vous, si vous savez ce qu'est google.com, yahoo.com, vous avez une idée de leur importance et de leur valeur. Ce que vous ignorez probablement c'est l'importance des informations qui y sont rattachées.&lt;/p&gt;
+&lt;p&gt;Par exemple, savez-vous que chaque nom de domaine comporte quatre contacts; Mais qu'un seul d'entre eux sert vraiment à démontrer qui en est le propriétaire? Dans les minutes qui suivent je vais vous expliquer ce que chacun des éléments d'un domaine sont et surtout comment vous assurer que vous possédez bien votre nom de domaine.&lt;/p&gt;
+&lt;p&gt;Tout d'abord, à quoi sert un nom de domaine? On peut comparer un nom de domaine à un bottin téléphonique. Cherchez un nom et vous y trouver l'adresse d'une personne, d'une compagnie. Ces adresses et numéros de téléphone vous permettent de les contacter. Et franchement c'est plus facile de se souvenir de &quot;M2i3&quot; que de 1-866-403-5998. Le web fonctionne de la façon similaire. Quand vous entrez un nom de site web, votre navigateur demande alors l'adresse du site et contacte ensuite ce site pour obtenir la page web. On appelle ce service: &quot;résolution de nom de domaine&quot; (ou en anglais DNS, i.e. domain name system).&lt;/p&gt;
+&lt;p&gt;Par ailleurs, tout comme dans un bottin, vous obtiendrez différentes adresses selon que vous désirez envoyer un courriel ou encore afficher leur site web. Le nom de domaine et le système de résolution de nom de domaine permet de vous donner un site web différent selon que vous accédez www.m2i3.com ou demo.m2i3.com. Ces sites peuvent être sur des serveurs différents, comme les départements d'une compagnie peuvent être dans des édifices différents. Le lien entre un nom, un service et une adresse s'appelle enregistrement (record en anglais).&lt;/p&gt;
+&lt;p&gt;Tout comme une entrée dans un bottin téléphonique, un nom de domaine est loué et la durée de la location peut être de plusieurs années. On n'achète pas un nom de domaine comme on achète un fauteuil. On le loue comme son service de téléphone ou de télévision.&lt;/p&gt;
+&lt;p&gt;Chaque nom de domaine sur le web possède aussi quatre contacts, des gens qui ont la responsabilité des multiples aspects de la gestion de ce nom. On y trouve:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Le contact technique (technical contact): c'est le technicien qui est responsable du bon fonctionnement du domaine; la personne qui s'assure que ce dernier soit bien configuré;&lt;/li&gt;
+&lt;li&gt;Le contact de facturation (billing contact): c'est la personne responsable de payer la facture pour le nom de domaine; la personne qui est avisé lorsque la location tombe à échéance;&lt;/li&gt;
+&lt;li&gt;Le contact administratif (administrative contact): c'est la personne qui est responsable de la gestion du domaine; qui est contacté s'il y avait demande de transfert;&lt;/li&gt;
+&lt;li&gt;Le registrant (registrant contact): c'est la personne qui, légalement, possède le domaine, qui en a la propriété intellectuelle. Dans la majorité des cas, le registrant, c'est vous.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Ce n'est pas rare de voir ces informations être imprécise, voir complètement erronée. Plusieurs propriétaires de site web voient le nom de leur fournisseur de service comme étant le registrant. Ce qui peut sembler anodin quand tout baigne dans l'huile mais, qui devient vraiment problématique puisque dans les registre de l'ICANN (l'organisation mondiale responsable de gérer l'internet) ils ne sont pas propriétaire de leur propre nom de domaine.&lt;/p&gt;
+&lt;p&gt;On voit aussi la situation inverse se produire. Le propriétaire du site web voit son nom inscrit dans tous les contacts et se voit contacter lors du renouvellement ou lorsque des problèmes techniques surviennent. C'est parfait si, en tant que propriétaire, vous êtes responsable du renouvellement de votre site; c'est aussi très problématique si vous avez une entente avec votre fournisseur de service et que ce dernier n'est pas en mesure d'effectuer le travail pour lequel il est payé.&lt;/p&gt;
+&lt;p&gt;Je vous encourage fortement à vérifier vos domaines aujourd'hui et à vous assurer que vous êtes bien inscrit comme propriétaire (registrant) de vos domaines. Le plus simple, c'est de vérifier soi-même ou de demander à son fournisseur d'envoyer ces informations sur une base régulière pour les domaines qui sont équipé d'une fonction de protection de la vie privée. &lt;/p&gt;</description>
+			<pubDate>Tue, 14 Aug 2012 08:52:17 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-08-comprendre-son-domaine/</guid>
+		</item>
+		
+		<item>
+			<title>Départ de Hugues Lamy au sein de M2i3</title>
+			<link>http://m2i3.com/blogue/2012/2012-06-depart-hugues-lamy/</link>
+			<description>&lt;p&gt;Je vous annonce que M. Hugues Lamy n'est plus partenaire au sein de M2i3. Son départ à titre de partenaire et d'employé est effectif immédiatement.&lt;/p&gt;
+&lt;p&gt;Hugues fait partie des partenaires fondateurs et en dehors de la corporation, il était, et reste, un ami que je tiens à remercier pour ses efforts et sa participation à faire de M2i3 ce qu'elle est aujourd'hui.&lt;/p&gt;
+&lt;p&gt;Je tiens à vous assurer que M2i3 et son équipe restent présent pour travailler avec vous et que nous continuerons à vous assurer la qualité de service à laquelle vous êtes habitué(e).&lt;/p&gt;
+&lt;p&gt;Pour plus d'informations veuillez me contacter par courriel (jean-marc@m2i3.com) ou par téléphone (+1.888.403.5998 x101).&lt;/p&gt;
+&lt;p&gt;--&lt;br/&gt;Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Fri, 06 Jul 2012 08:42:40 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2012/2012-06-depart-hugues-lamy/</guid>
+		</item>
+		
+		<item>
+			<title>Une belle avancée pour aider au démarrage d&#39;applications</title>
+			<link>http://m2i3.com/blogue/2011/2011-12-une-belle-avancee-pour-aider-au-demarrage-d-applications/</link>
+			<description>&lt;p&gt;Twitter, qui avaient commencé leur site en Ruby on Rails n'ont pas abandonné la communauté pour autant. C'est peu-dire avec un projet comme &lt;a href=&quot;http://bit.ly/uMETkH&quot;&gt;Bootstrap&lt;/a&gt; qui inclue tout le CSS, HTML et code Ruby on Rails de base pour créér une application web.&lt;/p&gt;
+&lt;p&gt;Le site est simple, clair et contient vraiment tout ce qui est nécessaire pour créer une application au look professionnel. L'outil contient aussi une section complète dédiée aux formulaires, un mal nécessaire à la création d'une application web.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+			<pubDate>Tue, 06 Dec 2011 13:33:56 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2011/2011-12-une-belle-avancee-pour-aider-au-demarrage-d-applications/</guid>
+		</item>
+		
+		<item>
+			<title>Un monde interconnecté</title>
+			<link>http://m2i3.com/blogue/2011/2011-06-un-monde-interconnecte/</link>
+			<description>&lt;p&gt;De retour de mon dernier voyage en europe j'ai pu apprécier à quel point le monde est maintenant interconnecté. Mon premier voyage date d'il y a 13 ans, un temps où, en France, on achetait encore une carte d'appel pour rappeler à la maison, où les cartes de métro étaient nécessaire pour naviger à l'intérieur de la ville et où la seule façon d'obtenir des informations sur les commerces était d'appeler, faxer ou encore attendre d'être sur place pour interragir avec le commercant.&lt;/p&gt;
+&lt;p&gt;Il est fascinant à quel point l'omniprésence de l'Internet et l'arrivé des téléphones portables, et en particulier des téléphones intelligents, a changé la dynamique du voyageur. Je n'ai plus à faxer mes réservations, tout le voyage a été réservé à partir de l'ordinateur de la maison. J'ai des copies électroniques importantes des documents (passeport, réservations, plans) sur mon téléphone. Et finalement, grâce à des logiciels comme Skype je peux appeler à la maison à peu de frais ou encore rediriger un numéro local du Canada sur mon portable français.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+			<pubDate>Tue, 23 Aug 2011 11:31:52 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2011/2011-06-un-monde-interconnecte/</guid>
+		</item>
+		
+		<item>
+			<title>Des mèmes et des hommes</title>
+			<link>http://m2i3.com/blogue/2010/2010-02-des-memes-et-des-hommes/</link>
+			<description>&lt;p&gt;&quot;Les bon trucs sur les médias sociaux je les apprends à regarder les célébrités sur Twitter et Facebook, pas des experts en médias sociaux...&quot;; C'est ce commentaire tout simple lu sur le &lt;a href=&quot;http://twitter.com&quot;&gt;Twitter&lt;/a&gt; de &lt;a href=&quot;http://twitter.com/Craigballantyne&quot;&gt;Craig Ballantyne&lt;/a&gt; qui a déclenché cette réflexion. Il faut dire que j'avais aussi adoré la &lt;a href=&quot;http://www.ted.com/talks/susan_blackmore_on_memes_and_temes.html&quot;&gt;présentation de Susan Blackmore sur le même sujet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce dont Craig parle sur son Twitter c'est de reproduire les comportements, concepts, techniques, de gens qui ont du succès plutôt que de se référer aux experts. Ce phénomène n'est pas nouveau on l'appelle un &quot;mème&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fr.wikipedia.org&quot;&gt;Wikipedia&lt;/a&gt; définit un &lt;a href=&quot;http://fr.wikipedia.org/wiki/M%C3%A8me&quot;&gt;mème&lt;/a&gt; comme: &quot;... un élément culturel reconnaissable (par exemple : un concept, une habitude, une information, un phénomène, une attitude, etc.), répliqué et transmis par l'imitation du comportement d'un individu par d'autres individus. L'Oxford English Dictionary définit le mème comme « un élément d'une culture pouvant être considéré comme transmis par des moyens non génétiques, en particulier par l'imitation ».&quot; (source: &lt;a href=&quot;http://fr.wikipedia.org&quot;&gt;Wikipedia&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Pourquoi est-ce intéressant? En fait, pourquoi en parler tout court... si c'est fait naturellement et que nous le faisons tous pourquoi est-ce important d'y penser?&lt;/p&gt;
+&lt;p&gt;Justement, parce que tout le monde le fait. Un des éléments importants d'une stratégie web est de se distinguer de la compétition. C'est vrai de son produit, service mais aussi de son image et moyens de communications utilisés. En tant que consommateur d'information nous sommes de plus en plus insensibles à l'information;  partiellement à cause de la quantité d'information dont nous sommes bombardés quotidiennement&lt;/p&gt;
+&lt;p&gt;Cela ne veut pas dire qu'il ne faut pas imiter les comportements et stratégies qui ont du succès. Si une stratégie fonctionne, il faut l'étudier et voir comment elle s'applique à soi. Déterminer à quel point elle peut être efficace dans son propre marché. L'utiliser et réévaluer sont impact.&lt;/p&gt;
+&lt;p&gt;En bref, penser avant de répliquer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://m2i3.com/blogue-jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;</description>
+			<pubDate>Sat, 13 Feb 2010 12:53:00 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2010/2010-02-des-memes-et-des-hommes/</guid>
+		</item>
+		
+		<item>
+			<title>Design à la Balsamiq</title>
+			<link>http://m2i3.com/blogue/2009/2009-06-design-balsamiq/</link>
+			<description>&lt;p&gt;&lt;strong&gt;Un petit avertissement s'impose pour tous nos lecteurs graphistes... ce que je m'apprête à vous montrer risque de choquer votre sens de l'esthétique (Comic Sans Serif anyone?).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il y quelques semaines déjà que j'expérimente avec un outil wireframing... vous savez cette technique qui se concentre principalement sur l'organisation de l'information plutôt que le design graphique des pages.&lt;/p&gt;
+&lt;p&gt;Hugues m'avait parlé de plusieurs outils qui permettent de faire le même travail de modélisation mais à des coûts plutôt exhorbitant.  Quel n'a pas été ma surprise de voir une alternative peu dispendieuse, mais surtout, tellement simple d'utilisation qu'il permet de vraiment se concentrer sur le travail de wireframing plutôt que de penser en termes d'images et de couleur tellle page devrait avoir.&lt;/p&gt;
+&lt;p&gt;Voici donc &quot;Balsamiq Mockup&quot;... un outil de modélisation d'interface web.  J'ai été charmé par l'utilisation exclusive du noir et blanc pour les tracés de pages web.  Il faut dire qu'il est difficile de m'éloigner du tableau lors de sessions de design.&lt;/p&gt;
+&lt;p&gt;Je n'en suis pas à mon premier outil de modélisation, loin de là! J'arrive à démontrer visuellement une grosse majorité de concepts avec des outils tel que Microsoft Visio, OpenOffice.org Drawing, Pencil, même avec des ciseaux et du papier... Reste que Balsamiq m'a charmé par sa simplicité et surtout, l'échange et la collaboration qu'il apporte lors des scéances de design.  En moins d'une minute on peut modéliser une page web et obtenir un feedback immédiat de son client et collègues. Le rendu visuel, que certains qualifie de basse qualité, est, selon moi, une force puisqu'elle dirige l'attention sur l'organisation de l'information et des éléments d'interractions plutôt que sur les couleurs et le graphisme.  &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Le site web officiel de Balsamiq Mockups&quot; href=&quot;http://www.balsamiq.com/&quot;&gt;Balsamiq Mockups [en]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 02 Sep 2009 23:24:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2009/2009-06-design-balsamiq/</guid>
+		</item>
+		
+		<item>
+			<title>Aide à une cause humanitaire XDR-TB</title>
+			<link>http://m2i3.com/blogue/2008/2008-10-aide-une-cause-humanitaire-xdr-tb/</link>
+			<description>&lt;p&gt;Il est rare que Jean-Marc et moi, dévions de nos sujets régulier qui sont les méthodes Agile, la programmation de CMS tel que Joomla et la programmation en général tel que Ruby on Rails.  Cette fois, je ferai une entorse à ses sujets pourvous présenter une nouvellecause qui me préoccupe.&lt;/p&gt;
+&lt;p&gt;L'an passé, le photographe James Nachtwey demanda à la conférence de Technologie-Entertainement-Design (TED) de l'aider pour mettre en valeur la cause du XDR-TB ou eXtremenly-Drug-Resistant Turbeculosis. Comme je suis maniac de toutes les conférences de TED et que j'aimerais aider autant que possible les causes qui y sont présentées, je vous présente ici le vidéo incroyable de ce photographe.      
+&lt;object width=&quot;425&quot; height=&quot;344&quot; data=&quot;http://www.youtube.com/v/yj8KZNI6-W8&amp;amp;hl=en&amp;amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot;&gt;
+&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/yj8KZNI6-W8&amp;amp;hl=en&amp;amp;fs=1&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;/object&gt;
+&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Les conférences TED&quot; href=&quot;http://ted.com&quot;&gt;Les conférences TED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 21 Oct 2008 23:08:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-10-aide-une-cause-humanitaire-xdr-tb/</guid>
+		</item>
+		
+		<item>
+			<title>La perversion du manifeste Agile</title>
+			<link>http://m2i3.com/blogue/2008/2008-10-perversion-manifeste-Agile/</link>
+			<description>&lt;p&gt;Les méthodes Agile sont très populaires à l’heure actuelle. Tous les gestionnaires de développement logiciel ont le mot Agile sur les lèvres. Tous et chacun ont développé leur méthodologie. Tous discutent de méthode Agile. Les journaux et magasine décrivent les méthodes Agile partout. Même Scott Adams en parle dans une bande dessinée de Dilbert. Tout le monde informatique est Agile et pragmatique.&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Dilbert.com&quot; href=&quot;http://dilbert.com/strips/comic/2005-11-16/&quot;&gt;&lt;img src=&quot;http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/000/1051/1051.strip.gif&quot; alt=&quot;Dilbert.com&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Il y a bientôt 3 ans que je regarde l'évolution des méthodes Agile. Bien que le nom Agile soit de plus en plus entendu dans tous les milieux, je me rends compte qu'il n'est pas compris. Je ne compte plus le nombre de fois que j'ai rencontré des clients, fournisseurs et collègues qui ne comprennent pas les fondements du manifeste Agile. Pour la majorité des gens que j'ai rencontrés, tous s'entend pour avoir de courtes livraisons mais rien sur les autres principes Agile. Quand les problèmes surviennent, la notion de partenaire prends le chemin des poubelles et ont retourné à une relation client-fournisseur. On fixe la date de livraison et le budget et on s'en remet à un plan fixe. Les fonctionnalités sont soumises sans travail de priorisation et d'organisation. Lorsque la date et le budget survienne et qu'il reste des fonctionnalités à développer, le client se retranche dans un campement contractuel prétextant qu'on avait promis de faire le travail. Le manifeste est complètement ignoré.&lt;/p&gt;
+&lt;p&gt;À l'autre extrême, il y a les gestionnaires qui ne planifient plus, qui ne mettent plus de processus en place, ne documente plus rien et n'apporte pas d'attention aux détails contractuels. Cette attitude est proche du laisser-aller et n'est pas approprier pour la majorité des clients. Il en est toujours que les clients désirent avoir une bonne idée du budget et de la date de livraison.&lt;/p&gt;
+&lt;p&gt;
+&lt;object width=&quot;480&quot; height=&quot;392&quot; data=&quot;http://flash.revver.com/player/1.0/player.swf?mediaId=171954&quot; type=&quot;application/x-shockwave-flash&quot;&gt;
+&lt;param name=&quot;Movie&quot; value=&quot;http://flash.revver.com/player/1.0/player.swf?mediaId=171954&quot;/&gt;&lt;param name=&quot;FlashVars&quot; value=&quot;allowFullScreen=true&quot;/&gt;&lt;param name=&quot;AllowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;AllowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;flashvars&quot; value=&quot;allowFullScreen=true&quot;/&gt;&lt;param name=&quot;src&quot; value=&quot;http://flash.revver.com/player/1.0/player.swf?mediaId=171954&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;/object&gt;
+D’autre gestionnaire argumenterons que les projets Agile conterons moins cher ou seront complétés plus rapidement. Cette notion est aussi fausse. Comme Ryan McNimm de Unspace.ca explique dans son vidéo, les projets Agile sont généralement plus dispendieux et plus long qu’un projet standard. Cette déclaration semble dénuée de sens et suicidaire financièrement pour le programmeur. Si un projet Agile est plus cher et qu’il prend plus de temps à réaliser, il faut se demander quel est le gain véritable d’utiliser les méthodologies Agile?&lt;/p&gt;
+&lt;p&gt;La qualité d'un projet Agile mené tel que le manifeste et les principes Agile le présente est la qualité du produit réalisé. En ayant des d'itérations régulière, le client est apte à porter un jugement éclairé sur la qualité du logiciel produit. Ici il faut lire que la qualité est fonctionnelle et qu'on ne parle pas de la qualité du code. La qualité est supérieure, car le client vérifie à chaque itération les fonctionnalités. Suite à la revue, le client a l'opportunité de fournir un nouvel ensemble de fonctionnalité ou conclure le projet. Il n'y a aucune honte à arrêter le projet. Nous avons une certaine fierté à toujours compléter nos entreprises débutés même si nous savons pertinemment que le projet est voué à l'échec. La méthode Agile permet de ne pas sur concevoir et réduire les coûts en cas de route vers l'échec.&lt;/p&gt;
+&lt;p&gt;Le projet devrait toujours être en fait en temps et matériel du leur nature hautement variable. Martin Fowler compare la programmation à une commande d'art de l'ancien temps. Bien que l'artiste à une indication de la direction de la réalisation, il continuera son travail jusqu'à la satisfaction du client. Il ne faut pas croire que la programmation est un acte de production. Tout comme l'artiste, le développement logiciel fait appel à des techniques et des enseignements des maîtres et des pairs. Tous comme l'artiste, il est possible de mieux travailler et de fournir un meilleur travail de qualité avec du travail et de l'expérience. Seulement lorsqu'il est possible de faire du travail répétitif et prévisible seront nous capable de prédire le coût du développement logiciel. À partir de ce moment, ce n'est plus du développement logiciel, mais de la gestion d'opération.&lt;/p&gt;
+&lt;p&gt;Est-ce que tout est fini pour le manifeste Agile? Est-ce que nous devons donc déclarer forfait et retourner à des méthodes traditionnelles Waterfall? Je crois que non. Pour ceux qui comprennent les méthodes Agile et suivent les méthodes Agile comme un guide et non une finalité, c'est de notre responsabilité de communiquer à notre entourage professionnel les bienfaits des méthodes. Il est très difficile d'expliquer les bienfaits de la qualité. Il est difficile d'expliquer que le logiciel ne coûtera pas moins cher, mais au contraire généralement plus cher. Il est difficile d'expliquer que le client aura un avantage concurrentiel à utiliser ses méthodes. Comme écrit dans le manifeste :&lt;/p&gt;
+&lt;p&gt;Nous avons découvert des techniques pour développer du logiciel et nous désirons en faire profiter nos pairs.&lt;/p&gt;
+&lt;p&gt;C'est pourquoi je crie haut et fort : &lt;strong&gt;« Arrêtez la perversion du manifeste Agile »&lt;/strong&gt; &lt;a title=&quot;Manifeste Agile&quot; href=&quot;http://m2i3.com/manifeste-agile&quot;&gt;Manifeste Agile (traduction M2i3)&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Dilbert&quot; href=&quot;http://dilbert.com/strips/comic/2005-11-16/&quot;&gt;Dilbert sur les méthodes Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Ryan McMinn&quot; href=&quot;http://revver.com/video/171954/all-roads-lead-to-rails-unspace/&quot;&gt;Conference Agile de Ryan McMinn&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Manifeste Agile&quot; href=&quot;http://m2i3.com/manifeste-agile&quot;&gt;Le Manifeste Agile (traduit en français)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Manifeste Agile&quot; href=&quot;http://agilemanifesto.org/&quot;&gt;Manifeste Agile&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 15 Oct 2008 13:41:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-10-perversion-manifeste-Agile/</guid>
+		</item>
+		
+		<item>
+			<title>Google a 10 ans</title>
+			<link>http://m2i3.com/blogue/2008/2008-10-10-ans-pour-google/</link>
+			<description>&lt;p&gt;Comme vous le savez déjà Google célèbre, cette année, leur &lt;a title=&quot;10e anniversaire de Google&quot; href=&quot;http://www.google.fr/tenthbirthday/&quot;&gt;10e anniversaire&lt;/a&gt;.   Pour l'événement ils ont retracé et mis en ligne l'&lt;a href=&quot;http://www.google.com/search2001.html&quot;&gt;index de l'engin de recherche tel que disponible en 2001&lt;/a&gt;.    Juste pour s'amuser que représentait à l'époque:  - Firefox - Web 2.0 - le iPhone - Chrome&lt;/p&gt;</description>
+			<pubDate>Wed, 01 Oct 2008 15:23:26 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-10-10-ans-pour-google/</guid>
+		</item>
+		
+		<item>
+			<title>Les http referers non fiable pour faire de l&#39;authentification.</title>
+			<link>http://m2i3.com/blogue/2008/2008-06-http-referers-non-fiable-pour-authentification/</link>
+			<description>&lt;p&gt;Bon voici le récit de mes expériences avec les référents http au cours des dernières semaines.  Premier conseil, si vous utilisez le référent pour identifier un individu, changez de techniques. Le passage de la balise Méta referer dans les requêtes http sont tellement non fiable que ça rend le processus inutile. Voici la problématique rencontrée.  Mon Site A en https désire présenté un contenu exclusif http sur un site externe B. Auparavant, une application sur le site A valide si l'usager a le droit ou non de voir le contenu et réachemine le fureteur au site B. Voici quelques possibilités pour faire en sorte que cela fonctionne.&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt; Témoin (Cookie)  Cela ne marche pas, puisque les deux sites n'ont pas le même nom de domaine. Le site B n'a pas accès au témoin du site A. &lt;/li&gt;
+&lt;li&gt;Réponse http 301 redirect. Le site B vérifie que le référent est le site A  Cela ne marche pas. Les fureteurs ne mettent jamais de référent lors de réacheminement. &lt;/li&gt;
+&lt;li&gt; Retour en Javascript window.location=&quot;Site B&quot;. Le site B vérifie que le référent est le site A  Cela ne marche pas. La RFC indique que le référent ne &lt;strong&gt;doit&lt;/strong&gt; pas être passé lors d'un passage d'un site https à un site http. &lt;/li&gt;
+&lt;li&gt; Changement du site A pour http au lieu de https. Retour en Javascript window.location=&quot;Site B&quot;. Le site B vérifie que le référent est le site A  Ca fonctionne partiellement. Firefox n'a pas de problème et passe le référent. IE ne passe pas le référent lors de cette opération. &lt;/li&gt;
+&lt;li&gt; Changement du site A pour http au lieu de https. Retour en Javascript Identification du fureteur. Si Firefox =&amp;gt; window.location=&quot;Site B&quot; si IE présentation d'une page avec un lien que l'on peut cliquer.. Le site B vérifie que le referer est le site A.  Ca fonctionne correctement, mais occasionne des cliques de souris supplémentaire pour les utilisateurs d'IE.  Autre considération, le référent est extrêmement facile à falsifier dans une requête http et que le contenu exclusif n'est pas vraiment protégé.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;La solution correct est la suivante et elle est inspirée du travail fait par Paypal pour garantir une sécurité.  L'application du site A vérifie la valide du compte. Si le compte est invalide, on présente une page d'abonnement. Si le compte est valide, on prépare un algorithme d'hachage sur l'usager ou un nombre pseudo aléatoire. On le garde en cache ou en base de données pour les prochaines minutes. On effectue un réacheminement 301 en incluant en paramètre le total mêlé ou le nombre. Le site B sur réception du URL lance une application. Cette application appel un service WEB sur le site A demandant si le total mêlé ou nombre en paramètre a été bien créer par lui. Si la réponse est positive, le contenu est présenté. Si la réponse est négative, on réachemine l'usager vers une page d'abonnement du site A.  Simple, efficace et sécuritaire.  Maintenant la question piège. Si le référent ne sert pas à identifier de manière sécuritaire l'internaute, a quoi sert-il ? Je vous fais un résumé de mes discussions avec Jean-Marc prochainement.&lt;/p&gt;</description>
+			<pubDate>Sun, 27 Jul 2008 10:57:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-06-http-referers-non-fiable-pour-authentification/</guid>
+		</item>
+		
+		<item>
+			<title>Notre contenu sur feedburner.com</title>
+			<link>http://m2i3.com/blogue/2008/2008-07-contenu-sur-feed-burner/</link>
+			<description>&lt;p&gt;Nos &lt;a href=&quot;http://feeds.feedburner.com/m2i3-blog&quot;&gt;fils de nouvelles RSS&lt;/a&gt; sont maintenant disponibles sur &lt;a href=&quot;http://feedburner.com/&quot;&gt;FeedBurner.com&lt;/a&gt;.  &lt;a href=&quot;http://m2i3.com/blogue-jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 25 Jul 2008 15:14:26 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-07-contenu-sur-feed-burner/</guid>
+		</item>
+		
+		<item>
+			<title>Faire moins pour en faire plus... voici Drizzle</title>
+			<link>http://m2i3.com/blogue/2008/2008-07-drizzle/</link>
+			<description>&lt;p&gt;Un nouveau projet viens de voir le jour sur le web... &lt;a href=&quot;https://launchpad.net/drizzle&quot;&gt;Drizzle [en]&lt;/a&gt;, une branche de MySQL, vise à diminuer la fonctionalité de la base de données pour offrir plus de puissance dans un environment où le besoin est sur un parralélisme élevé (comme par exemple en &quot;cloud computing&quot;).  En bref, une base de donnée plus efficace, facile à augmenter pour la charge de travail avec un&lt;/p&gt;
+&lt;p&gt;design encore plus simple.    La base de donnée est pensée principalement pour les applications webs, les applications qui fonctionnent en &quot;cloud computing&quot;.  En fait, toutes les applications qui n'ont pas besoin d'avoir la logique d'affaire dans la base de donnée.  Une bonne nouvelle quoi!  &lt;a title=&quot;Le blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/user/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://launchpad.net/drizzle&quot;&gt;Drizzle sur launchpad[en]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://krow.livejournal.com/602409.html&quot;&gt;Une introduction au concept de Drizzle [en]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 24 Jul 2008 12:11:10 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-07-drizzle/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

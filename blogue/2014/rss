@@ -1,0 +1,47 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2014/</link>
+		<atom:link href="http://m2i3.com/blogue/2014/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Votre site web est trop lourd</title>
+			<link>http://m2i3.com/blogue/2014/2014-01-votre-site-web-est-trop-lourd/</link>
+			<description>&lt;p&gt;J'ai eu une drôle de discussion hier sur le poids d'un site web et du temps nécessaire pour l'afficher. Mes amis me disaient: &quot;oui mais visuellement c'est quand même extraordinaire&quot; et ma position était: &quot;peut-être, mais ça prends trop de temps, c'est lourd et ça génère des erreurs inutilement; faut pas juste être beau dehors, mais en dedans aussi&quot;.&lt;/p&gt;
+&lt;p&gt;Bon, c'est vrai que nos connexions à l'internet n'ont jamais été aussi rapide (J'ai même vu récemment qu'ils ont réussi à obtenir une connexion à 54 Mbps sur un téléphone intelligent en Belgique... rapide comparé au 20 Mbps que j'ai à la maison). Même nos ordinateurs, nos téléphones sont de plus en plus puissants.&lt;/p&gt;
+&lt;p&gt;Alors, pourquoi est-ce que je critique? Parce que tout n'est pas aussi rose que nous aimerions.&lt;/p&gt;
+&lt;p&gt;Vous avez probablement jamais entendu parler du terme &quot;neutralité du net&quot; . C'est un concept qui date de l'aube de l' Internet qui veut dire que toutes les compagnies qui sont en charge du traffic de l'internet se doivent d'acheminer le contenu rapidement, sans pénalité, et ce, quel que soit la nature, la source et la destination du contenu. Vous avez déjà entendu parler des rumeurs sur Bell Canada qui pénalisait le contenu des sites hébergés ailleur que sur leur réseau. Eh bien, selon cette rumeur, Bell Canada ne respecterait pas la &quot;neutralité du net&quot; puisqu'un site web hébergé sur le réseau de Bell Canada versus le même site web hébergé ailleur prendrait beaucoup plus de temps à visionner s'il est hébergé ailleur que chez Bell Canada.&lt;/p&gt;
+&lt;h2&gt;Récemment, les choses ont changées&lt;/h2&gt;
+&lt;p&gt;Le 15 Janvier ,certaines sociétés nord-américaines (Verizon étant l'un d'entre elles) ont remporté une grande bataille contre la neutralité du net (pour être technique un appel à la cour a été rejeté). Ce qui signifie que les entreprises vont très bientôt commencer à changer la priorité de certains contenus selon leurs propres intérêts. Qu'est-ce que cela signifie pour vous? Eh bien, simplement, peu importe la vitesse de votre connexion Internet, si le film, la chanson, une page web ,un logiciel que vous tentez de télécharger ne répond pas aux règles de cette compagnie, eh bien, il faudra plus de temps pour le télécharger.&lt;/p&gt;
+&lt;p&gt;Vous l'ignorez probablement, mais lorsque vous affichez une page Web ou un film en ligne, le contenu passe par le réseau de nombreuses sociétés comme Verizon, Rogers, Bell et Vidéotron. Chacune de ces sociétés contrôle la vitesse et la priorité du contenu qui transite par leur réseau. Si ces sociétés peuvent choisir ce qui transite rapidement et ce qui se transite lentement, au final, peu importe qui est votre fournisseur d'accès Internet ou l'emplacement de votre site web, vous devrez attendre plus longtemps avant d'accéder à votre contenu.&lt;/p&gt;
+&lt;p&gt;Certaines de ces sociétés sont prêtes et offrent déjà d'accélérer votre contenu pour un prix assez élevé. Si vous êtes Facebook, Google ou Amazon ce ne sera pas un problème puisque vous pouvez vous permettre de payer plus et que vous êtes en mesure de négocier un prix de volume.&lt;/p&gt;
+&lt;p&gt;Mais pour vous et moi? Je n'en suis pas trop sûr. Donc, en abandonnant la neutralité du Net, nous créons un plus grand gouffre entre les grandes compagnies et les petites entreprises. Cette situation rendra plus difficile pour les petites entreprises qui n'ont pas des moyens énormes de se démarquer sur le web par rapport aux mastodontes du web.&lt;/p&gt;
+&lt;h2&gt;La page au coeur de la discussion&lt;/h2&gt;
+&lt;p&gt;Tout d'abord, allez jeter un oeil à la page qui a lancé le débat : &lt;a href=&quot;http://discover.store.sony.com/be-moved/&quot;&gt;http://discover.store.sony.com/be-moved/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Soyons d'accord, visuellement c'est génial. Mais, côté architecture et utilisation des ressources c'est mauvais, très mauvais.&lt;/p&gt;
+&lt;p&gt;Cette page requiert à elle seule 50 Mo de bande passante pour télécharger. En comparaison, un épisode de Dexter d'une heure sur Netflix requiert environ 700 Mo pour être visionné. Cette page, que vous consulterez en 2-3 minutes, est donc seulement 14 fois plus petite que 60 minutes de contenu. Et à la différence de l'épisode de Dexter le téléchargement doit être complété dès le début pour être utilisable.&lt;/p&gt;
+&lt;p&gt;Ça c'est sur un web rapide. Qu'en sera-t-il lorsque le web sera à vitesses multiples?&lt;/p&gt;
+&lt;p&gt;Cette page à aussi d'autres problèmes. Le forfait tout compris de Vidéotron mobile (pour 59,95$ par mois) permet de 1 Go de données; vous pouvez donc consulter une page similaire 20 fois dans un mois avant de dépasser votre bande passante mensuelle (et encourir des frais supplémentaires). Chez Bell, le forfait pour l'iPad de 30 jours est de 5 Go de données (pour 35 $ par mois); une telle page ne pourra être visualisée que 102 fois dans un mois.&lt;/p&gt;
+&lt;p&gt;Bon, c'est vrai la page que j'ai pris en exemple est très lourde. Le poids moyen des pages Web en 2013 est en fait de 1,25 Mo. Il s'agit d'une augmentation de 30% par rapport au poids moyen de 2012. Reste que la page moyenne est seulement 50 fois plus légerte que l'exemple de Sony.&lt;/p&gt;
+&lt;p&gt;Pourrions-nous faire plus petit et plus rapide? Oui! Oh que oui!&lt;/p&gt;
+&lt;p&gt;Devons-nous sacrifier ce qui est beau pour avoir un web efficace, rapide et moins dispendieux? Non, ce n'est pas nécessaire. Nos sites web peuvent être beau en dehors comme en dedans. C'est simple. Il s'agit de compresser le contenu, enlever les trucs inutiles, utiliser des sprites. Il y a des centaines de façon de permettre à un site web d'aller plus vite. Le problème c'est que le site de Sony est donné en exemple de ce qui est beau et que la beaucoup de nouveaux sites suivent cet exemple.&lt;/p&gt;
+&lt;h2&gt;Ce qu'il faut retenir&lt;/h2&gt;
+&lt;p&gt;La tendance à avoir des sites Web plus gros, combinés avec les modifications législatives qui se passent en ce moment sont une recette pour un Web beaucoup plus lent et un environnement où il sera beaucoup plus difficile pour les petites entreprises de rivaliser contre les grandes entreprises. Même sans ces changements, il est faux de croire que tout le monde, partout, a des connexions Internet aussi rapide que les concepteurs web et les social-geeks. Beaucoup de gens ne peuvent se d'avoir un accès rapide, mais pratiquement tout le monde à besoin d'accéder au contenu sur internet.&lt;/p&gt;
+&lt;p&gt;La bonne nouvelle c'est que vous pouvez faire quelque chose à ce niveau. Assurez-vous que les images que vous mettez en ligne sont aussi petites que possible, enlever les trucs inutiles, &lt;a href=&quot;http://m2i3.com/contactez-nous/&quot;&gt;embauchez M2i3 pour vous aider à le faire&lt;/a&gt;. De cette façon, nous pourrons tous profiter d'une meilleure expérience en ligne.&lt;/p&gt;
+&lt;p&gt;-- Jean-Marc&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;p.s. Vous avez remarqué que je n'ai pas traité du nombre de fichiers téléchargés. Quel est le problème avec ce nombre? Très simplement, vous savez le court délai qui se produit lorsque vous ouvrez un site Web? Ce délai s'appelle de la latence. Chaque fichier qu'on télécharge sur un site web implique un petit peu de latence. Que signifie un millier de fichiers en termes d'expérience de web? Beaucoup, beaucoup de latence.&lt;/p&gt;</description>
+			<pubDate>Thu, 16 Jan 2014 07:50:46 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2014/2014-01-votre-site-web-est-trop-lourd/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

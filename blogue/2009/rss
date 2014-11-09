@@ -1,0 +1,33 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2009/</link>
+		<atom:link href="http://m2i3.com/blogue/2009/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Design à la Balsamiq</title>
+			<link>http://m2i3.com/blogue/2009/2009-06-design-balsamiq/</link>
+			<description>&lt;p&gt;&lt;strong&gt;Un petit avertissement s'impose pour tous nos lecteurs graphistes... ce que je m'apprête à vous montrer risque de choquer votre sens de l'esthétique (Comic Sans Serif anyone?).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il y quelques semaines déjà que j'expérimente avec un outil wireframing... vous savez cette technique qui se concentre principalement sur l'organisation de l'information plutôt que le design graphique des pages.&lt;/p&gt;
+&lt;p&gt;Hugues m'avait parlé de plusieurs outils qui permettent de faire le même travail de modélisation mais à des coûts plutôt exhorbitant.  Quel n'a pas été ma surprise de voir une alternative peu dispendieuse, mais surtout, tellement simple d'utilisation qu'il permet de vraiment se concentrer sur le travail de wireframing plutôt que de penser en termes d'images et de couleur tellle page devrait avoir.&lt;/p&gt;
+&lt;p&gt;Voici donc &quot;Balsamiq Mockup&quot;... un outil de modélisation d'interface web.  J'ai été charmé par l'utilisation exclusive du noir et blanc pour les tracés de pages web.  Il faut dire qu'il est difficile de m'éloigner du tableau lors de sessions de design.&lt;/p&gt;
+&lt;p&gt;Je n'en suis pas à mon premier outil de modélisation, loin de là! J'arrive à démontrer visuellement une grosse majorité de concepts avec des outils tel que Microsoft Visio, OpenOffice.org Drawing, Pencil, même avec des ciseaux et du papier... Reste que Balsamiq m'a charmé par sa simplicité et surtout, l'échange et la collaboration qu'il apporte lors des scéances de design.  En moins d'une minute on peut modéliser une page web et obtenir un feedback immédiat de son client et collègues. Le rendu visuel, que certains qualifie de basse qualité, est, selon moi, une force puisqu'elle dirige l'attention sur l'organisation de l'information et des éléments d'interractions plutôt que sur les couleurs et le graphisme.  &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Le site web officiel de Balsamiq Mockups&quot; href=&quot;http://www.balsamiq.com/&quot;&gt;Balsamiq Mockups [en]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 02 Sep 2009 23:24:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2009/2009-06-design-balsamiq/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

@@ -1,0 +1,196 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" >
+	<head>
+		<base href="" />
+		<title>Des routes hors de l&#39;ordinaire en Rails</title>
+<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="ruby on rails, routes.rb, configuration de site web" />
+<meta name="description" content="Le fichier routes.rb et sa configuration permet de donner une personnalité distincte à un site web." />
+Ruby on Rails,Programmation,Ruby
+
+    <meta name="thumbnail" content="http://m2i3.com/M2i3_logo_100x100.png" />
+    <link rel="image_src" href="../../../M2i3_logo_100x100.png" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/print.css" type="text/css" media="print" /> 
+		<!--[if IE]>
+			<link rel="stylesheet" href="themes/m2i3/css/ie.css" type="text/css" media="screen, projection" />
+		<![endif]-->
+		<link rel="stylesheet" href="../../../themes/m2i3/css/style.css" type="text/css" media="screen, projection" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>    
+		
+		
+		
+		
+                <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-539937-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/layout.css?m=1362517564" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/typography.css?m=1360348269" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/form.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../blog/css/blog.css?m=1297660841" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/menu.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/footer.css?m=1297660847" />
+</head>
+	<body>
+		<div id="banner"></div>
+		<div id="header">
+			<a id="logo" href="../../../index.html" Title="M2i3 - Connecter vos besoins aux solutions"></a>
+			<ul id="menu1">
+   
+      <li class="mega">
+      	<a href="../../../notre-entreprise/index.html" title="Notre entreprise">Notre entreprise</a>
+      	
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../portfolio/index.html" title="Portfolio">Portfolio</a>
+      	
+			<div>
+			  	
+					<a href="../../../portfolio/m2i3/index.html" >M2i3</a>
+				
+					<a href="../../../portfolio/artyan/index.html" >Artyan</a>
+				
+					<a href="../../../portfolio/karate-sunfuki/index.html" >Karaté Sunfuki</a>
+				
+					<a href="../../../portfolio/esprit-du-the/index.html" >L&#39;Esprit du The</a>
+				
+					<a href="../../../portfolio/retrouvailles-de-la-promotion-de-1994-de-l-esfl/index.html" >Retrouvailles de la promotion de 1994 de l&#39;ESFL</a>
+				
+					<a href="../../../portfolio/g-force/index.html" >G-Force</a>
+				
+					<a href="../../../portfolio/omniscient-technology/index.html" >Omniscient Technology</a>
+				
+					<a href="../../../portfolio/m2i/index.html" >M2i3</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../blog.1" title="Blogue">Blogue</a>
+      	
+			<div>
+			  	
+					<a href="../../2014/index.html" >2014</a>
+				
+					<a href="../../2013/index.html" >2013</a>
+				
+					<a href="../../2012/index.html" >2012</a>
+				
+					<a href="../../2011/index.html" >2011</a>
+				
+					<a href="../../2010/index.html" >2010</a>
+				
+					<a href="../../2009/index.html" >2009</a>
+				
+					<a href="../../2008/index.html" >2008</a>
+				
+					<a href="../index.html" >2007</a>
+				
+					<a href="../../2006/index.html" >2006</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../contactez-nous/index.html" title="Contactez-nous">Contactez-nous</a>
+      	
+      </li>
+   
+</ul>
+
+		</div>
+		<div id="main">
+			<div class="shadow_holder">
+				<div class="container">
+					<!-- div id="Sidebar" class="span-6 pull-6">
+	
+</div -->
+
+<div id="BlogContent" class="typography push-3 span-18">
+	
+	<div class="blogEntry">
+		<h2>Des routes hors de l&#39;ordinaire en Rails</h2>
+		<p class="authorDate">Posté par Jean-Marc sur 22 May 2007 | 0 Commentaires</p>
+		
+			<p class="tags">
+				 Tags: 
+				
+					<a href="../tag/Ruby+on+Rails" title="Voir tous les messages marqués 'Ruby on Rails'" rel="tag">Ruby on Rails</a>,
+				
+					<a href="../tag/Programmation" title="Voir tous les messages marqués 'Programmation'" rel="tag">Programmation</a>,
+				
+					<a href="../tag/Ruby" title="Voir tous les messages marqués 'Ruby'" rel="tag">Ruby</a>
+				
+			</p>
+		
+      <p>Un des aspects intéressant de Ruby on Rails est la conversation d'URL en controller/action et paramètres de tout acabit.  Vous pensiez que le monde arrêtait avec la configuration par défaut? Il y a bien plus que la page par défaut et la séquence :controller/:action/:id à</p>
+<p>explorer.</p>
+<h3>Le lien attrape-tout</h3>
+<p>Pour fonctionner ce dernier doit être le dernier paramètre de l'url.  Sinon autant utiliser l'autreméthode décrire plus bas.  Le lien attrape tout ressemble à:  map.connect '*path' , :controller =&gt; 'blog' , :action =&gt; 'inconnu?'  Ce code appellera la méthode inconnu? sur le contrôleur et placera dans params[:path] la totalité de l'URL.  Mignon? Pratique?  Surtout pratique si vous voulez-faire <a title="The Perfect 404 on alistapart.com" href="http://www.alistapart.com/articles/perfect404/">une page intelligente pour les URLs non-existantes</a>.  En analysant l'URL on peut guider le webnaute vers un contenu qui devrait répondre à ses besoins et ce malgré l'erreur.</p>
+<h3>Les textes prédéfinis dans l'URL</h3>
+<p>Sur un de mes derniers projets j'avais besoin de publier des textes avec l'engin de document créé chez M2i3.  Pour sûr je ne voulais pas avoir des liens du style "/document/show/23".  En plus des raisons esthétiques un tel lien diminue la valeur des pages par les engins de recherche puisque l'URL n'a aucun lien textuel avec le contenu.  Pourtant faire un lien simple comme ":alias_page" aurait confondu Rails puisqu'il aurait assumé que je parle ici d'un contrôleur.  Donc... l'utilisation de textes prédéfinis dans l'URL permet de résoudre ce genre de situation.  Voici la configuration en question:  map.connect ':alias_page.html' , :controller =&gt; 'document' , :action =&gt; 'show'   Je n'utilise pas l'ID puisque le nom de ma page est une chaîne de caractère que j'ai nommé "alias_page".  La beauté de cette configuration est que la méthode "url_for" construit l'url proprement.  Donc dans mon code lors que je veux créer un lien vers la page dont l'alias est "a-propos-de-nous" j'utilise le code:  'document', :action=&gt;'show', :alias_page=&gt;'a-propos-de-nous' %&gt;   et le lien généré est "/a-propos-de-nous.html"  beaucoup plus propre non???</p>
+<h3>Les routes nommées</h3>
+<p>Ce truc permet de simplifier le code en nommant la route lors de la configuration.  J'ai une relation haine/amour avec cette technique puisque même si elle permet de simplifier le code elle en diminue aussi la portabilité puisque la route nommé doit exister dans l'application où l'on veut copier/utiliser le bloc de code.  Donc, en reprenant le truc précédent nous pourrions le réécrire avec une route nommée comme:  map.document_link ':alias_page.html' , :controller =&gt; 'document' , :action =&gt; 'show'  Remarquez comment on remplace la méthode "connect" par une méthode représentant le nom de la route.  Ça nous permet d'utiliser le code suivant: 'a-propos-de-nous') %&gt;.... intéressant? non?</p>
+<h3>Les expressions régulières</h3>
+<p>Ce dernier truc permet d'obtenir des effets vraiment intéressants.  Je reviens à mon exemple précédent.  Par l'utilisation du texte prédéfini on peut rapidement identifier dans l'URL le type de document à servir, l'action et le contrôleur à utiliser.  Pourtant le truc ne permet de traiter qu'un niveau de profondeur dans l'URL (i.e. je peux lier vers /ceci-est-une-page.html mais pas vers ceci/est/une/page.html).  Le dernier truc permet justement de passer le contenu de l'URL tel que dans le lien attrape tout mais sans les avertissements que Rails vous générera si vous essayez de configurer map.connect '*alias_page.html' , :controller =&gt; 'document' , :action =&gt; 'show'.  Dans un tel cas Rails passerait son temps à vous dire que le paramètre optionel ne peut être optionel à cause du texte.  Donc, j'utilise la configuration suivante:  map.document_link ':alias_page.html' , :controller =&gt; 'document' , :action =&gt; 'show',  :requirements=&gt;{:alias_page =&gt; /.*/ }   Le "/.*/" est l'expression régulière qui indique à Rails de tout attraper et de passer outre les "/".  Donc mon alias de page peut maintenant ressembler à une url complète.</p>
+<h3>En conclusion</h3>
+<p>La configuration et personnalisation du fichier routes.rb permet de faire la différence entre une application Ruby on Rails qui ressemble aux autres et un site web qui a sa propre personnalité.  Allez-y! amusez-vous à sortir des sentier battus ;)</p>
+<div class="postslinks">
+<h2>Liens discutés dans ce blogue</h2>
+<ul><li><a title="The Perfect 404 on alistapart.com" href="http://www.alistapart.com/articles/perfect404/">une page intelligente pour les URLs non-existantes</a></li>
+<li><a title="Expression rationnelle sur wikipedia" href="http://fr.wikipedia.org/wiki/Expression_rationnelle">Expression rationelle (ou régulières)</a></li>
+</ul></div>
+		<br />
+	</div>
+	
+	
+	
+	
+	
+</div>
+
+				</div>
+			</div>
+		</div>
+		<div id="bottom_ribbon">
+			<div id="footer">
+				<div class="container"> 
+					<div class="span-10 prefix-1">
+  <a href="../../../index.html">M2i3.com</a><br/>
+  Notre courriel: <a href="mailto:info@m2i3.com">info@m2i3.com</a><br/>
+  Notre téléphone: <strong>+1.888.403.5998</strong>
+</div>
+
+					<div id="randomproduct" class="span-12">
+  
+    <img src="../../../assets/Uploads/authorisedAppsResellerLogo.png" alt="authorisedAppsResellerLogo" />
+    <div class="span-8 prefix-1">
+      <p><span style="font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; color: #666666;"><span style="font-size: 12px; line-height: 19px;">Google Apps vous permet d'avoir accès à des logiciels d'une grande qualité, au moment où vous en avez besoin, pour le temps dont vous en avez besoin pour une fraction du prix d'acquisition d'un serveur, des logiciels et de leur entretiens. <a title="Le site web officiel de Balsamiq Mockups" href="mailto:info+google-apps@m2i3.com">Contactez-nous</a> dès aujourd'hui pour plus d'information.<br/></span></span></p>
+    </div>
+  
+</div>
+
+				</div>
+			</div>
+		</div>
+                <div id="copyright">This website is copyright of M2i3 &copy; 2004-2012<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" style="margin-left:20px"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</div>
+		
+	<script type="text/javascript" src="../../../mysite/javascript/jquery.hoverIntent.js?m=1297660842"></script><script type="text/javascript" src="../../../mysite/javascript/menu.js?m=1297660842"></script></body>
+</html>

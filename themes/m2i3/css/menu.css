@@ -1,0 +1,53 @@
+#menu1 {
+  	margin-top: 0px;
+	float:right;
+	padding-right: 19px;
+}
+ul#menu1 li {
+	float:left;
+	margin-left:0px;
+	list-style-type:none;
+	display: inline;
+	position: relative;
+}
+#menu1 li.current,
+#menu1 li.section {
+	background:url(../images/menu1_right_on.gif) no-repeat right top;
+}
+#menu1 li a {
+	display:block;
+	color:#fff;
+	font-weight:bold;
+	font-size:14px;
+	text-decoration:none;
+	padding:5px 10px;
+}
+#menu1 li a:hover {
+	color:#333333;
+	background:#dc7518 url(../images/background_OVER.jpg) repeat-x;
+}
+
+#menu1 li div a:hover {
+	color:#333333;
+	background:#dc7518;
+}
+
+#menu1 li.current a,
+#menu1 li.section a {
+	background:url(../images/background_OVER.jpg) repeat-x;
+	color:#d2ebff;
+}
+
+ul#menu1 div {
+	display: none;
+	width: 18em;
+	position: absolute;
+	top:1.6 em;
+	left: 0em;
+	background-color: #e8a32e;
+	z-index: 601;
+}
+
+ul#menu1 li.hovering div { 
+	  display: block; 
+} 

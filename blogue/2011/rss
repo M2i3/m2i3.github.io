@@ -1,0 +1,39 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2011/</link>
+		<atom:link href="http://m2i3.com/blogue/2011/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Une belle avancée pour aider au démarrage d&#39;applications</title>
+			<link>http://m2i3.com/blogue/2011/2011-12-une-belle-avancee-pour-aider-au-demarrage-d-applications/</link>
+			<description>&lt;p&gt;Twitter, qui avaient commencé leur site en Ruby on Rails n'ont pas abandonné la communauté pour autant. C'est peu-dire avec un projet comme &lt;a href=&quot;http://bit.ly/uMETkH&quot;&gt;Bootstrap&lt;/a&gt; qui inclue tout le CSS, HTML et code Ruby on Rails de base pour créér une application web.&lt;/p&gt;
+&lt;p&gt;Le site est simple, clair et contient vraiment tout ce qui est nécessaire pour créer une application au look professionnel. L'outil contient aussi une section complète dédiée aux formulaires, un mal nécessaire à la création d'une application web.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+			<pubDate>Tue, 06 Dec 2011 13:33:56 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2011/2011-12-une-belle-avancee-pour-aider-au-demarrage-d-applications/</guid>
+		</item>
+		
+		<item>
+			<title>Un monde interconnecté</title>
+			<link>http://m2i3.com/blogue/2011/2011-06-un-monde-interconnecte/</link>
+			<description>&lt;p&gt;De retour de mon dernier voyage en europe j'ai pu apprécier à quel point le monde est maintenant interconnecté. Mon premier voyage date d'il y a 13 ans, un temps où, en France, on achetait encore une carte d'appel pour rappeler à la maison, où les cartes de métro étaient nécessaire pour naviger à l'intérieur de la ville et où la seule façon d'obtenir des informations sur les commerces était d'appeler, faxer ou encore attendre d'être sur place pour interragir avec le commercant.&lt;/p&gt;
+&lt;p&gt;Il est fascinant à quel point l'omniprésence de l'Internet et l'arrivé des téléphones portables, et en particulier des téléphones intelligents, a changé la dynamique du voyageur. Je n'ai plus à faxer mes réservations, tout le voyage a été réservé à partir de l'ordinateur de la maison. J'ai des copies électroniques importantes des documents (passeport, réservations, plans) sur mon téléphone. Et finalement, grâce à des logiciels comme Skype je peux appeler à la maison à peu de frais ou encore rediriger un numéro local du Canada sur mon portable français.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+			<pubDate>Tue, 23 Aug 2011 11:31:52 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2011/2011-06-un-monde-interconnecte/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

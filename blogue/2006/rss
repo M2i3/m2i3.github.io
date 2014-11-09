@@ -1,0 +1,369 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2006/</link>
+		<atom:link href="http://m2i3.com/blogue/2006/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Pourquoi de la publicité Google AdSense sur M2i3</title>
+			<link>http://m2i3.com/blogue/2006/2006-05-pourquoi-publicite-google-adsense-m2i3/</link>
+			<description>&lt;p&gt;Si vous êtes un lecteur régulier de notre blogue, vous avez peut-être remarqué que nous avons ajouté de la publicité &lt;a title=&quot;Bienvenue à AdSense&quot; href=&quot;http://www.google.com/adsense&quot;&gt;Google AdSense&lt;/a&gt;. Lors du lancement du portail &lt;a title=&quot;M2i3 - Experts CMS Joomla et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;, il y a plus d’un an, j’avais convaincu Jean-Marc de ne pas mettre de la publicité sur le portail. Mon point de vue est qu’un portail corporatif ne peut pas être considéré comme sérieux avec une publicité générée automatiquement. Il est normal que des portails comme &lt;a title=&quot;Microsoft&quot; href=&quot;http://www.microsoft.com/fr/ca/default.aspx&quot;&gt;Microsoft&lt;/a&gt; ou &lt;a title=&quot;Bienvenue chez Apple&quot; href=&quot;http://www.apple.com/ca/fr/&quot;&gt;Apple&lt;/a&gt; publicisent leur produit mais pas de publicité générée automatiquement.  Il est vrai que &lt;a title=&quot;M2i3 - Experts CMS Joomla et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt; est loin&lt;/p&gt;
+&lt;p&gt;de la réputation de &lt;a title=&quot;Microsoft&quot; href=&quot;http://www.microsoft.com/fr/ca/default.aspx&quot;&gt;Microsoft&lt;/a&gt;, &lt;a title=&quot;Bienvenue chez Apple&quot; href=&quot;http://www.apple.com/ca/fr/&quot;&gt;Apple&lt;/a&gt; ou même &lt;a title=&quot;Simple software to help you get organized: 37signals&quot; href=&quot;http://37signals.com/&quot;&gt;37signals&lt;/a&gt; et à ce jour nous n’avons pas de produit. À l’heure actuelle, il n’est pas possible d’avoir des commanditaires particuliers même à plus de 1000 visites par mois. Comme notre portail Web est surtout basé autour du blogue, nous avons décidé de complémenter nos revenus à l’aide de &lt;a title=&quot;Bienvenue à AdSense&quot; href=&quot;http://www.google.com/adsense&quot;&gt;Google AdSense&lt;/a&gt;. Mais ceci a un but. Nous sommes à développer un nouveau système de &lt;a title=&quot;gay.chat4.us - Clavarde à ta façon&quot; href=&quot;http://gay.chat4.us/fr&quot;&gt;clavardage&lt;/a&gt; basé entièrement sur la technologie &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt;. Le site est destiné aux &lt;a title=&quot;gay.chat4.us - Clavarde à ta façon&quot; href=&quot;http://gay.chat4.us/fr&quot;&gt;adultes de la communauté gai&lt;/a&gt;. Dans un court laps de temps, nous devrons certainement passer à un serveur dédié. Un serveur dédié est beaucoup plus cher qu’un compte partagé, nous espérons que nos revenus publicitaires nous aiderons à partir du bon bien.   Bonne soirée.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Bienvenue à AdSense&quot; href=&quot;http://www.google.com/adsense&quot;&gt;Google AdSense&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;M2i3 - Experts CMS Joomla et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Microsoft&quot; href=&quot;http://www.microsoft.com/fr/ca/default.aspx&quot;&gt;Microsoft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Bienvenue chez Apple&quot; href=&quot;http://www.apple.com/ca/fr/&quot;&gt;Apple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Simple software to help you get organized: 37signals&quot; href=&quot;http://37signals.com/&quot;&gt;37signals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;gay.chat4.us - Clavarde à ta façon&quot; href=&quot;http://gay.chat4.us/fr&quot;&gt;Site de clavadage Gai - Chat4.us&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 30 May 2007 20:18:31 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-05-pourquoi-publicite-google-adsense-m2i3/</guid>
+		</item>
+		
+		<item>
+			<title>Joyeux Noel, Bonne année 2007 et l&#39;avenir de Ruby on Rails</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-joyeux-noel-bonne-annee-2007-ruby-on-rails/</link>
+			<description>&lt;p&gt;L’équipe de M2i3 vous souhaite un très bon Noël. Prenez le temps de voir votre famille, bien manger et ne prenez pas le volant si vous avez bu. N’ayez pas peur si le blogue devient un peu muet pour les prochains jours. Nous prendrons quelques jours de congé bien mérités après une si belle année.  Sur le sujet de &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.org&quot;&gt;Ruby on Rails&lt;/a&gt;, il y a quelques jours, &lt;a title=&quot;My 2007 predictions&quot; href=&quot;http://yakovfain.javadevelopersjournal.com/my_2007_predictions.htm&quot;&gt;Yakov Fain&lt;/a&gt; a écrit que Ruby on Rails allait être oublié pendant l’années 2007 et qu’on n’en parlera plus. Je soutiens la réponse d’&lt;a title=&quot;Ruby on Rails won't make it in 2007?&quot; href=&quot;http://antoniocangiano.com/articles/2006/12/18/ruby-on-rails-wont-make-it&quot;&gt;Antonio Cangiano&lt;/a&gt; qui exprime que le monde de l’informatique évolue rapidement. Est-ce que &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.org&quot;&gt;Ruby on Rails&lt;/a&gt; en fera parti de cette évolution? Chez M2i3 nous garderons un œil sur toutes les technologies qui ont la possibilité de nous permettre de livrer un logiciel de meilleure qualité en un temps plus rapide. Une autre excellente lecture est le blogue de &lt;a title=&quot;Pete Laceys Weblog :: They cant hear you&quot; href=&quot;http://wanderingbarque.com/nonintersecting/2006/11/29/they-cant-hear-you/&quot;&gt;Pete Lacey&lt;/a&gt; sur l’incapacité des entreprises à entendre l’avenir des technologies étant fortement influencées par les grands fournisseurs.  Encore une fois, Joyeux Noël et Bonne Année.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://ruby on rails&quot;&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;My 2007 predictions&quot; href=&quot;http://yakovfain.javadevelopersjournal.com/my_2007_predictions.htm&quot;&gt;Blogue de Yakov Fain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Ruby on Rails won't make it in 2007?&quot; href=&quot;http://antoniocangiano.com/articles/2006/12/18/ruby-on-rails-wont-make-it&quot;&gt;Blogue d'Antonio Cangiano&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Pete Laceys Weblog :: They cant hear you&quot; href=&quot;http://wanderingbarque.com/nonintersecting/2006/11/29/they-cant-hear-you/&quot;&gt;Blogue de Pete Lacey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Sun, 24 Dec 2006 16:53:41 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-joyeux-noel-bonne-annee-2007-ruby-on-rails/</guid>
+		</item>
+		
+		<item>
+			<title>Houston nous avons une fuite... de mémoire</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-fuite-memoire/</link>
+			<description>&lt;p&gt;Les fuites de mémoires... le cauchemar des programmeurs.  Je ne connais pas un langage de programmation qui sous une forme ou une autre ne connaît pas ce problème.  Eh bien, Ruby et Ruby on Rails ne font pas exception.  Je suis à diagnostiquer un problème de fuite de mémoire en ce moment sur un projet Ruby on Rails.&lt;/p&gt;
+&lt;p&gt;Ma première réaction fut la panique (enfin presque)... considérant les outils disponibles pour Visual Basic, C++ ou en Java je m'attendais au pire; acheter un produit ou encore ajouter du code pour établir où la fuite se situe.  Mes recherches m'ont conduit sur le &lt;a href=&quot;http://scottstuff.net/blog/&quot;&gt;blogue de Scott Laird&lt;/a&gt; où il présente le code nécessaire pour effectuer un &lt;a href=&quot;http://scottstuff.net/blog/articles/2006/08/17/memory-leak-profiling-with-rails&quot;&gt;profilage mémoire en Ruby&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Là je suis resté surpris... Le langage lui-même présente toute la fonctionnalité pour diagnostiquer ce genre de problème et ce grâce à la classe ObjectSpace et la méthode employé par Scott reste très simple.  Dans son blogue Scott mentionne son désir de faire de ce bout de code un plugiciel pour Rails.&lt;/p&gt;
+&lt;p&gt;Ne l'ayant trouvé nul part j'ai donc ouvert un projet sur &lt;a href=&quot;http://tigris.org&quot;&gt;tigris.org&lt;/a&gt; pour partager la version &lt;a href=&quot;http://rails-memoryprofiler-plugin.tigris.org/&quot;&gt;plugiciel de l'outil de profilage mémoire&lt;/a&gt;.    Bon, j'retourne à mon problème.&lt;/p&gt;
+&lt;p&gt;L'outil m'a déjà permit d'isoler la portion du code à la source de la fuite de mémoire... je n'ai plus qu'à la colmater. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://scottstuff.net/blog/articles/2006/08/17/memory-leak-profiling-with-rails&quot;&gt;le blogue sur le profilage mémoire en Ruby.&lt;/a&gt; {en}&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;A Memory Profiling and diagnosis plugin for Ruby on Rails.&quot; href=&quot;http://rails-memoryprofiler-plugin.tigris.org/&quot;&gt;le projet rails-memoryprofiler-plugin sur tigris.org&lt;/a&gt; {en}&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 20 Dec 2006 22:16:40 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-fuite-memoire/</guid>
+		</item>
+		
+		<item>
+			<title>Ajouter le générateur de mot de passe sécuritaire et prononçable sur votre site Web</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-mot-de-passe-widget/</link>
+			<description>&lt;p&gt;Ce n'est plus une surprise puisque j'en parlais hier en cherchant une traduction pour le terme &lt;a href=&quot;http://m2i3.com/blogue/2006/2006-12-traduire-correctement/&quot;&gt;&quot;Powered By&quot; dans le Grand dictionnaire terminologique&lt;/a&gt;.  Voici le premier widget conçu par M2i3 (un grand moment en fait, les premières fois ne reviennent jamais): Le &lt;a href=&quot;http://m2i3.com/blogue/2006/2006-11-mot-de-passe-annonce/&quot;&gt;générateur de mot de passe prononçable&lt;/a&gt; est disponible pour être &lt;a title=&quot;Ajouter le générateur de mot de passe sécuritaire et prononçable sur votre site Web&quot; href=&quot;http://m2i3.com/mot-de-passe-widget&quot;&gt;ajouté à votre site web&lt;/a&gt;.  Un code tout simple et le générateur en deux versions (i.e. avec ou sans bordure).    Bonne génération!&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://m2i3.com/blogue/2006/2006-11-mot-de-passe-annonce/&quot;&gt;Générateur de mot de passe sécuritaire et prononçable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://m2i3.com/mot-de-passe-widget&quot;&gt;Ajouter le générateur de mot de passe à votre site web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 20 Dec 2006 09:56:47 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-mot-de-passe-widget/</guid>
+		</item>
+		
+		<item>
+			<title>&quot;Powered By&quot; un grand dictionnaire</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-traduire-correctement/</link>
+			<description>&lt;p&gt;Je suis à terminer ce soir un outil qui vous permettra d'avoir le &lt;a href=&quot;http://m2i3.com/blogue/2006/2006-11-mot-de-passe-annonce/&quot;&gt;générateur de mot de passe sécuritaire et prononçable&lt;/a&gt; directement sur votre propre site web.  Le travail va bon train quand j'ai soudainement frappé un noeud... terminologique.    Nous avons tous vu le texte &quot;Powered By&quot; sur des sites webs.  Mon problème, ce soir, est simple... comment l'écrire en français?    Plusieurs choix s'offraient à moi:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;inventer un terme français pour &quot;Powered By&quot;&lt;/li&gt;
+&lt;li&gt;fouiller sur le web francophone en espérant trouver un texte répondant à la traduction&lt;/li&gt;
+&lt;li&gt;utiliser un &lt;a href=&quot;http://www.google.ca/language_tools?hl=en&quot;&gt;engin de traduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;utiliser le &lt;a title=&quot;Grand dictionnaire terminologique de l'office québécois de la langue française&quot; href=&quot;http://www.granddictionnaire.com&quot;&gt;Grand dictionnaire terminologique&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Bien que l'&lt;a href=&quot;http://www.google.ca/language_tools?hl=en&quot;&gt;engin de traduction de Google&lt;/a&gt; donne un réponse (et pour ceux qui aiment rire je vous suggère de jeter un coup d'oeil à la traduction de &quot;Powered By&quot;) mon premier choix s'est porté sur le &lt;a title=&quot;Grand dictionnaire terminologique de l'office québécois de la langue française&quot; href=&quot;http://www.granddictionnaire.com&quot;&gt;Grand dictionnaire terminologique&lt;/a&gt;.    L'outil peut sembler banal mais dans un contexte anglais/français il vaut son pesant d'or.    Premièrement, il fournit la liste des domaines où l'expression est utilisé.  Ensuite, il nous fournit une définition rattachée à l'expression, ce qui nous permet de s'assurer que l'expression convient au contexte. Enfin, l'outil donne une liste de synonyme dans le cas où l'expression traduite ne serait pas totalement approprié.  Bref, un bel outil à ajouter à vos liens.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Grand dictionnaire terminologique de l'office québécois de la langue française&quot; href=&quot;http://www.granddictionnaire.com&quot;&gt;Grand dictionnaire terminologique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.google.ca/language_tools?hl=en&quot;&gt;engin de traduction de Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://m2i3.com/blogue/2006/2006-11-mot-de-passe-annonce/&quot;&gt;générateur de mot de passe sécuritaire et prononçable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 19 Dec 2006 20:38:18 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-traduire-correctement/</guid>
+		</item>
+		
+		<item>
+			<title>Commentaires Joomla</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-commentaires-joomla/</link>
+			<description>&lt;p&gt;&lt;img src=&quot;http://m2i3.com/files/iStock_Santa_sm.jpg&quot; alt=&quot;Père Noël perdu&quot; title=&quot;&quot;/&gt; En tant qu’administrateur du portail Web &lt;a title=&quot;M2i3 - Experts CMS Joomla et Ruby on rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;, je vérifie mes statistiques d’utilisation régulièrement. J’étudie les tendances, et les allers et venues pour être en mesure d'écrire de meilleurs sujets de discussions pour nos prochains blogues et quels éléments doit-on mettre l’emphase.  Depuis environs deux semaines, je remarque un grand achalandage en&lt;/p&gt;
+&lt;p&gt;provenance de &lt;a title=&quot;Google&quot; href=&quot;http://Google.ca&quot;&gt;Google&lt;/a&gt;. Les mots clé utilisés sont « Commentaire et Joomla » ou des variations autour de ce thème. Le problème est que je ne sais pas comment interpréter cette recherche. J'aimerais savoir si vous êtes à la recherche d'une revue superficielle de &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt;, une revue en profondeur de &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt; ou une discussion sur un module de commentaire sur &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt;. Je vous invite à laisser vos commentaires sur ce blogue. Donnez nous une idée plus précise de vos besoins et nous tenterons d’y répondre. Nous voulons vraiment savoir quel information vous recherchez et laissez nous y répondre.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;M2i3 - Experts CMS Joomla et Ruby on rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Google&quot; href=&quot;http://Google.ca&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 14 Dec 2006 22:42:31 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-commentaires-joomla/</guid>
+		</item>
+		
+		<item>
+			<title>Pluralisation dans le ActiveRecord de Ruby on Rails</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-pluralisation-ruby-on-rails/</link>
+			<description>&lt;p&gt;Ruby on Rails fait la pluralisation des noms de tables dans le modèle automatiquement.  Ça semble simple à prime abord, mais, comme je n'aime pas fouiller pour rien j'ai développé ce petit truc pour m'assurer du nom de la table à créer.  Premièrement, je génère le squelette du mon modèle avec la commande script/generate.  Ensuite, j'ouvre la console et je demande au modèle quelle est la table que l'ActiveRecord vas utiliser pour effectuer la recherche et les manipulations de données.  Donc... pour notre modèle &quot;Person&quot; nous aurons:&lt;/p&gt;
+&lt;pre&gt;#&amp;gt; ruby script/console
+Loading development environment.
+&amp;gt;&amp;gt; Person.table_name
+=&amp;gt; &quot;people&quot;
+&amp;gt;&amp;gt; # et si vous êtes paresseux vous pouvez même demander 
+&amp;gt;&amp;gt; # à Ruby de vous donner le symbole à utiliser pour les scripts de migration...
+&amp;gt;&amp;gt; Person.table_name.to_sym
+=&amp;gt; :people
+&lt;/pre&gt;
+&lt;p&gt;Simple... non?&lt;/p&gt;</description>
+			<pubDate>Tue, 12 Dec 2006 10:18:05 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-pluralisation-ruby-on-rails/</guid>
+		</item>
+		
+		<item>
+			<title>L&#39;importance de vos liens dans votre portail web</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-importance-liens-portail-web/</link>
+			<description>&lt;p&gt;Après un an de travail sur l’optimisation de liens dans les engins de recherche, il m’est arrivé une expérience extraordinaire cette semaine. Par deux fois, il y a quelqu’un qui est venu sur notre portail via &lt;a title=&quot;Google&quot; href=&quot;http://google.ca&quot;&gt;Google&lt;/a&gt; en utilisant les mots clés : &lt;a title=&quot;Livres pour Noel&quot; href=&quot;http://m2i3.com/2006/11/livre-pour-noel&quot;&gt;Livres pour Noël&lt;/a&gt;. Ils tombent sur un blogue qui annonce nos livres favoris de l’année courante. Ce qu’il y a d’extraordinaire est que nous somme en première page sur &lt;a title=&quot;Google&quot; href=&quot;http://google.ca&quot;&gt;Google&lt;/a&gt;. Disons que ces termes sont plutôt génériques et que je m’attendrai à retrouver des portails comme &lt;a title=&quot;Amazon.ca: Online shopping for Canadians - books, music, DVDs, software, video games &amp;amp; more&quot; href=&quot;http://amazon.ca&quot;&gt;Amazon&lt;/a&gt;, &lt;a title=&quot;Archambault Musique CD Livres Films DVD et Instruments&quot; href=&quot;http://archambault.ca/store/default.asp&quot;&gt;Archambault (Québec)&lt;/a&gt; ou &lt;a title=&quot;chapters.indigo.ca&quot; href=&quot;http://www.chapters.indigo.ca/home&quot;&gt;Indigo (Québec)&lt;/a&gt;. On se comprend bien que le motif d’affaire de notre entreprise n’est pas la vente de livre.  Fait à noter, notre liens pour accéder la page est pratiquement identique aux mots recherchés. En choisissant un titre et un lien, ceci m’a permit de passer devant 9 millions de portail. Regardez attentivement les résultats dans &lt;a title=&quot;Google&quot; href=&quot;http://google.ca&quot;&gt;Google&lt;/a&gt;. Il est possible qu'il y ait des différence celon votre localisation, mais disons que je suis assez fier de mon résultat.&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Cliquez pour agrandir&quot; href=&quot;http://m2i3.com/files/livres-pour-noel1.jpg&quot;&gt;&lt;img src=&quot;http://m2i3.com/files/livres-pour-noel1-sm.jpg&quot; alt=&quot;Classement de M2i3 pour la recherche Livres sur Noel chez Google Canada&quot; width=&quot;650&quot; title=&quot;&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Cliquez pour agrandir&quot; href=&quot;http://m2i3.com/files/livres-pour-noel2.jpg&quot;&gt;&lt;img src=&quot;http://m2i3.com/files/livres-pour-noel2-sm.jpg&quot; alt=&quot;Classement de M2i3 pour la recherche Livres pour Noel chez Google Suisse&quot; width=&quot;650&quot; title=&quot;&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Conclusion, donner du contenu de qualité, travailler vos mots clés dans le titre et les noms de liens, vous pourriez bien avoir du succès.  Bonne journée.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Livres pour Noel&quot; href=&quot;http://m2i3.com/2006/11/livre-pour-noel&quot;&gt;M2i3 suggestions de livres pour Noël&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Google&quot; href=&quot;http://google.ca&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Amazon.ca: Online shopping for Canadians - books, music, DVDs, software, video games &amp;amp; more&quot; href=&quot;http://amazon.ca&quot;&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Archambault Musique CD Livres Films DVD et Instruments&quot; href=&quot;http://archambault.ca/store/default.asp&quot;&gt;Archambault (Québec)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;chapters.indigo.ca&quot; href=&quot;http://www.chapters.indigo.ca/home&quot;&gt;Indigo (Québec)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Fri, 08 Dec 2006 17:24:27 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-importance-liens-portail-web/</guid>
+		</item>
+		
+		<item>
+			<title>Système de commentaires pour Joomla</title>
+			<link>http://m2i3.com/blogue/2006/2006-12-systeme-commentaires-joomla/</link>
+			<description>&lt;p&gt;J'apprécie toujours de recevoir un commentaire. Aujourd'hui une question: Quel est le module de commentaire que nous utilisons pour notre portail? La personne utilise &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt; et nous demande de partager notre module.  Bien que je parle de &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt; depuis longtemps sur notre blogue, l'ironie du&lt;/p&gt;
+&lt;p&gt;sort fit que nous avons choisit &lt;a title=&quot;drupal.org | Community plumbing&quot; href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt; pour notre portail actuel. À l’époque ceci semblait une bonne idée. Disons que nous en sommes venus à apprécier &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt; un peu plus pour certains aspects comme la facilité de créer des gabarits. &lt;a title=&quot;drupal.org | Community plumbing&quot; href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt; a néanmoins de solides fonctionnalités comme des hyperliens interprétables par les engins de recherche.  Donc pour revenir à notre ami, j’ai fait une petite recherche pour un module de commentaires. J’ai trouvé &lt;a title=&quot;Joomla! Extensions Directory - !JoomlaComment 2.40&quot; href=&quot;http://extensions.joomla.org/component/option,com_mtree/task,viewlink/link_id,677/Itemid,35/&quot;&gt;JoomlaComment 2.40&lt;/a&gt;.  Il me semble bien et je l’ai tout de suite essayé sur notre portail &lt;a title=&quot;MyWebSiteAnalysis&quot; href=&quot;http://mywebsiteanalysis.com&quot;&gt;MyWebSiteAnalysis.com&lt;/a&gt;. Ça marche très bien. Même fonctionnalités que le module de commentaires de &lt;a title=&quot;drupal.org | Community plumbing&quot; href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt;. &lt;strong&gt;Attention&lt;/strong&gt;, si vous avez &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt; version 1.0.11 téléchargez la version de &lt;a title=&quot;HaanChiang.com &amp;gt; Joomla Comment 2.4 Final. Fixed and Solutions to line 160 error, comment has been queued for admins approval, and backend administrator setting and comment management&quot; href=&quot;http://www.haanchiang.com/28&quot;&gt;HaanChiang.com&lt;/a&gt; à la place. Il fait certaines corrections pour la dernière version de &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt;.  Bonne journée à tous.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;drupal.org | Community plumbing&quot; href=&quot;http://drupal.org&quot;&gt;Drupal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Joomla! Extensions Directory - !JoomlaComment 2.40&quot; href=&quot;http://extensions.joomla.org/component/option,com_mtree/task,viewlink/link_id,677/Itemid,35/&quot;&gt;JoomlaComment 2.40&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;MyWebSiteAnalysis&quot; href=&quot;http://mywebsiteanalysis.com&quot;&gt;MyWebSiteAnalysis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;HaanChiang.com &amp;gt; Joomla Comment 2.4 Final. Fixed and Solutions to line 160 error, comment has been queued for admins approval, and backend administrator setting and comment management&quot; href=&quot;http://www.haanchiang.com/28&quot;&gt;HaanChiang.com - JoomlaComment 2.40 pour Joomla 1.0.11&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 05 Dec 2006 21:24:18 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-12-systeme-commentaires-joomla/</guid>
+		</item>
+		
+		<item>
+			<title>M2i3 un an déjà</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-m2i3-un-an-deja/</link>
+			<description>&lt;p&gt;
+&lt;object width=&quot;320&quot; height=&quot;200&quot; data=&quot;http://www.youtube.com/v/IZGdUj1VB1M&quot; type=&quot;application/x-shockwave-flash&quot;&gt;
+&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/IZGdUj1VB1M&quot;/&gt;&lt;/object&gt;
+Hé oui!   Il y a environ une année que &lt;a title=&quot;Experts CMS Joomla et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt; existe. Il nous reste une année à bien faire pour ne pas tomber dans les statistiques que autour de 37% des compagnies aux Québec ferment en moins de 2 ans d’opération. Lisez les détails dans le document &lt;a title=&quot;Taux d'échec des nouvelles entreprises canadiennes:Nouvelles perspectives sur les entrées et les sorties&quot; href=&quot;http://www.statcan.ca/francais/freepub/61-526-XIF/61-526-XIF1999001.pdf&quot;&gt;Taux d'échec des nouvelles entreprises canadiennes:Nouvelles perspectives sur les entrées et les sorties&lt;/a&gt;.  Je dois dire qu je suis très heureux de notre année. Deux portails de commerce électronique pour Search4stock.ca, un portail pour &lt;a title=&quot;Omniscient Technologies&quot; href=&quot;http://Omniscient.ca&quot;&gt;Omniscient Technologies&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt;, un nouveau portail pour G-Force &lt;strong&gt;(à venir)&lt;/strong&gt;. Nous avons un blogue qui est mis à jour régulièrement et près de 800&lt;/p&gt;
+&lt;p&gt;visiteurs par mois sur notre portail &lt;a title=&quot;Experts CMS Joomla et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;.  Pour le futur, nous continuons nos efforts, nous avons des discussions avec plusieurs clients potentiels pour des portails de contenu avec Joomla dans la région Montréalaise. On regarde de près la sortie de &lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla 1.5&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt;. On continue nos efforts en &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://Rubyonrails.com&quot;&gt;Ruby on Rails&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt; en vous faisant profiter de nos connaissance dès que l’on peut. Nous continuons nos efforts dans l’optimisation d’engin de recherche. Nous avons de bons projets en travail dont MyWebSiteAnalysis qui devrait prendre vie peu à peu après le temps des fêtes.  Merci à vous les lecteurs et n’oubliez pas que vous pouvez toujours nous laisser des commentaires sur tous nos textes de blogues.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Experts CMS Joomla et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search4stock.ca&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Omniscient Technologies&quot; href=&quot;http://Omniscient.ca&quot;&gt;Omniscient Technologies&lt;/a&gt;&lt;strong&gt;{Anglophone}&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Joomla!&quot; href=&quot;http://joomla.org&quot;&gt;Joomla&lt;/a&gt;&lt;strong&gt;{Anglophone}&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://Rubyonrails.com&quot;&gt;Ruby on Rails&lt;/a&gt;&lt;strong&gt;{Anglophone}&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;MyWebSiteAnalysis&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 30 Nov 2006 11:39:26 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-m2i3-un-an-deja/</guid>
+		</item>
+		
+		<item>
+			<title>Une multitude de langages de programmation</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-multitude-langage-programmation/</link>
+			<description>&lt;p&gt;En faisant la lecture de la présentation &lt;a href=&quot;http://www.ruby-doc.org/docs/10%20Things%20Every%20Java%20Programmer%20Should%20Know%20About%20Ruby/10things.tgz&quot;&gt;&quot;10 Things Every Java Programmer Should Know About Ruby&quot;&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt; pour OSCON 2005 (il s'agit de la convention du logiciel libre) j'ai trouvé une citation qui vient renforcer ce que je pense des langages de programmation.    Voici la citation:&lt;/p&gt;
+&lt;blockquote&gt;&lt;em&gt;A language that doesn’t affect the way you think about programming is not worth knowing&lt;/em&gt; — &lt;a href=&quot;http://en.wikipedia.org/wiki/Alan_Perlis&quot;&gt;Alan Perlis&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;En français: Un langage qui&lt;/p&gt;
+&lt;p&gt;n'affecte pas votre façon de penser sur la programmation ne vaut pas la peine d'être connu.  J'ai utilisé, et j'utilise encore,  plusieurs langages de programmation dans le cadre de mon travail.  Pourquoi? Eh bien, contrairement aux gens qui préfèrent utiliser un seul langage pour tout je préfère utiliser le langage qui vas me permettre de mieux exprimer ce que j'essai d'accomplir.  C'est un peu comme parler français, anglais et... pour la comparaison l'&lt;a href=&quot;http://fr.wikipedia.org/wiki/Inuktitut&quot;&gt;inuktitut&lt;/a&gt;.  C'est bien vrai qu'il est possible de parler anglais tout le temps mais il y a des structures, des mots qui en français sont beaucoup plus adaptés.  Et pour la comparaison, si vous parliez de neige dans le détail, l'&lt;a href=&quot;http://fr.wikipedia.org/wiki/Inuktitut&quot;&gt;inuktitut&lt;/a&gt; serait le langage de choix puisque son vocabulaire pour décrire la neige est plus détaillé que les autres langues.  Pourquoi? parce que c'est le froid et la neige qui entoure les Inuits qui ont façonné la langue.  La programmation consiste en exprimer à un ordinateur ce qu'il doit faire dans tel et tel contexte.  Pour revenir à l'analogie des gens et des langues, puisque chaque langage de programmaion est né d'un contexte précis et d'une façon de penser précise, il me semble naturel d'utiliser le langage de programmation le plus approprié au problème et contexte d'utilisation.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.ruby-doc.org/docs/10%20Things%20Every%20Java%20Programmer%20Should%20Know%20About%20Ruby/10things.tgz&quot;&gt;&quot;10 Things Every Java Programmer Should Know About Ruby&quot;&lt;/a&gt;&lt;strong&gt;{site anglais}&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 29 Nov 2006 09:33:03 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-multitude-langage-programmation/</guid>
+		</item>
+		
+		<item>
+			<title>Geler le temps en Ruby on Rails</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-geler-temps-ruby-on-rails/</link>
+			<description>&lt;p&gt;Gérer le temps... à plusieurs reprises dans la création d'application la gestion mais surtout le contrôle du temps devient important.  Par exemple, un système d'enregistrement avec expiration... ou une offre avec date de début et de fin.  Traditionnellement on changerait, à travers le code ou encore directement sur le poste de travail ou le serveur, l'heure et la date de la machine.  En Ruby, grace à la capacité de redéfinition d'objets et de classes on peut simplifier et automatiser le processus... jusqu'à geler le temps... De cette façon il devient possible dans les tests unitaires automatisés de vérifier si le code se comporte correctement à une date précise, si les délais d'expirations et autres calculs sont correctes, et ce, sans avoir à changer l'heure sur l'horloge de son ordinateur.  J'ai découvert cette méthode simple&lt;/p&gt;
+&lt;p&gt;en étudiant la suite de tests unitaires pour un des engins de Ruby on Rails.  Le code de base permet d'avancer et reculer le temps.  Le code original provient du &lt;a href=&quot;http://api.rails-engines.org/login_engine/&quot;&gt;Login Engine&lt;/a&gt;.  Je l'ai amélioré pour fournir un temps constant  La classe Time fournit l'heure et la date pour beaucoup de code en Ruby, le principe est qu'en réécrivant la méthode &lt;strong&gt;now&lt;/strong&gt; on peut jouer avec le temps comme on veut.   Voici le code:&lt;/p&gt;
+&lt;div style=&quot;font-family:courier; white-space:pre; border: 1px solid #c0c0c0; background-color: #f0f0f0&quot;&gt;require 'time'  Time.class_eval {    if !respond_to? :now_old # somehow this is getting defined many times.          @@advance_by_days = 0     @@constant_date_time = nil     cattr_accessor :advance_by_days     cattr_accessor :constant_date_time          class     Il y a deux aspects intéressant à ce code.  L'instruction &lt;strong&gt;alias&lt;/strong&gt; qui permet de renommer une méthode existante.  Et la méthode now qui est la réécriture du temps avec constante et délai.
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://api.rails-engines.org/login_engine/&quot;&gt;Login Engine&lt;/a&gt; - La référence pour le code en example&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html#alias&quot;&gt;méthode Alias&lt;/a&gt; - La syntax pour la méthode alias &lt;strong&gt;{anglais}&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+			<pubDate>Mon, 27 Nov 2006 12:50:20 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-geler-temps-ruby-on-rails/</guid>
+		</item>
+		
+		<item>
+			<title>Livres pour Noel</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-livre-pour-noel/</link>
+			<description>&lt;p&gt;Et bien un petit blogue rapide en ce samedi soir.&lt;/p&gt;
+&lt;p&gt;J'ai ouvert une nouvelle page chez M2i3 avec nos livres préférés. On commence tranquillement avec quelques très bon auteurs à mon avis.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Le livre &lt;strong&gt;Getting Real&lt;/strong&gt; de 37Signals les créateur de Rails dans Ruby On Rails. En passant, le livre est maintenant gartuit en version HTML sur leur portail.&lt;/li&gt;
+&lt;li&gt;Le livre de &lt;strong&gt;Web Design Business Kit&lt;/strong&gt; de Brendon Sinclair&lt;/li&gt;
+&lt;li&gt;Le livre de Jefferey Gitomer sur la vente &lt;strong&gt;99.5 sales answers&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Les livres de Malcolm Gladwell &lt;strong&gt;Blink&lt;/strong&gt; et &lt;strong&gt;Tipping Point&lt;/strong&gt; qui sont d'excellent livre sur comme l'Homme prend des décisions.&lt;/li&gt;
+&lt;li&gt;Un livre d'humour avec Arthur Bloch et les &lt;strong&gt;lois de Murphy&lt;/strong&gt; absolument hilarant&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Aller jeter un coup d'oeil à notre section &lt;a title=&quot;Livres M2i3&quot; href=&quot;http://m2i3.com/livres&quot;&gt;livres M2i3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bonne journée.&lt;/p&gt;</description>
+			<pubDate>Sat, 25 Nov 2006 23:07:33 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-livre-pour-noel/</guid>
+		</item>
+		
+		<item>
+			<title>Manifeste pour le développement de logiciel Agile</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-manifeste-pour-le-developpement-de-logiciel-agile/</link>
+			<description>&lt;p&gt;Une petite vite en ce jeudi soir. J'ai refait une traduction en français du &lt;a title=&quot;Agile Manifesto&quot; href=&quot;http://agilemanifesto.org&quot;&gt;manifeste Agile&lt;/a&gt;&lt;strong&gt;{site anglais}&lt;/strong&gt;. Les traductions trouvé sur le web manque tous les noms des créateurs du manifeste ainsi que la notice du doit d'auteur qui est obligatoire selon le manifeste originale.  Trouvez la version française du manifeste en cliquant &lt;a title=&quot;manifeste Agile francais&quot; href=&quot;http://m2i3.com/manifeste-agile&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Agile Manifesto&quot; href=&quot;http://agilemanifesto.org&quot;&gt;Manifeste Agile original&lt;/a&gt;&lt;strong&gt;{site anglais}&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Imanifeste Agile francais&quot; href=&quot;http://m2i3.com/manifeste-agile&quot;&gt;Manifeste Agile français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 16 Nov 2006 22:06:01 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-manifeste-pour-le-developpement-de-logiciel-agile/</guid>
+		</item>
+		
+		<item>
+			<title>Est-ce que libre est illégal</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-est-ce-que-libre-est-illegal/</link>
+			<description>&lt;p&gt;&lt;img src=&quot;http://m2i3.com/files/liberte-sur-internet.jpg&quot; alt=&quot;liberte sur Internet&quot; title=&quot;&quot;/&gt; C’est une bonne nouvelle qu’à soumis la journaliste Anne Broache sur la victoire en cours des entreprises qui conçoivent du code source libre. En effet, des compagnies comme &lt;a title=&quot;IBM Canada&quot; href=&quot;http://www.ibm.com/ca/fr/&quot;&gt;IBM&lt;/a&gt;, &lt;a title=&quot;redhat.fr&quot; href=&quot;http://www.fr.redhat.com/&quot;&gt;Red Hat&lt;/a&gt; et &lt;a title=&quot;NOVELL: Worldwide&quot; href=&quot;http://www.novell.com/home/index.jsp&quot;&gt;Novell&lt;/a&gt; ont gagné face à Daniel Wallace qui les accusaient de concurrence déloyal parce qu’ils offraient leurs logiciels gratuitement.  Les juges n’ont pas retenus l’argument du plaignant qui proclamait que les entreprises qui distribuent du code sous la license &lt;a title=&quot;Open Source Initiative OSI - The GPL:Licensing&quot; href=&quot;http://opensource.org/licenses/gpl-license.php&quot;&gt;GNU General Public License&lt;/a&gt; sont des conspirateurs et font de la collusion dans le but de fixer les prix (gratuits).  Lisez l'article &lt;strong&gt;{en}&lt;/strong&gt;&lt;a title=&quot;Open source earns legal victory | News.blog | CNET news.com&quot; href=&quot;http://news.com.com/2061-10796_3-6134573.html?part=rss&amp;amp;tag=2547-1_3-0-20&amp;amp;subj=news&quot;&gt;ici&lt;/a&gt;.  Bonne journée.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;IBM Canada&quot; href=&quot;http://www.ibm.com/ca/fr/&quot;&gt;IBM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;redhat.fr&quot; href=&quot;http://www.fr.redhat.com/&quot;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;NOVELL: Worldwide&quot; href=&quot;http://www.novell.com/home/index.jsp&quot;&gt;Novell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Open Source Initiative OSI - The GPL:Licensing&quot; href=&quot;http://opensource.org/licenses/gpl-license.php&quot;&gt;GNU General Public License&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Open source earns legal victory | News.blog | CNET news.com&quot; href=&quot;http://news.com.com/2061-10796_3-6134573.html?part=rss&amp;amp;tag=2547-1_3-0-20&amp;amp;subj=news&quot;&gt;Article Open source earns legal victory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Sat, 11 Nov 2006 14:37:36 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-est-ce-que-libre-est-illegal/</guid>
+		</item>
+		
+		<item>
+			<title>Un générateur de mot de passe sécuritaire et prononçable.</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-mot-de-passe-annonce/</link>
+			<description>&lt;p&gt;Un des engins de &lt;a href=&quot;http://wiki.splitbrain.org/wiki:dokuwiki&quot;&gt;Wiki&lt;/a&gt; que j'adore possède un générateur de mot de passe qui a deux caractéristiques très intéressantes. La première, les mots de passes sont aléatoire et assez sécuritaire (bon vous me direz c'est rien de nouveau).  La deuxième est que le mot de passe reste prononçable.    J'ai donc incorporé le &lt;a href=&quot;http://mot-de-passe.m2i3app.com/&quot;&gt;générateur de mot de passe sécuritaire et prononçable&lt;/a&gt; à notre site pour que vous puissiez en bénéficier aussi.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;DokuWiki a simple yet very effective Wiki&quot; href=&quot;http://wiki.splitbrain.org/wiki:dokuwiki&quot;&gt;DokuWiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;générateur de mot de passe sécuritaire et prononçable&quot; href=&quot;http://mot-de-passe.m2i3app.com/&quot;&gt;Générateur de mot de passe sécuritaire et prononçable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Fri, 10 Nov 2006 07:02:38 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-mot-de-passe-annonce/</guid>
+		</item>
+		
+		<item>
+			<title>Un moment absent</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-un-moment-absent/</link>
+			<description>&lt;p&gt;Une interruption de service quelque part sur l'Internet a empêché certains d'entre-vous et certains de nos clients d'accéder à leur site et informations.    Comme bien des structures complexes l'Internet reste aussi fort que sont point le plus faible, d'ou &lt;a href=&quot;http://m2i3.com/2006/03/importance_stardard_web&quot;&gt;l'importance des standards&lt;/a&gt;.  Selon notre fournisseur de service il semblerait qu'un ou plusieurs &lt;a href=&quot;http://fr.wikipedia.org/wiki/DNS&quot;&gt;DNS&lt;/a&gt; du réseau Canadien ait cessé de fonctionner (ou était tout simplement non rejoignable).  Nous sommes désolé de la situation et des inconvénients que cela à pu causer.&lt;/p&gt;</description>
+			<pubDate>Thu, 09 Nov 2006 13:32:08 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-un-moment-absent/</guid>
+		</item>
+		
+		<item>
+			<title>Pour tous nos lecteurs qui nous aime</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-pour-tous-nos-lecteurs-qui-nous-aime/</link>
+			<description>&lt;p&gt;Si vous appréciez nos efforts et nos blogues, je vous demande de bien mettre les liens suivants sur vos sites. C’est liens sont important pour nous car il aide à déterminer notre place comme entreprise qui développe du code en &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.com&quot;&gt;Ruby on Rails&lt;/a&gt; de manière &lt;a title=&quot;Agile Alliance&quot; href=&quot;http://www.agilealliance.org/&quot;&gt;Agile&lt;/a&gt; offrant une licence de &lt;a title=&quot;Open Source Initiative OSI - Welcome&quot; href=&quot;http://opensource.org/&quot;&gt;code source libre&lt;/a&gt; dans la région de Montréal. Le Web est un grand univers et pour augmenter notre crédibilité nous avons besoins de vous cher lecteur.  J’aimerais vous écrire un peu plus. Travail de fin de contrat oblige, nous sommes un peu coincé dans le temps. Chaque jour n’ayant que 24 heures. Je prépare une petite discussion sur &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.com&quot;&gt;Ruby on Rails&lt;/a&gt; quoi faire après « scaffold ». Jean-Marc mijote une idée brillante sur la gestion de projet qui explique que parce qu’on a un marteau entre les mains, tous n’est pas un clou. (Cette citation est sur le point de devenir notre nouveau slogan si on continue de la sorte.)  Merci mille fois de votre effort.  Liens en Français:&lt;/p&gt;
+&lt;table border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;lt;a href=&quot;http://m2i3.com&quot;&amp;gt;Méthode Agile et Code Source Libre pour répondre à vos besoins avec M2i3&amp;lt;/a&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;ou bien:&lt;/p&gt;
+&lt;table border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;lt;a href=&quot;http://m2i3.com&quot;&amp;gt;Développeurs Ruby on Rails dans la région de Montréal&amp;lt;/a&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;Liens en Anglais:&lt;/p&gt;
+&lt;table border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;lt;a href=&quot;http://m2i3.com&quot;&amp;gt;Agile Projects and Open Source to connect needs to solutions with M2i3&amp;lt;/a&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;ou bien:&lt;/p&gt;
+&lt;table border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&amp;lt;a href=&quot;http://m2i3.com&quot;&amp;gt;Ruby on Rails developers in the Montreal region&amp;lt;/a&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+			<pubDate>Mon, 06 Nov 2006 23:11:07 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-pour-tous-nos-lecteurs-qui-nous-aime/</guid>
+		</item>
+		
+		<item>
+			<title>Assez de corde pour se tirer dans le pied</title>
+			<link>http://m2i3.com/blogue/2006/2006-11-assez-corde-tirer-dans-pied/</link>
+			<description>&lt;p&gt;Non ce n’est pas moi qui ai inventé cette ligne. Je la tiens du livre de Allen I. Holub sur le C et le C++ en 1994. Je n'ai pas lu le livre mais son titre m'est resté en tête.  Nous sommes à donner la dernière touche au nouveau site de &lt;a title=&quot;Spécialiste en diversité&quot; href=&quot;http://gforcemontreal.com&quot;&gt;GForce&lt;/a&gt;. Disons que j’ai eu des difficultés énormes avec le &lt;a title=&quot;Feuilles de style en cascade - Wikipedia&quot; href=&quot;http://fr.wikipedia.org/wiki/Css&quot;&gt;CSS&lt;/a&gt;. Si vous désirez faire du développement de portail Web, &lt;a title=&quot;Page d'accueil | Mozilla Europe&quot; href=&quot;http://www.mozilla-europe.org/fr/&quot;&gt;Firefox&lt;/a&gt; avec&lt;/p&gt;
+&lt;p&gt;l’extension développeur est vraiment la méthode pour faire du bon travail. J’ai un concept superbe sous &lt;a title=&quot;Page d'accueil | Mozilla Europe&quot; href=&quot;http://www.mozilla-europe.org/fr/&quot;&gt;Firefox&lt;/a&gt; et &lt;a title=&quot;Opera web browser: Homepage&quot; href=&quot;http://www.opera.com/&quot;&gt;Opera&lt;/a&gt;. Les deux fureteurs donnaient de très beaux résultats.   Aller hop! On passe à &lt;a title=&quot;Internet Explorer6: Home&quot; href=&quot;http://www.microsoft.com/windows/ie/ie6/default.mspx&quot;&gt;Internet Explorer 6.0&lt;/a&gt;. J’ai misé 100$ avec l’humanité que le site ne fonctionnerait pas sur ce fureteur. Et bien l’humanité me doit 100$. C’était épouvantable. &lt;a title=&quot;Internet Explorer6: Home&quot; href=&quot;http://www.microsoft.com/windows/ie/ie6/default.mspx&quot;&gt;Internet Explorer 6.0&lt;/a&gt; est incapable de gérer les éléments &lt;a title=&quot;Feuilles de style en cascade - Wikipedia&quot; href=&quot;http://fr.wikipedia.org/wiki/Css&quot;&gt;CSS&lt;/a&gt; comme « right : » sans avoir une largeur de définie. C’est bien quand on veut faire un portail fluide avec largeur variable. Après plusieurs heures de travail sans succès, je décide donc à faire un site avec des tables. Je pensais bien pouvoir m’en sortir sans. Probablement que j’aurai pu, mais au prix de combien d’autre heure de travail. Je sais qu’il existe un truc avec des éléments « float : » mais je n’ai rien trouvé dans un temps décent. J’aurais préféré m’éviter tous ces troubles, surtout que le portail était terminé complètement en &lt;a title=&quot;Feuilles de style en cascade - Wikipedia&quot; href=&quot;http://fr.wikipedia.org/wiki/Css&quot;&gt;CSS&lt;/a&gt;. Maintenant c’est réglé et tous à l’air beau sur tous les fureteurs.   P.S. S’il y a une âme charitable avec &lt;a title=&quot;Apple - Mac OS X - Safari RSS&quot; href=&quot;http://www.apple.com/macosx/features/safari/&quot;&gt;Safari&lt;/a&gt; que voudrait bien me vérifié le portail, envoyé moi un courriel à hugues.lamy@m2i3.com. Je vous donnerai l’adresse pour le vérifier. J’aimerai bien avoir des images d’écran à partir de &lt;a title=&quot;Apple - Mac OS X - Safari RSS&quot; href=&quot;http://www.apple.com/macosx/features/safari/&quot;&gt;Safari&lt;/a&gt;.  Bonne journée.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Spécialiste en diversité&quot; href=&quot;http://gforcemontreal.com&quot;&gt;GForce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Feuilles de style en cascade - Wikipedia&quot; href=&quot;http://fr.wikipedia.org/wiki/Css&quot;&gt;CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Page d'accueil | Mozilla Europe&quot; href=&quot;http://www.mozilla-europe.org/fr/&quot;&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Opera web browser: Homepage&quot; href=&quot;http://www.opera.com/&quot;&gt;Opera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Internet Explorer6: Home&quot; href=&quot;http://www.microsoft.com/windows/ie/ie6/default.mspx&quot;&gt;Internet Explorer 6.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Apple - Mac OS X - Safari RSS&quot; href=&quot;http://www.apple.com/macosx/features/safari/&quot;&gt;Safari&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 02 Nov 2006 22:24:29 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-11-assez-corde-tirer-dans-pied/</guid>
+		</item>
+		
+		<item>
+			<title>Bâtir son coffre à outil sous Ruby on Rails</title>
+			<link>http://m2i3.com/blogue/2006/2006-10-batir-coffre-a-outil/</link>
+			<description>&lt;p&gt;Que faire lorsqu'on a de petites routines de travail qu'on utilise juste assez souvent pour en faire un module mais vraiment pas assez pour justifier la création d'un controller avec sa propre page?  J'vous donne un exemple.  J'ai cette mini routine qui me permet de mettre à jour massivement un catalogue de produit sur la&lt;/p&gt;
+&lt;p&gt;base d'un ou deux critères... très simple comme routine, quatre lignes de code.  J'pourrais les retaper à chaque fois dans la console ou encore l'intégrer dans mon modèle (quoique qu'elle n'appartient vraiment pas à mon modèle).  Mon truc, j'ai placé cette petite routines dans un fichier à part dans un répertoire nommé outils à la racine de mon environnement rails.  La beauté de l'histoire c'est dans l'utilisation.  J'donne un exemple.  La routine suivante je l'utilise quand j'bouzille quelque chose avec mes keywords de recherches (question de réparer ou tester).   fichier: keywords.rb ---------------------------------------- def rebuildkeywords()      Product.find(:all, :conditions=&amp;gt;'searchkeywords is null').each {|p|         p.save      }      nil end   Je n'ai pas bâti de task pour rake.  L'effort en valait pas le coût... ce que je fais c'est de charger le module dans la console et appeler directement la fonction.  On procède comme ceci à partir de la console:  require 'outils/keywords.rb' rebuildkeywords    pas plus compliqué que ça&lt;/p&gt;</description>
+			<pubDate>Wed, 01 Nov 2006 08:17:06 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2006/2006-10-batir-coffre-a-outil/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

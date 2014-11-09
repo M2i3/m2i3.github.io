@@ -1,0 +1,188 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" >
+	<head>
+		<base href="" />
+		<title>Geler le temps en Ruby on Rails</title>
+<meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="ruby on rails, classe time, geler le temps, méthode alias" />
+<meta name="description" content="Geler le temps en Ruby on Rails" />
+Ruby on Rails,Programmation,Ruby
+
+    <meta name="thumbnail" content="http://m2i3.com/M2i3_logo_100x100.png" />
+    <link rel="image_src" href="../../../M2i3_logo_100x100.png" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="../../../themes/m2i3/css/print.css" type="text/css" media="print" /> 
+		<!--[if IE]>
+			<link rel="stylesheet" href="themes/m2i3/css/ie.css" type="text/css" media="screen, projection" />
+		<![endif]-->
+		<link rel="stylesheet" href="../../../themes/m2i3/css/style.css" type="text/css" media="screen, projection" />
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>    
+		
+		
+		
+		
+                <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-539937-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/layout.css?m=1362517564" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/typography.css?m=1360348269" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/form.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../blog/css/blog.css?m=1297660841" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/menu.css?m=1297660847" />
+<link rel="stylesheet" type="text/css" href="../../../themes/m2i3/css/footer.css?m=1297660847" />
+</head>
+	<body>
+		<div id="banner"></div>
+		<div id="header">
+			<a id="logo" href="../../../index.html" Title="M2i3 - Connecter vos besoins aux solutions"></a>
+			<ul id="menu1">
+   
+      <li class="mega">
+      	<a href="../../../notre-entreprise/index.html" title="Notre entreprise">Notre entreprise</a>
+      	
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../portfolio/index.html" title="Portfolio">Portfolio</a>
+      	
+			<div>
+			  	
+					<a href="../../../portfolio/m2i3/index.html" >M2i3</a>
+				
+					<a href="../../../portfolio/artyan/index.html" >Artyan</a>
+				
+					<a href="../../../portfolio/karate-sunfuki/index.html" >Karaté Sunfuki</a>
+				
+					<a href="../../../portfolio/esprit-du-the/index.html" >L&#39;Esprit du The</a>
+				
+					<a href="../../../portfolio/retrouvailles-de-la-promotion-de-1994-de-l-esfl/index.html" >Retrouvailles de la promotion de 1994 de l&#39;ESFL</a>
+				
+					<a href="../../../portfolio/g-force/index.html" >G-Force</a>
+				
+					<a href="../../../portfolio/omniscient-technology/index.html" >Omniscient Technology</a>
+				
+					<a href="../../../portfolio/m2i/index.html" >M2i3</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../blog.1" title="Blogue">Blogue</a>
+      	
+			<div>
+			  	
+					<a href="../../2014/index.html" >2014</a>
+				
+					<a href="../../2013/index.html" >2013</a>
+				
+					<a href="../../2012/index.html" >2012</a>
+				
+					<a href="../../2011/index.html" >2011</a>
+				
+					<a href="../../2010/index.html" >2010</a>
+				
+					<a href="../../2009/index.html" >2009</a>
+				
+					<a href="../../2008/index.html" >2008</a>
+				
+					<a href="../../2007/index.html" >2007</a>
+				
+					<a href="../index.html" >2006</a>
+				
+			</div>
+		
+      </li>
+   
+      <li class="mega">
+      	<a href="../../../contactez-nous/index.html" title="Contactez-nous">Contactez-nous</a>
+      	
+      </li>
+   
+</ul>
+
+		</div>
+		<div id="main">
+			<div class="shadow_holder">
+				<div class="container">
+					<!-- div id="Sidebar" class="span-6 pull-6">
+	
+</div -->
+
+<div id="BlogContent" class="typography push-3 span-18">
+	
+	<div class="blogEntry">
+		<h2>Geler le temps en Ruby on Rails</h2>
+		<p class="authorDate">Posté par Jean-Marc sur 27 November 2006 | 0 Commentaires</p>
+		
+			<p class="tags">
+				 Tags: 
+				
+					<a href="../tag/Ruby+on+Rails" title="Voir tous les messages marqués 'Ruby on Rails'" rel="tag">Ruby on Rails</a>,
+				
+					<a href="../tag/Programmation" title="Voir tous les messages marqués 'Programmation'" rel="tag">Programmation</a>,
+				
+					<a href="../tag/Ruby" title="Voir tous les messages marqués 'Ruby'" rel="tag">Ruby</a>
+				
+			</p>
+		
+      <p>Gérer le temps... à plusieurs reprises dans la création d'application la gestion mais surtout le contrôle du temps devient important.  Par exemple, un système d'enregistrement avec expiration... ou une offre avec date de début et de fin.  Traditionnellement on changerait, à travers le code ou encore directement sur le poste de travail ou le serveur, l'heure et la date de la machine.  En Ruby, grace à la capacité de redéfinition d'objets et de classes on peut simplifier et automatiser le processus... jusqu'à geler le temps... De cette façon il devient possible dans les tests unitaires automatisés de vérifier si le code se comporte correctement à une date précise, si les délais d'expirations et autres calculs sont correctes, et ce, sans avoir à changer l'heure sur l'horloge de son ordinateur.  J'ai découvert cette méthode simple</p>
+<p>en étudiant la suite de tests unitaires pour un des engins de Ruby on Rails.  Le code de base permet d'avancer et reculer le temps.  Le code original provient du <a href="http://api.rails-engines.org/login_engine/">Login Engine</a>.  Je l'ai amélioré pour fournir un temps constant  La classe Time fournit l'heure et la date pour beaucoup de code en Ruby, le principe est qu'en réécrivant la méthode <strong>now</strong> on peut jouer avec le temps comme on veut.   Voici le code:</p>
+<div style="font-family:courier; white-space:pre; border: 1px solid #c0c0c0; background-color: #f0f0f0">require 'time'  Time.class_eval {    if !respond_to? :now_old # somehow this is getting defined many times.          @@advance_by_days = 0     @@constant_date_time = nil     cattr_accessor :advance_by_days     cattr_accessor :constant_date_time          class     Il y a deux aspects intéressant à ce code.  L'instruction <strong>alias</strong> qui permet de renommer une méthode existante.  Et la méthode now qui est la réécriture du temps avec constante et délai.
+<div class="postslinks">
+<h2>Liens discutés dans ce blogue</h2>
+<ul><li><a href="http://api.rails-engines.org/login_engine/">Login Engine</a> - La référence pour le code en example</li>
+<li><a href="http://www.ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html#alias">méthode Alias</a> - La syntax pour la méthode alias <strong>{anglais}</strong></li>
+</ul></div>
+</div>
+		<br />
+	</div>
+	
+	
+	
+	
+	
+</div>
+
+				</div>
+			</div>
+		</div>
+		<div id="bottom_ribbon">
+			<div id="footer">
+				<div class="container"> 
+					<div class="span-10 prefix-1">
+  <a href="../../../index.html">M2i3.com</a><br/>
+  Notre courriel: <a href="mailto:info@m2i3.com">info@m2i3.com</a><br/>
+  Notre téléphone: <strong>+1.888.403.5998</strong>
+</div>
+
+					<div id="randomproduct" class="span-12">
+  
+    <img src="../../../assets/Uploads/authorisedAppsResellerLogo.png" alt="authorisedAppsResellerLogo" />
+    <div class="span-8 prefix-1">
+      <p><span style="font-family: 'Lucida Grande', Helvetica, Arial, sans-serif; color: #666666;"><span style="font-size: 12px; line-height: 19px;">Google Apps vous permet d'avoir accès à des logiciels d'une grande qualité, au moment où vous en avez besoin, pour le temps dont vous en avez besoin pour une fraction du prix d'acquisition d'un serveur, des logiciels et de leur entretiens. <a title="Le site web officiel de Balsamiq Mockups" href="mailto:info+google-apps@m2i3.com">Contactez-nous</a> dès aujourd'hui pour plus d'information.<br/></span></span></p>
+    </div>
+  
+</div>
+
+				</div>
+			</div>
+		</div>
+                <div id="copyright">This website is copyright of M2i3 &copy; 2004-2012<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" style="margin-left:20px"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</div>
+		
+	<script type="text/javascript" src="../../../mysite/javascript/jquery.hoverIntent.js?m=1297660842"></script><script type="text/javascript" src="../../../mysite/javascript/menu.js?m=1297660842"></script></body>
+</html>

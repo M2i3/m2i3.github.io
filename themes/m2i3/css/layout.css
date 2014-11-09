@@ -1,0 +1,224 @@
+/* Main HTML Component Framework overide */
+body {
+  margin: 0px;  
+}
+
+/* Layout CSS */
+#banner {
+  height: 26px;
+  top: 0px;
+  width: 100%;
+  background-color: #e8a32e;
+  z-index: 0;
+  position: absolute;
+  
+}
+
+#main {
+  width:998px;
+  background:url(../images/shadow.gif) repeat-y;
+  margin: 0px auto;
+  min-height: 400px;
+}
+
+#header {
+	width: 998px;
+  margin: 0px auto;
+  background:url(../images/top-shadow.png?20130305) no-repeat;
+	height:26px;
+	background-color: #e8a32e;
+	position: relative;
+}
+
+#logo {
+  float: left;
+  margin-left: -5px;
+  height: 172px;
+  width: 150px;
+  z-index:600;
+  position: absolute;
+  background:url(../images/m2i3_logo_website_2013.png?201303051002) no-repeat;
+}
+
+#logo img {
+  height: 172px;
+  width: 289px;
+}
+
+
+.shadow_holder {
+  background:url(../images/shadow.gif) repeat-y;
+  width:998px;
+  margin: 0px auto;
+  padding-top: 25px;
+  margin-top: 0px;
+}
+
+#main_content {
+
+}
+
+#Sidebar {
+	margin-top: 120px;
+  display: none;
+}
+
+#footer {
+	background:#e8a32e;
+	text-align: center;
+	height: 175px;
+	padding-top:10px;
+	width: 998px;
+    margin: 0px auto;
+    background:url(../images/orange-shadow.png) repeat-y;
+}
+
+#bottom_ribbon {
+	width: 100%;
+	bottom: 0px;
+	height: 185px;
+	margin-top: 0px;
+	padding-top: 0px;
+	background-color:#e8a32e;
+}
+
+#copyright {
+margin: 5px auto 30px;
+padding-left: 100px;
+width:500px;
+}
+
+
+
+	#Header h1 {
+		color:#fff;
+		font-size:1.5em;
+		line-height:4.5em;
+		padding-left:20px;
+	}
+
+
+div.breadcrumbs {
+	margin-bottom:10px;
+	font-size:1em;
+	color:#666;
+}
+div.breadcrumbs a {
+	text-decoration:none;
+}
+
+	#Footer span {
+		color:#ccc;
+		font-size:1.1em;
+		line-height:2em;
+		font-weight:bold;
+		padding-left:20px;
+		background:url(../images/ss_logo.gif) no-repeat;
+	}
+	#Footer a {
+		color:#fff;
+	}
+		#Footer a:hover {
+			text-decoration:none;
+		}
+
+
+
+div.pageComments {
+	background:#f0f0f0;
+	border:1px dotted #ccc;
+	padding:10px;
+}
+
+
+#customerlist {
+  list-style: none;
+  margin-left:0px;
+}
+
+#customerlist li.customer {
+  display: inline-block;
+  margin-left:0px;
+}
+#customerlist li.customer img {
+  float:right;
+  margin-left:10px;
+}
+
+
+#randomproduct {
+  min-height: 65px;
+  border-left: solid 1px black;
+}
+
+#randomproduct img {
+  float:right;
+}
+
+#footer .container {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+#PageComments {
+	list-style:none;
+	background:#e9e9e9;
+	border:1px solid #ccc;
+	border-bottom:0;
+	padding:0;
+	margin:0;
+}
+	#PageComments li {
+		list-style:none;
+		padding:5px;
+		margin:0;
+		font-size:1em;
+		border-bottom:1px dotted #bbb;
+	}
+		#PageComments li p span {
+			font-style:italic;
+		}
+		#PageComments a.deletelink {
+			font-weight:bold;
+		}
+
+			
+#PageNumbers {
+	font-weight:bold;
+	color:#333;
+	font-size:1.1em;
+	text-align:center;
+	padding:5px;
+	border:1px solid #ddd;
+	background:#e9e9e9;
+}
+#PageNumbers * {
+	padding:0 5px;
+	line-height:1.5em;
+}
+#PageNumbers a {
+	color:#0083C8;
+	text-decoration:none;
+}
+	#PageNumbers a:hover {
+		text-decoration:underline;
+	}
+
+.blogSummary .authorDate, .blogSummary .tags  {
+  margin-bottom: 0;
+  margin-left: 3em;
+  
+}
+
+		
+.blogSummary .preview {
+  margin-top: 1em;
+}
+
+div.container img.right {
+  float: right; 
+}
+
+div.container img.left {
+  float: left; 
+}

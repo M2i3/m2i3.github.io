@@ -1,0 +1,326 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2008/</link>
+		<atom:link href="http://m2i3.com/blogue/2008/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Aide à une cause humanitaire XDR-TB</title>
+			<link>http://m2i3.com/blogue/2008/2008-10-aide-une-cause-humanitaire-xdr-tb/</link>
+			<description>&lt;p&gt;Il est rare que Jean-Marc et moi, dévions de nos sujets régulier qui sont les méthodes Agile, la programmation de CMS tel que Joomla et la programmation en général tel que Ruby on Rails.  Cette fois, je ferai une entorse à ses sujets pourvous présenter une nouvellecause qui me préoccupe.&lt;/p&gt;
+&lt;p&gt;L'an passé, le photographe James Nachtwey demanda à la conférence de Technologie-Entertainement-Design (TED) de l'aider pour mettre en valeur la cause du XDR-TB ou eXtremenly-Drug-Resistant Turbeculosis. Comme je suis maniac de toutes les conférences de TED et que j'aimerais aider autant que possible les causes qui y sont présentées, je vous présente ici le vidéo incroyable de ce photographe.      
+&lt;object width=&quot;425&quot; height=&quot;344&quot; data=&quot;http://www.youtube.com/v/yj8KZNI6-W8&amp;amp;hl=en&amp;amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot;&gt;
+&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/yj8KZNI6-W8&amp;amp;hl=en&amp;amp;fs=1&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;/object&gt;
+&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Les conférences TED&quot; href=&quot;http://ted.com&quot;&gt;Les conférences TED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 21 Oct 2008 23:08:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-10-aide-une-cause-humanitaire-xdr-tb/</guid>
+		</item>
+		
+		<item>
+			<title>La perversion du manifeste Agile</title>
+			<link>http://m2i3.com/blogue/2008/2008-10-perversion-manifeste-Agile/</link>
+			<description>&lt;p&gt;Les méthodes Agile sont très populaires à l’heure actuelle. Tous les gestionnaires de développement logiciel ont le mot Agile sur les lèvres. Tous et chacun ont développé leur méthodologie. Tous discutent de méthode Agile. Les journaux et magasine décrivent les méthodes Agile partout. Même Scott Adams en parle dans une bande dessinée de Dilbert. Tout le monde informatique est Agile et pragmatique.&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Dilbert.com&quot; href=&quot;http://dilbert.com/strips/comic/2005-11-16/&quot;&gt;&lt;img src=&quot;http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/000/1051/1051.strip.gif&quot; alt=&quot;Dilbert.com&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Il y a bientôt 3 ans que je regarde l'évolution des méthodes Agile. Bien que le nom Agile soit de plus en plus entendu dans tous les milieux, je me rends compte qu'il n'est pas compris. Je ne compte plus le nombre de fois que j'ai rencontré des clients, fournisseurs et collègues qui ne comprennent pas les fondements du manifeste Agile. Pour la majorité des gens que j'ai rencontrés, tous s'entend pour avoir de courtes livraisons mais rien sur les autres principes Agile. Quand les problèmes surviennent, la notion de partenaire prends le chemin des poubelles et ont retourné à une relation client-fournisseur. On fixe la date de livraison et le budget et on s'en remet à un plan fixe. Les fonctionnalités sont soumises sans travail de priorisation et d'organisation. Lorsque la date et le budget survienne et qu'il reste des fonctionnalités à développer, le client se retranche dans un campement contractuel prétextant qu'on avait promis de faire le travail. Le manifeste est complètement ignoré.&lt;/p&gt;
+&lt;p&gt;À l'autre extrême, il y a les gestionnaires qui ne planifient plus, qui ne mettent plus de processus en place, ne documente plus rien et n'apporte pas d'attention aux détails contractuels. Cette attitude est proche du laisser-aller et n'est pas approprier pour la majorité des clients. Il en est toujours que les clients désirent avoir une bonne idée du budget et de la date de livraison.&lt;/p&gt;
+&lt;p&gt;
+&lt;object width=&quot;480&quot; height=&quot;392&quot; data=&quot;http://flash.revver.com/player/1.0/player.swf?mediaId=171954&quot; type=&quot;application/x-shockwave-flash&quot;&gt;
+&lt;param name=&quot;Movie&quot; value=&quot;http://flash.revver.com/player/1.0/player.swf?mediaId=171954&quot;/&gt;&lt;param name=&quot;FlashVars&quot; value=&quot;allowFullScreen=true&quot;/&gt;&lt;param name=&quot;AllowFullScreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;AllowScriptAccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;flashvars&quot; value=&quot;allowFullScreen=true&quot;/&gt;&lt;param name=&quot;src&quot; value=&quot;http://flash.revver.com/player/1.0/player.swf?mediaId=171954&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;/object&gt;
+D’autre gestionnaire argumenterons que les projets Agile conterons moins cher ou seront complétés plus rapidement. Cette notion est aussi fausse. Comme Ryan McNimm de Unspace.ca explique dans son vidéo, les projets Agile sont généralement plus dispendieux et plus long qu’un projet standard. Cette déclaration semble dénuée de sens et suicidaire financièrement pour le programmeur. Si un projet Agile est plus cher et qu’il prend plus de temps à réaliser, il faut se demander quel est le gain véritable d’utiliser les méthodologies Agile?&lt;/p&gt;
+&lt;p&gt;La qualité d'un projet Agile mené tel que le manifeste et les principes Agile le présente est la qualité du produit réalisé. En ayant des d'itérations régulière, le client est apte à porter un jugement éclairé sur la qualité du logiciel produit. Ici il faut lire que la qualité est fonctionnelle et qu'on ne parle pas de la qualité du code. La qualité est supérieure, car le client vérifie à chaque itération les fonctionnalités. Suite à la revue, le client a l'opportunité de fournir un nouvel ensemble de fonctionnalité ou conclure le projet. Il n'y a aucune honte à arrêter le projet. Nous avons une certaine fierté à toujours compléter nos entreprises débutés même si nous savons pertinemment que le projet est voué à l'échec. La méthode Agile permet de ne pas sur concevoir et réduire les coûts en cas de route vers l'échec.&lt;/p&gt;
+&lt;p&gt;Le projet devrait toujours être en fait en temps et matériel du leur nature hautement variable. Martin Fowler compare la programmation à une commande d'art de l'ancien temps. Bien que l'artiste à une indication de la direction de la réalisation, il continuera son travail jusqu'à la satisfaction du client. Il ne faut pas croire que la programmation est un acte de production. Tout comme l'artiste, le développement logiciel fait appel à des techniques et des enseignements des maîtres et des pairs. Tous comme l'artiste, il est possible de mieux travailler et de fournir un meilleur travail de qualité avec du travail et de l'expérience. Seulement lorsqu'il est possible de faire du travail répétitif et prévisible seront nous capable de prédire le coût du développement logiciel. À partir de ce moment, ce n'est plus du développement logiciel, mais de la gestion d'opération.&lt;/p&gt;
+&lt;p&gt;Est-ce que tout est fini pour le manifeste Agile? Est-ce que nous devons donc déclarer forfait et retourner à des méthodes traditionnelles Waterfall? Je crois que non. Pour ceux qui comprennent les méthodes Agile et suivent les méthodes Agile comme un guide et non une finalité, c'est de notre responsabilité de communiquer à notre entourage professionnel les bienfaits des méthodes. Il est très difficile d'expliquer les bienfaits de la qualité. Il est difficile d'expliquer que le logiciel ne coûtera pas moins cher, mais au contraire généralement plus cher. Il est difficile d'expliquer que le client aura un avantage concurrentiel à utiliser ses méthodes. Comme écrit dans le manifeste :&lt;/p&gt;
+&lt;p&gt;Nous avons découvert des techniques pour développer du logiciel et nous désirons en faire profiter nos pairs.&lt;/p&gt;
+&lt;p&gt;C'est pourquoi je crie haut et fort : &lt;strong&gt;« Arrêtez la perversion du manifeste Agile »&lt;/strong&gt; &lt;a title=&quot;Manifeste Agile&quot; href=&quot;http://m2i3.com/manifeste-agile&quot;&gt;Manifeste Agile (traduction M2i3)&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Dilbert&quot; href=&quot;http://dilbert.com/strips/comic/2005-11-16/&quot;&gt;Dilbert sur les méthodes Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Ryan McMinn&quot; href=&quot;http://revver.com/video/171954/all-roads-lead-to-rails-unspace/&quot;&gt;Conference Agile de Ryan McMinn&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Manifeste Agile&quot; href=&quot;http://m2i3.com/manifeste-agile&quot;&gt;Le Manifeste Agile (traduit en français)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Manifeste Agile&quot; href=&quot;http://agilemanifesto.org/&quot;&gt;Manifeste Agile&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 15 Oct 2008 13:41:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-10-perversion-manifeste-Agile/</guid>
+		</item>
+		
+		<item>
+			<title>Google a 10 ans</title>
+			<link>http://m2i3.com/blogue/2008/2008-10-10-ans-pour-google/</link>
+			<description>&lt;p&gt;Comme vous le savez déjà Google célèbre, cette année, leur &lt;a title=&quot;10e anniversaire de Google&quot; href=&quot;http://www.google.fr/tenthbirthday/&quot;&gt;10e anniversaire&lt;/a&gt;.   Pour l'événement ils ont retracé et mis en ligne l'&lt;a href=&quot;http://www.google.com/search2001.html&quot;&gt;index de l'engin de recherche tel que disponible en 2001&lt;/a&gt;.    Juste pour s'amuser que représentait à l'époque:  - Firefox - Web 2.0 - le iPhone - Chrome&lt;/p&gt;</description>
+			<pubDate>Wed, 01 Oct 2008 15:23:26 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-10-10-ans-pour-google/</guid>
+		</item>
+		
+		<item>
+			<title>Les http referers non fiable pour faire de l&#39;authentification.</title>
+			<link>http://m2i3.com/blogue/2008/2008-06-http-referers-non-fiable-pour-authentification/</link>
+			<description>&lt;p&gt;Bon voici le récit de mes expériences avec les référents http au cours des dernières semaines.  Premier conseil, si vous utilisez le référent pour identifier un individu, changez de techniques. Le passage de la balise Méta referer dans les requêtes http sont tellement non fiable que ça rend le processus inutile. Voici la problématique rencontrée.  Mon Site A en https désire présenté un contenu exclusif http sur un site externe B. Auparavant, une application sur le site A valide si l'usager a le droit ou non de voir le contenu et réachemine le fureteur au site B. Voici quelques possibilités pour faire en sorte que cela fonctionne.&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt; Témoin (Cookie)  Cela ne marche pas, puisque les deux sites n'ont pas le même nom de domaine. Le site B n'a pas accès au témoin du site A. &lt;/li&gt;
+&lt;li&gt;Réponse http 301 redirect. Le site B vérifie que le référent est le site A  Cela ne marche pas. Les fureteurs ne mettent jamais de référent lors de réacheminement. &lt;/li&gt;
+&lt;li&gt; Retour en Javascript window.location=&quot;Site B&quot;. Le site B vérifie que le référent est le site A  Cela ne marche pas. La RFC indique que le référent ne &lt;strong&gt;doit&lt;/strong&gt; pas être passé lors d'un passage d'un site https à un site http. &lt;/li&gt;
+&lt;li&gt; Changement du site A pour http au lieu de https. Retour en Javascript window.location=&quot;Site B&quot;. Le site B vérifie que le référent est le site A  Ca fonctionne partiellement. Firefox n'a pas de problème et passe le référent. IE ne passe pas le référent lors de cette opération. &lt;/li&gt;
+&lt;li&gt; Changement du site A pour http au lieu de https. Retour en Javascript Identification du fureteur. Si Firefox =&amp;gt; window.location=&quot;Site B&quot; si IE présentation d'une page avec un lien que l'on peut cliquer.. Le site B vérifie que le referer est le site A.  Ca fonctionne correctement, mais occasionne des cliques de souris supplémentaire pour les utilisateurs d'IE.  Autre considération, le référent est extrêmement facile à falsifier dans une requête http et que le contenu exclusif n'est pas vraiment protégé.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;La solution correct est la suivante et elle est inspirée du travail fait par Paypal pour garantir une sécurité.  L'application du site A vérifie la valide du compte. Si le compte est invalide, on présente une page d'abonnement. Si le compte est valide, on prépare un algorithme d'hachage sur l'usager ou un nombre pseudo aléatoire. On le garde en cache ou en base de données pour les prochaines minutes. On effectue un réacheminement 301 en incluant en paramètre le total mêlé ou le nombre. Le site B sur réception du URL lance une application. Cette application appel un service WEB sur le site A demandant si le total mêlé ou nombre en paramètre a été bien créer par lui. Si la réponse est positive, le contenu est présenté. Si la réponse est négative, on réachemine l'usager vers une page d'abonnement du site A.  Simple, efficace et sécuritaire.  Maintenant la question piège. Si le référent ne sert pas à identifier de manière sécuritaire l'internaute, a quoi sert-il ? Je vous fais un résumé de mes discussions avec Jean-Marc prochainement.&lt;/p&gt;</description>
+			<pubDate>Sun, 27 Jul 2008 10:57:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-06-http-referers-non-fiable-pour-authentification/</guid>
+		</item>
+		
+		<item>
+			<title>Notre contenu sur feedburner.com</title>
+			<link>http://m2i3.com/blogue/2008/2008-07-contenu-sur-feed-burner/</link>
+			<description>&lt;p&gt;Nos &lt;a href=&quot;http://feeds.feedburner.com/m2i3-blog&quot;&gt;fils de nouvelles RSS&lt;/a&gt; sont maintenant disponibles sur &lt;a href=&quot;http://feedburner.com/&quot;&gt;FeedBurner.com&lt;/a&gt;.  &lt;a href=&quot;http://m2i3.com/blogue-jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 25 Jul 2008 15:14:26 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-07-contenu-sur-feed-burner/</guid>
+		</item>
+		
+		<item>
+			<title>Faire moins pour en faire plus... voici Drizzle</title>
+			<link>http://m2i3.com/blogue/2008/2008-07-drizzle/</link>
+			<description>&lt;p&gt;Un nouveau projet viens de voir le jour sur le web... &lt;a href=&quot;https://launchpad.net/drizzle&quot;&gt;Drizzle [en]&lt;/a&gt;, une branche de MySQL, vise à diminuer la fonctionalité de la base de données pour offrir plus de puissance dans un environment où le besoin est sur un parralélisme élevé (comme par exemple en &quot;cloud computing&quot;).  En bref, une base de donnée plus efficace, facile à augmenter pour la charge de travail avec un&lt;/p&gt;
+&lt;p&gt;design encore plus simple.    La base de donnée est pensée principalement pour les applications webs, les applications qui fonctionnent en &quot;cloud computing&quot;.  En fait, toutes les applications qui n'ont pas besoin d'avoir la logique d'affaire dans la base de donnée.  Une bonne nouvelle quoi!  &lt;a title=&quot;Le blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/user/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://launchpad.net/drizzle&quot;&gt;Drizzle sur launchpad[en]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://krow.livejournal.com/602409.html&quot;&gt;Une introduction au concept de Drizzle [en]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 24 Jul 2008 12:11:10 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-07-drizzle/</guid>
+		</item>
+		
+		<item>
+			<title>Une expérience et réaction sur Google AppEngine</title>
+			<link>http://m2i3.com/blogue/2008/2008-07-experience-et-reaction-sur-google-appengine/</link>
+			<description>&lt;p&gt;Si vous vivez hors Canada vous n'aurez probablement entendu du fait que Bell Mobilité et Telus Mobilité chargeront dès août des frais sur les messages textes entrant.  La nouvelle a plutôt fait le tour ici et m'as amené à créer un &lt;a href=&quot;http://noincomingsmsfees.appspot.com/&quot;&gt;mini-site&lt;/a&gt; pour informer et&lt;/p&gt;
+&lt;p&gt;collecter les commentaires des gens sur la nouvelle.  Une expérience assez intéressante... je ne voulais pas nécessairement utiliser un de nos serveurs, ni avoir à payer de frais de service... mais surtout  je voulais essayer une &lt;a href=&quot;http://appengine.google.com/&quot;&gt;plateforme qui pique ma curiosité depuis quelque temps&lt;/a&gt;.  Donc, en 6 heures.. du moment où j'ai créé le compte au moment où le tout a été mis en ligne... en Python (pas mon langage préféré.. on pourra y revenir dans un avenir rapproché) sur le &lt;a href=&quot;href=&quot;http://m2i3.com/&gt;&quot;App Engine de Google&lt;/a&gt;.  La mise en ligne a vraiment été simple... leur base de donnée (non relationnelle) est très impressionnante. Avec la suite des outils de Google et surtout l'accès à leur méchanique d'authentication cette plateforme permet rapidement (et à très très peu de coût... c'est gratuit) de mettre en ligne un site web.  D'un autre côté, le seul langage disponible est Python, mais surtout, une application développé pour le App Engine de Google devra être modifié pour fonctionner sur d'autres serveurs.  L'avez-vous essayé? Qu'en pensez-vous??  &lt;a title=&quot;Le blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/blog/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;</description>
+			<pubDate>Sat, 12 Jul 2008 16:46:33 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-07-experience-et-reaction-sur-google-appengine/</guid>
+		</item>
+		
+		<item>
+			<title>Revue des editeurs Rails</title>
+			<link>http://m2i3.com/blogue/2008/2008-08-revue-des-editeur-rails/</link>
+			<description>&lt;p&gt;Pour compléter votre lecture sur les éditeurs, j'ai trouvé un article sur &lt;a title=&quot;Test Center Daily | InfoWorld Staff | InfoWorld | Ruby on Rails IDEs and editors compared | July  7, 2008 03:00 AM | Doug Dineley&quot; href=&quot;http://weblog.infoworld.com/tcdaily/archives/2008/07/ruby_on_rails_i_1.html&quot;&gt;InfoWorld&lt;/a&gt; sur les éditeurs. Vous pourrez donc lire une bonne comparaison des éditeurs Rails.  Si Jean-Marc utilise SciTe, pour ma pars je reste avec&lt;/p&gt;
+&lt;p&gt;Aptana et son interface plus lourde certe mais très riche.  Bonne lecture.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Test Center Daily | InfoWorld Staff | InfoWorld | Ruby on Rails IDEs and editors compared | July  7, 2008 03:00 AM | Doug Dineley&quot; href=&quot;http://weblog.infoworld.com/tcdaily/archives/2008/07/ruby_on_rails_i_1.html&quot;&gt;InfoWorld - Ruby on Rails IDEs and editors compared&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Fri, 11 Jul 2008 09:51:38 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-08-revue-des-editeur-rails/</guid>
+		</item>
+		
+		<item>
+			<title>Trouver l&#39;inspiration</title>
+			<link>http://m2i3.com/blogue/2008/2008-06-trouver-inspiration/</link>
+			<description>&lt;p&gt;La conception de site web implique une portion créative qui peut s'assécher avec le temps... c'est pourquoi de temps à autre, il faut s'éloigner du web... s'éloigner des lectures techniques...  Ma façon de trouver l'inspiration, de la garder vivante... c'est de voyager, lire des romans, des articles sur plein de sujets divers... dernièrement, grâce à &lt;a title=&quot;le blogue de Hugues&quot; href=&quot;http://m2i3.com/blog/hugues&quot;&gt;Hugues&lt;/a&gt;, j'ai ajouté une source d'inspiration dont&lt;/p&gt;
+&lt;p&gt;la richesse m'as beaucoup surpris.  &lt;a title=&quot;TED:Ideas worth spreading&quot; href=&quot;http://www.ted.com/index.php&quot;&gt;TED.com&lt;/a&gt;{en} est un site qui regroupe des conférences données par les grand penseurs de ce monde... Elles proviennent d'un événement d'une semaine, tenu une fois l'an, où tous ces gens se regroupent pour échanger... des idées :-)  On y retrouve de tout, de la musique, à la danse en passant par des présentations techniques, des nouveaux gadgets, des explications sur le fonctionnement du cerveau et même de l'amour.  Ce matin, encore, j'ai réécouté la &lt;a href=&quot;http://www.ted.com/index.php/talks/benjamin_zander_on_music_and_passion.html&quot;&gt;présentation de Benjamin Zander sur la musique et la passion&lt;/a&gt; (son interprétation de Chopin est superbe)... comme quoi il faut ouvrir grand ses yeux, ses sens, son esprit pour se ressourcer.  Bonne écoute!  &lt;a title=&quot;Le blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/blog/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;TED:Ideas worth spreading&quot; href=&quot;http://www.ted.com/index.php&quot;&gt;TED.com -  Ideas worth spreading&lt;/a&gt;{en}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ted.com/index.php/talks/benjamin_zander_on_music_and_passion.html&quot;&gt;présentation de Benjamin Zander sur la musique et la passion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Sat, 28 Jun 2008 14:03:41 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-06-trouver-inspiration/</guid>
+		</item>
+		
+		<item>
+			<title>Stop... on continue plus loin que le Web</title>
+			<link>http://m2i3.com/blogue/2008/2008-06-stop-on-continue-plus-loin-que-le-web/</link>
+			<description>&lt;p&gt;Je suis de retour de Corse après des vacances bien méritées... Après avoir sélectionné &lt;a title=&quot;Photos de mon voyage en Corse sur Flickr&quot; href=&quot;http://www.flickr.com/photos/27656013@N04/sets/72157605607488648/&quot;&gt;quelques bonnes photos&lt;/a&gt; dans la tonne que j'ai prise là-bas je me suis questionné sur l'outil à utiliser pour les partager avec mes amis et mes collègues.&lt;/p&gt;
+&lt;p&gt;Je pouvais bien sûr monter un site de toute pièce mais disons que la proportion d'effort par rapport à l'utilité réelle laissait à désirer.&lt;/p&gt;
+&lt;p&gt;Samedi, donc, j'ai fouillé un peu et arrêté mon choix sur &lt;a href=&quot;http://flickr.com&quot;&gt;Flickr&lt;/a&gt; malgré ma réticence à utiliser une interface Web pour télécharger des photos... elles sont en général lente d'utilisation et surtout chiante quand il s'agit de télécharger plusieurs fichiers.  Quel ne fut pas ma surprise de voir que Flickr fournit une application native à Windows (en plus des autres systèmes d'exploitations) permettant de sélectionner, annoter et ajouter à son profil Flickr, pratiquement comme si lesdites photos était encore sur sont ordinateur.&lt;/p&gt;
+&lt;p&gt;Ce que Flickr reconnaît en fournissant de tels outil c'est que parfois pour faire du Web il faut en sortir, ou plutôt, qu'il y a bien des façons d'accéder aux contenus et services disponibles.    Il est facile de rester perpétuellement dans les contraintes du navigateur Web; c'est une interface utilisateur qui a fait ses preuves et elle correspond bien à une grande majorité de besoins.  Pourtant, ce n'est pas la seule interface disponible et parfois s'y limiter c'est aussi appeler la «mort » rapide de son service en ligne.    Prenons, par exemple, &lt;a href=&quot;http://www.tadalist.com/&quot;&gt;Ta-da Lists&lt;/a&gt; développé par &lt;a href=&quot;http://www.37signals.com/&quot;&gt;37signals&lt;/a&gt;.  De leur propre avis dans leur livre &lt;a href=&quot;http://gettingreal.37signals.com/&quot;&gt;Getting Real&lt;/a&gt;, l'API qui a permit de développer plusieurs applications précises sur Mac, a grandement contribué à l'adoption de leur service.&lt;/p&gt;
+&lt;p&gt;Donc, arrêtez un moment pour réfléchir, est-ce que vous pouvez pousser votre expérience Web plus loin que le Web?&lt;/p&gt;
+&lt;p&gt;-- &lt;a href=&quot;http://m2i3.com/blogue-jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 16 Jun 2008 22:31:59 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-06-stop-on-continue-plus-loin-que-le-web/</guid>
+		</item>
+		
+		<item>
+			<title>Panique dans la communaute Ruby on Rails</title>
+			<link>http://m2i3.com/blogue/2008/2008-05-panique-communaute-ruby-on-rails/</link>
+			<description>&lt;p&gt;La semaine dernière, la nouvelle fut l'annonce de Twitter de délaisser la plateforme Ruby on Rails pour d'autre langage. Java et PHP ont été mentionnés au passage. Est-ce que cette annonce remet en question les choix de M2i3?  Non, nous croyons que la plateforme Rails est&lt;/p&gt;
+&lt;p&gt;une bonne plateforme. Avec ces défauts certes, mais une bonne plateforme. Il était difficile de prévoir que Twitter allait être un énorme succès en moins d'un mois. Bien sûr c'est le rêve de tout entrepreneurs, mais aussi un énorme cauchemar. Quand notre infrastructure ou notre architecture n'est pas parfaite. Mais quoi faire quand le succès cogne à la porte?  Les stratégies que nous employons pour nos projets courants sont en mesure de prendre de grande charge. Une architecture solide nous permettra de diminuer nos points de défaillance. C'est dernier mois, quelques intervenants ont quitté la communauté. C'est normal. Quittant en faisant un battage publicitaire, c'est aussi très bien. Twitter n'a pas encore développé sa nouvelle plateforme, alors, Ruby on Rails est la pour rester encore quelques mois. Ceux qui se plaignent des problèmes de Twitter pourront encore se plaindre pendant plusieurs jours à venir.  Il faudrait peut-être se souvenir que Twitter est un service gratuit et que les usagers ne payent rien. Peut-on se plaindre d'un service que l'on ne paye pas? Outre que de partir chez le concurrent, je ne crois pas.  Bonne journée.  Hugues&lt;/p&gt;</description>
+			<pubDate>Sun, 04 May 2008 23:51:08 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-05-panique-communaute-ruby-on-rails/</guid>
+		</item>
+		
+		<item>
+			<title>Out Komodo bonjour ScITE</title>
+			<link>http://m2i3.com/blogue/2008/2008-03-out-komodo-bonjour-scite/</link>
+			<description>&lt;p&gt;Tel que discuté dans &lt;a href=&quot;http://m2i3.com/2008/03/vers-un-editeur-plus-leger-pour-ruby-on-rails&quot;&gt;vers un éditeur plus léger pour Ruby on Rails&lt;/a&gt; j'ai commencé à utiliser Komodo Edit d'ActiveState.  La lune de miel a été de très courte durée.  Après deux matins à avoir mon travail dans le train interrompu après seulement vingt minutes de travail j'ai placé Komodo dans la même catégorie de RadRails... trop&lt;/p&gt;
+&lt;p&gt;gourmand en ressources.  J'ai donc regardé ce qui était disponible &quot;nativement&quot; sur mon ordinateur et je me suis dit: &quot;ben il y a toujours ScITE&quot;.  Que j'utilise depuis ce matin là.  bon, il n'y a pas beaucoups de macros disponible... mais je m'en sers rarement de toute façon.  Le auto-complete est aussi absent, une des fonctionalité de Komodo qui me plaisait bien, mais après le premier choque passé je me retrouve encore plus efficace avec cet éditeur très simple.  En plus, si je me fie à la configuration j'devrais pouvoir ajouter des trucs intéressants.  Donc, l'aventure continue...  &lt;a title=&quot;Toutes les entrées du blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/blog/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://m2i3.com/2008/03/vers-un-editeur-plus-leger-pour-ruby-on-rails&quot;&gt;vers un éditeur plus léger pour Ruby on Rails&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.scintilla.org/SciTE.html&quot;&gt;SCIntilla based Text Editor&lt;/a&gt;.  Mon &quot;IDE&quot; du moment.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Mon, 31 Mar 2008 17:17:53 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-03-out-komodo-bonjour-scite/</guid>
+		</item>
+		
+		<item>
+			<title>Objet Ruby... dis moi ce que tu fais</title>
+			<link>http://m2i3.com/blogue/2008/2008-03-objet-ruby-dis-moi-ce-que-tu-fais/</link>
+			<description>&lt;p&gt;Qui n'a pas connu ce bref moment d'hésitation dans IRB ou la console de Rails... on viens d'inscrire le nom d'une classe ou encore d'un objet et on est plus certains du nom de la méthode.  Plutôt que de faire TAB + TAB et avoir les 3597 méthodes disponibles pour l'objet et tous ses parents on peut interroger directement l'objet et obtenir les&lt;/p&gt;
+&lt;p&gt;méthodes disponibles... surtout celles qui sont spécifiques à cet objet. Ruby fournit plusieurs méthodes permettant de faire l'introspection sur les modules, classes et objets.  Supposant qu'on veuille connaître les méthodes propres à la classe Time:     (Time.methods - Time.superclass.methods).each {|m| puts m }   Ce simple code nous retourne les 8 méthodes propres à la classe Time plutôt que les 81 méthodes de la classe Time et de tous ses parents.  Maintenant, si vous avez besoins des méthodes d'une instance de la classe Time... supposons x = Time.now     x = Time.now    (x.methods - x.class.superclass.instance_methods).each {|m| puts m }   Ce code retourne les 42 méthodes propres à une instance de Time... plutôt que les 82 méthodes de l'instance et ses parents.  Plusieurs détails intéressant sont à remarquer; premièrement pour accéder aux parents (.superclass), on doit d'abord accéder à la classe (.class).  On peut aussi interroger les méthodes d'une instance d'une classe sans avoir à l'instancier (.instance_methods).  Bien sûr, si les méthodes générées dynamiquement, tel que les méthodes &quot;find_by&quot; du ActiveRecord, ne pourront pas retournées par cette technique mais c'est déjà un bon début lorsqu'on est dans le feu de l'action.   à+  &lt;a title=&quot;Toutes les entrées du blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/blog/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 19 Mar 2008 20:59:32 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-03-objet-ruby-dis-moi-ce-que-tu-fais/</guid>
+		</item>
+		
+		<item>
+			<title>Différent mais égal - Convertir d&#39;une base à une autre (3e défi Ruby)</title>
+			<link>http://m2i3.com/blogue/2008/2008-03-convertir-entre-deux-bases/</link>
+			<description>&lt;p&gt;Un défi très simple mais qui expose une fonctionnalité de Ruby très intéressante... la conversion entre des nombres de bases différentes.  Vous connaissez très certainement la base 16 sous-jacent au &lt;a href=&quot;http://fr.wikipedia.org/wiki/Syst%C3%A8me_hexad%C3%A9cimal&quot;&gt;système hexadécimal&lt;/a&gt; ou encore la base 2 derrière le &lt;a href=&quot;http://fr.wikipedia.org/wiki/Syst%C3%A8me_binaire&quot;&gt;binaire&lt;/a&gt;.  Mais connaissez&lt;/p&gt;
+&lt;p&gt;vous la base 8 derrière le &lt;a href=&quot;http://fr.wikipedia.org/wiki/Syst%C3%A8me_octal&quot;&gt;système octal&lt;/a&gt;?  En fait, il existe autant de bases qu'il y a de nombres et de symboles mais on s'en tient en général aux trois bases ci-haut.  Le défi d'aujourd'hui est d'une simplicité surprenante... &lt;a title=&quot;Le fichier tu défi&quot; href=&quot;http://m2i3.com/files/defi-3.rb&quot;&gt;une fonction dans un fichier ruby&lt;/a&gt; que vous devrez appeler en fournissant le bloc de code pouvant résoudre les quatre paires de valeurs.  Le but, fournir la conversion qui permet de passer de un à l'autre et en même temps de découvrir la base utilisée pour effectuer la conversion.  Voici un court exemple (ce n'est pas la solution bien sûr):&lt;/p&gt;
+&lt;div class=&quot;sourcecode&quot;&gt;defi_003 {|v1| 	v1.to_i + 100 }&lt;/div&gt;
+&lt;p&gt;Bon défi!  &lt;a title=&quot;Le blogue de Jean-Marc&quot; href=&quot;http://m2i3.com/blog/jean-marc&quot;&gt;Jean-Marc&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Le fichier tu défi&quot; href=&quot;http://m2i3.com/files/defi-3.rb&quot;&gt;le fichier source du défi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fr.wikipedia.org/wiki/Syst%C3%A8me_hexad%C3%A9cimal&quot;&gt;système hexadécimal expliqué sur Wikipédia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fr.wikipedia.org/wiki/Syst%C3%A8me_binaire&quot;&gt;système binaire expliqué sur Wikipédia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fr.wikipedia.org/wiki/Syst%C3%A8me_octal&quot;&gt;système octal expliqué sur Wikipédia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Sat, 15 Mar 2008 12:01:00 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-03-convertir-entre-deux-bases/</guid>
+		</item>
+		
+		<item>
+			<title>Vers un éditeur plus léger pour Ruby on Rails</title>
+			<link>http://m2i3.com/blogue/2008/2008-03-vers-un-editeur-plus-leger-pour-ruby-on-rails/</link>
+			<description>&lt;p&gt;Hier j'ai frappé un noeud... &lt;a href=&quot;http://www.aptana.com/rails&quot;&gt;Radrails&lt;/a&gt; utilisais 200mb de mémoire sur mon ordinateur portable en plus de prendre une éternité pour ouvrir quelque fichiers que ce soit.    Ce n'est pas la première fois mais, hier, j'ai perdu patience et me suis lancé à la recherche d'un nouvel éditeur.  J'travaille sous Windows donc j'peux faire un croix sur &lt;a href=&quot;http://macromates.com/&quot;&gt;TextMate&lt;/a&gt; et malgré tout le bruit autour d'&lt;a href=&quot;http://www.aptana.com/studio&quot;&gt;Aptana&lt;/a&gt; j'aimerais m'éloigner de tout ce qui roule sur &lt;a href=&quot;http://www.eclipse.org/&quot;&gt;Eclipse&lt;/a&gt; à cause de la lourdeur.  Je me lance donc en période d'essai, je suis à nouveau libre d'éditeur, un développeur sans attache.  Ma première conquête &lt;a href=&quot;http://www.activestate.com/Products/komodo_ide/komodo_edit.mhtml&quot;&gt;Komodo Edit d'ActiveState&lt;/a&gt;.  À première vue, il rencontre mon critère de base, il est léger et assez rapide (pour ma première soirée en tête à tête, après sa toute première initialisation les projets sont chargés en 10-15 secondes, contrairement à la minute habituelle de RadRails).  On peut rapidement configurer les commandes qui viennent standard avec RadRails (qui avec un peu de recul... j'apprécie le fait de pouvoir les configurer exactement à ma façon).  Dans les négatifs, Komodo n'est pas OpenSource ce qui me mettrais à la merci de ActiveState s'il décidait de ne plus avoir de license gratuite.  Reste donc à voir si ma productivité vas augmenter.  à bientôt!  Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Fri, 07 Mar 2008 07:55:56 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-03-vers-un-editeur-plus-leger-pour-ruby-on-rails/</guid>
+		</item>
+		
+		<item>
+			<title>La vitesse d&#39;un site, une question de perception</title>
+			<link>http://m2i3.com/blogue/2008/2008-02-vitesse-site-question-de-perception/</link>
+			<description>&lt;p&gt;J'écoutais récemment la &lt;a title=&quot;Randy Shoup on eBay's Architectural Principles&quot; href=&quot;http://www.infoq.com/presentations/shoup-ebay-architectural-principles&quot;&gt;présentation de Randy Shoup sur l'architecture d'eBay {en}&lt;/a&gt;.  Plusieurs points m'ont fasciné dans cette présentation:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Le site où la présentation est disponible... voir le &quot;powerpoint&quot; en même temps que le dialogue, très intéressant&lt;/li&gt;
+&lt;li&gt;Chez eBay tout est énorme&lt;/li&gt;
+&lt;li&gt;Plusieurs des techniques discutées dans le site ne s'appliqueront probablement jamais à vous&lt;/li&gt;
+&lt;li&gt;La vitesse d'un site est purement une question de perception&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;C'est ce dernier point que j'aimerais couvrir aujourd'hui.  Souvent, très souvent, les sites webs et logiciels sont développés pour fonctionner de façon synchrone et séquentiel.    Imaginons un site web où&lt;/p&gt;
+&lt;p&gt;les utilisateurs peuvent inscrire des commentaires.  Utilisons &lt;a href=&quot;http://m2i3.com&quot;&gt;M2i3.com&lt;/a&gt; comme exemple.  Nous désirons que les choses suivantes surviennent lorsqu'un utilisateur envoie un commentaire:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Vérifier que le commentaire n'est pas du spam&lt;/li&gt;
+&lt;li&gt;Aviser un service de collection de commentaires quelconque qu'un commentaire a été ajouté&lt;/li&gt;
+&lt;li&gt;Envoyer un courriel à l'utilisateur le remerciant du commentaire&lt;/li&gt;
+&lt;li&gt;Envoyer un courriel au propriétaire du site avec le commentaire dedans&lt;/li&gt;
+&lt;li&gt;Retourner une page pour remercier l'utilisateur de son commentaire&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Il ne faut pas oublier que le service de spam pourrait être non-disponible tout autant que le service de collection de commentaires.    De plus, chaque service contacté prends du temps, sans compter le temps nécessaire à l'envoie des deux courriels.  Vous commencez à voir le portrait?  Non???&lt;/p&gt;
+&lt;div class=&quot;inline_ad&quot;&gt;// --&amp;gt;&lt;/div&gt;
+&lt;p&gt;Premièrement, aussi fiable que soit les services pour le spam et les commentaires, il y a des jours où ils ne seront pas disponibles ou trop occupé pour répondre aux commentaires envoyés par notre site.  Ces jours-là, nos utilisateurs ne pourront pas envoyer de commentaires... et si on ne fait pas attention, notre site aura l'air &quot;brisé&quot;.  Ensuite, qui veut attendre 2-3 secondes pour se faire dire &quot;merci d'avoir envoyé uncommentaire&quot; (peut être plus longtemps si les services sont occupés ou surchargés).  Et pendant que notre site s'occupe de ce commentaire, il y a d'autres requêtes qui ne pourront être servie.  Le site semblera plus lent, peut être même non-disponible s'il est cité sur un site très populaire comme digg.  Regardons certains aspects de la soumission du commentaire.  La validation de spam doit survenir avant d'effectuer tout le reste. On ne voudrait pas afficher un commentaire illégitime ou aviser tout.  Et l'envoie des courriels ainsi que le service de collection de commentaire n'ont pas besoin d'être complétés avant de remercier l'utilisateur et rendre le blogue disponible.  Donc si on réorganise la soumission de commentaires de façon totalement asynchrone le commentaire sera ajouté avec un état &quot;nouveau, non-validé&quot; et un message envoyé dans une queue pour traitement ultérieur (et par ultérieur on veut dire dans les secondes qui suivent, l'important est que la soumission du commentaire peut être complétée sans que les autres étapes soient nécessaires).  Pour l'utilisateur du site web, la soumission semble alors instantanée et même si les autres services sont lents ou non disponibles notre site web continue à fonctionner.    Si, pour quelques raisons que ce soit, la fréquentation du site augmente drastiquement, la queue de validation peut devenir plus lente, mais le site semblera toujours rapide... et rien n'empêche de séparer la validation du commentaire du service de ping et des courriels.  De cette façon le commentaire sera, la majorité du temps, validé avant même que la personne l'affiche et le reste des événements se dérouleront comme prévu, plus tard.  Qu'en dites-vous?    Jean-Marc&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Randy Shoup on eBay's Architectural Principles&quot; href=&quot;http://www.infoq.com/presentations/shoup-ebay-architectural-principles&quot;&gt;La présentation de Randy Shoup sur l'architecture d'eBay {en}&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Sat, 23 Feb 2008 11:54:37 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-02-vitesse-site-question-de-perception/</guid>
+		</item>
+		
+		<item>
+			<title>Comment ne pas faire un scrum</title>
+			<link>http://m2i3.com/blogue/2008/2008-02-comment-pas-faire-scrum/</link>
+			<description>&lt;p&gt;Il y a un peu moins d'un an, Hugues touchait le sujet des &lt;a title=&quot;L'équipe Agile et le Scrum&quot; href=&quot;http://m2i3.com/2006/04/equipe_agile_et_scrum&quot;&gt;scrums sur un projet à sa charge&lt;/a&gt;. Rapidement Scrum est une méthode agile de gestion de projet logiciel.  Les prémisses sont très simples et focussés sur l'équipe de travail ainsi que sur le travail à accomplir.  L'overhead réduit à un minimum.  Pour plusieurs compagnies c'est la méthode de gestion&lt;/p&gt;
+&lt;p&gt;de projet idéale.  Enfin, pour celles qui l'appliquent correctement.  J'en ai encore eu l'exemple ce matin... et j'était bien heureux de ne pas participer à ce scrum.  Donc, en regardant le &lt;a href=&quot;http://fr.wikipedia.org/wiki/Scrum#Au_quotidien&quot;&gt;déroulement d'un sprint au quotidien&lt;/a&gt;, voyons ce qui n'a pas été ce matin:  La réunion quotidienne permet à tout les participants (le ScrumMaster, les développeurs, les testeurs, le directeur de produit) de connaître l'avancement du projet, de connaître les problèmes encouru.  C'est le point de communication de la journée.  Ce matin, la réunion s'est tenu entre les développeurs et le gestionnaire du département.  Donc l'équipe de test ne sais pas nécessairement ce qui s'en vient et le directeur de produit ne sait pas non plus ce qui vas lui être livré (il y a d'autres problèmes à ce niveau mais on pourra toujours en parler plus tard).  Le ScrumMaster dirige la réunion.  Plutôt, il maintient le protocole de la réunion en demandant tour à tour à chaque équipier les trois questions rituelles (Qu'est-ce que tu as fait hier, Qu'est-ce que tu vas faire aujourd'hui, Quelles difficultés as-tu rencontrées).  La réunion appartient à l'équipe de travail après tout.  C'est une des valeurs de scrum... une équipe qui s'auto-organise et trouve des solutions par elle-même.&lt;/p&gt;
+&lt;div class=&quot;inline_ad&quot;&gt;// --&amp;gt;&lt;/div&gt;
+&lt;p&gt;Il y a un autre but au protocole: la réunion devrait en tout et partout durer au maximum 15 minutes. Si on s'étends sur les tâches et les problèmes la réunion débordera du temps alloué, la valeur de l'échange est diminué (vraiment... est-ce que le directeur de produit a besoin de comprendre les problèmes de création d'une table... pas vraiment, mais il a besoin de savoir qu'un problème est présent et que ça peut impacter la livraison).  Revenons donc à ce matin... la réunion s'étends sur au moins 30 minutes (j'ai quitté pour aller dinner à un certains points...) mais entre temps, le gestionnaire de l'équipe a questionné chaque développeur sur les problèmes, donné ses recommendations sur les solutions à implémenter ce qui a généré des discussions entre les développeurs eux-même... enfin pas tous, certains regardait leur montre avec impatience.  Au retour de mon diner, l'équipe travaillait.  Les discussions sur les problèmes se sont continué (heureusement) et les problèmes résolus... pourtant, je suis certains qu'à demander à qui que ce soit dans l'équipe s'ils ont vraiment avancé vers la livraison... hum... je ne crois pas qu'ils auraient pu m'aider puisque l'équipe ne s'est pas organisé et planifié rapidement leurs actions pour la journée.  D'après vous... qu'est-ce qui ne fonctionne pas dans l'équipe?  Plusieurs choses...   1. Le gestionnaire ne laisse pas l'équipe se gérer. Tout le monde est d'accord pour dire que plusieurs têtes valent mieux qu'une.  Pourtant lorsqu'il vient le temps d'organiser le travail c'est souvent une seule tête qui décide pour tout le monde des actions à prendre. Problème de confiance?  Problème de compétence?  Difficile à dire, mais c'est certains qu'on manque bien des points de vue dans ces temps là  2. Les roles ne sont pas respectés.  Que le gestionnaire du département dirige le scrum est parfaitement acceptable... mais son rôle devrait se limiter à enforcer le protocole.  De cette façon l'équipe peut se concentrer sur le but de la réunion (qui est très simple après tout)... la débuter, prendre l'information et les décisions nécessaire et retourner faire ce qui permet vraiment de livrer un logiciel fonctionnel.  3. L'absence du directeur de produit et des autres personnes intéressées aux progrès et problèmes.  La réunion quotidienne du scrum n' est pas un brainstorming.  C'est un point de communication qui réponds à des questions essentielles.  Sans ces gens la réunion perds beaucoup de valeur comme point de communication.  Et voilà! Un long blogue après une absence si prolongée.  Mais comme disent les sages, il faut bien commencer quelque part ;) ou bien recommencer quelque part.  Vous avez des expériences agiles qui n'ont d'agile que le nom?  Allez-y j'aimerais bien les entendre.  À très bientôt!  Jean-Marc&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;L'équipe Agile et le Scrum&quot; href=&quot;http://m2i3.com/2006/04/equipe_agile_et_scrum&quot;&gt;Le blogue de Hugues sur l'équipe agile et le Scrum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;La définition du Scrum Au Quotidien sur Wikipedia&quot; href=&quot;http://fr.wikipedia.org/wiki/Scrum#Au_quotidien&quot;&gt;Déroulement d'un sprint au quotidien&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 13 Feb 2008 20:30:53 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-02-comment-pas-faire-scrum/</guid>
+		</item>
+		
+		<item>
+			<title>Nouvelle section Taxinomie</title>
+			<link>http://m2i3.com/blogue/2008/2008-01-nouvelle-section-taxinomie/</link>
+			<description>&lt;p&gt;J'ai ajouté au site de M2i3, un nouveau bloc de taxinomie. Regardez dans le menu de gauche, vous verrez des nouveaux liens sous le menu Taxinomie. Vous pourrez donc trouver tout nos articles regroupés selon les quelques catégorie déjà en cours. Ce menu complète bien les mots clés qui sont à même les blogues. Certaine catégorie contienne peu d'articles, mais je dois faire un séance de vérification de tout nos articles pour ajuster les catégories correctement.    Dans un futur proche, j'espère pouvoir vous annoncer deux excellentes nouvelles.    Sur ce, je vous souhaite une bonne lecture.&lt;/p&gt;</description>
+			<pubDate>Tue, 29 Jan 2008 20:37:34 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-01-nouvelle-section-taxinomie/</guid>
+		</item>
+		
+		<item>
+			<title>Grand lancement de Joomla 1.5</title>
+			<link>http://m2i3.com/blogue/2008/2008-01-grand-lancement-joomla-1-5/</link>
+			<description>&lt;p&gt;Hé bien aujourd'hui marque un grand jour pour le CMS. Joomla version 1.5 est maintenant disponible en relache stable. Nous allons donc voir quel sont les avantages d'utiliser ce système. Il faudra en revanche que tous nos système favoris suive rapidement tel que : &lt;a title=&quot;Joom!Fish :: Multilingual support for Joomla! - Home&quot; href=&quot;http://www.joomfish.net/&quot;&gt;Joom!Fish&lt;/a&gt;, &lt;a title=&quot;SEO and SEF component for Joomla! - ARTIO JoomSEF - ARTIO&quot; href=&quot;http://www.artio.net/en/joomla-extensions/artio-joomsef&quot;&gt;JoomSEF&lt;/a&gt; et &lt;a title=&quot;VirtueMart: Your free e-commerce solution. - Welcome...&quot; href=&quot;http://virtuemart.net/&quot;&gt;VirtueMart&lt;/a&gt;. Vous pouvez charger la nouvelle version de Joomla au lien suivant: &lt;a title=&quot;Your copy of Joomla! 1.5 Now!&quot; href=&quot;http://joomlacode.org/gf/project/joomla/frs/?action=FrsReleaseBrowse&amp;amp;frs_package_id=2&quot;&gt;&lt;img src=&quot;http://www.joomla.org/images/stories/announcements/download_j15stable.png&quot; alt=&quot;Download Joomla! 1.5 Stable&quot; title=&quot;Download Joomla! 1.5 Stable&quot; width=&quot;143&quot; height=&quot;46&quot;/&gt;&lt;/a&gt; Bonne journée à tous.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Your copy of Joomla! 1.5 Now!&quot; href=&quot;http://joomlacode.org/gf/project/joomla/frs/?action=FrsReleaseBrowse&amp;amp;frs_package_id=2&quot;&gt;Joomla Version 1.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Joom!Fish :: Multilingual support for Joomla! - Home&quot; href=&quot;http://www.joomfish.net/&quot;&gt;Joom!Fish&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;SEO and SEF component for Joomla! - ARTIO JoomSEF - ARTIO&quot; href=&quot;http://www.artio.net/en/joomla-extensions/artio-joomsef&quot;&gt;JoomSEF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;VirtueMart: Your free e-commerce solution. - Welcome...&quot; href=&quot;http://virtuemart.net/&quot;&gt;VirtueMart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 22 Jan 2008 17:09:00 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-01-grand-lancement-joomla-1-5/</guid>
+		</item>
+		
+		<item>
+			<title>Tourmente chez Mongrel et nouveau serveur web Thin</title>
+			<link>http://m2i3.com/blogue/2008/2008-01-tourmente-mongrel-serveur-web-thin/</link>
+			<description>&lt;p&gt;&lt;img src=&quot;http://m2i3.com/files/ruby-logo-R.png&quot; alt=&quot;Nouveau logo Ruby&quot; title=&quot;&quot;/&gt; Pendant que &lt;a title=&quot;ZSFA -- Rails Is A Ghetto (2007-12-31)&quot; href=&quot;http://www.zedshaw.com/rants/rails_is_a_ghetto.html&quot;&gt;Zed Shaw&lt;/a&gt; claque la porte de Mongrel et quitte la communauté Ruby on Rails, &lt;a title=&quot;Marc-André Cournoyer's blog&quot; href=&quot;http://macournoyer.wordpress.com/&quot;&gt;Marc-André Cournoyer lance un nouveau serveur Web nommé Thin&lt;/a&gt;.  Les performances sont meilleurs que Mongrel. Je dois avouer qu'avec toute les relâches intéressantes ces derniers jours, j'ai de la difficulté à tous lire et encore moins tout tester. Il faut croire que c'est la réalité de l'informatique.  Parlant de relache, voici que le nouveau de logo de Ruby est lancé.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;ZSFA -- Rails Is A Ghetto (2007-12-31)&quot; href=&quot;http://www.zedshaw.com/rants/rails_is_a_ghetto.html&quot;&gt;Zed Shaw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Marc-André Cournoyer's blog&quot; href=&quot;http://macournoyer.wordpress.com/&quot;&gt;Marc-André Cournoyer lance un nouveau serveur Web nommé Thin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Fri, 11 Jan 2008 23:38:45 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2008/2008-01-tourmente-mongrel-serveur-web-thin/</guid>
+		</item>
+		
+
+	</channel>
+</rss>

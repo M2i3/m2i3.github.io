@@ -1,0 +1,300 @@
+
+
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> blog</title>
+		<link>http://m2i3.com/blogue/2007/</link>
+		<atom:link href="http://m2i3.com/blogue/2007/" rel="self" type="application/rss+xml" />
+		<description></description>
+
+		
+		<item>
+			<title>Bonne Année 2008 avec Ruby</title>
+			<link>http://m2i3.com/blogue/2007/2007-12-bonne-annee-2008-ruby/</link>
+			<description>&lt;p&gt;Juste pour me faire mentir, voila que la version 1.9 de Ruby est maintenant disponible. Il s'agit d'une version officiel et &quot;stable&quot;. Cette version est une version de développement mais une version de production est à prévoir sous peu.  Avec Rails 2.0 et Ruby 1.9, le temps des fêtes est passablement occupé dans le milieu.  Vous pouvez télécharger la version de Ruby 1.9 à adresse suivante: &lt;a href=&quot;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.bz2&quot;&gt;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.bz2&lt;/a&gt; &lt;a href=&quot;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.gz&quot;&gt;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.gz&lt;/a&gt; &lt;a href=&quot;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.zip&quot;&gt;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.zip&lt;/a&gt; Vous pouves lire les différents changement qu'il y a dans Ruby 1.9 sur le site de eigenclass: &lt;a title=&quot;eigenclass&quot; href=&quot;http://eigenclass.org/hiki/Changes+in+Ruby+1.9&quot;&gt;Changements de Ruby 1.8.5 à 1.9&lt;/a&gt; J'ai encore beaucoup de lecture à faire puisque Ruby 1.9.1 serait livré avec YARV (Yet Another Ruby Vitural Machine), qui permettrai des gains de performance d'environ 15%. &lt;a title=&quot;YARV&quot; href=&quot;http://en.wikipedia.org/wiki/YARV&quot;&gt;YARV sur Wikipedia&lt;/a&gt; Sur ce je souhaite une bonne année 2008 à nos lecteurs.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.bz2&quot;&gt;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.bz2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.gz&quot;&gt;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.tar.gz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.zip&quot;&gt;ftp://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.0-0.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;eigenclass&quot; href=&quot;http://eigenclass.org/hiki/Changes+in+Ruby+1.9&quot;&gt;Changements de Ruby 1.8.5 à 1.9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;YARV&quot; href=&quot;http://en.wikipedia.org/wiki/YARV&quot;&gt;YARV sur Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 27 Dec 2007 23:22:52 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-12-bonne-annee-2008-ruby/</guid>
+		</item>
+		
+		<item>
+			<title>Ruby on Rails et la sécurité</title>
+			<link>http://m2i3.com/blogue/2007/2007-12-ruby-on-rails-securite/</link>
+			<description>&lt;p&gt;Juste un court blogue.  J'ai trouvé un site très intéressant que vous développez en Ruby on Rails ou en autres languages inférieurs (Je blague ici... Pas besoin de m'envoyer des courriels haineux). Le &lt;a title=&quot;Ruby on Rails Security Project&quot; href=&quot;http://www.rorsecurity.info/&quot;&gt;Ruby on Rails Security Project&lt;/a&gt;&lt;strong&gt;{en}&lt;/strong&gt; contient une grande source d'information sur la sécurité informatique dans vos applications Web. Aller jeter un coup d'oeil. Le portails est en anglais pour votre information.  Bonne journée.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Ruby on Rails Security Project&quot; href=&quot;http://www.rorsecurity.info/&quot;&gt;Ruby on Rails Security Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Wed, 12 Dec 2007 01:05:25 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-12-ruby-on-rails-securite/</guid>
+		</item>
+		
+		<item>
+			<title>Lancement de Rails 2.0</title>
+			<link>http://m2i3.com/blogue/2007/2007-12-lancement-de-rails-2-0/</link>
+			<description>&lt;p&gt;Pour me faire mentir, le lancement de &lt;strong&gt;Rails 2.0&lt;/strong&gt; a eu lieu cette nuit. Vous pouvez maintenant télécharger la nouvelle version avec la commande suivante : gem install rails --source http://gems.rubyonrails.org --include-dependencies  Vous pouvez aller voir le site offciel à : &lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.org&quot;&gt;Ruby on Rails&lt;/a&gt; C'est installé pour moi. On va voir si la gestion des vue améliorer marche bien.  Par le même fait, j'ai trouvé le site : &lt;a title=&quot;Railscasts - Free Ruby on Rails Screencasts&quot; href=&quot;http://railscasts.com/&quot;&gt;http://railscasts.com/&lt;/a&gt; qui présente de vidéo sur Rails gratuitement mais en anglais.  Bonne journée.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Ruby on Rails&quot; href=&quot;http://rubyonrails.org&quot;&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Railscasts - Free Ruby on Rails Screencasts&quot; href=&quot;http://railscasts.com/&quot;&gt;http://railscasts.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Fri, 07 Dec 2007 13:41:47 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-12-lancement-de-rails-2-0/</guid>
+		</item>
+		
+		<item>
+			<title>Cellulaire et web</title>
+			<link>http://m2i3.com/blogue/2007/2007-12-cellulaire-web/</link>
+			<description>&lt;p&gt;&lt;img src=&quot;http://m2i3.com/files/blonde_cell_small.jpg&quot; alt=&quot;Jolie bonde avec un cellulaire a la main&quot; title=&quot;&quot;/&gt; Suite à mon insatisfaction face à mon fournisseur de service cellulaire, je décidé d'arrêter mon abonnement de téléphonie sans fil. Suite à cela, je vais voir à changer de fournisseur mais ce n'est pas le cas présentement.  Si vous avez besoin de contacter M2i3 vous pouvez le faire en communiquant avec Jean-Marc au &lt;span style=&quot;text-decoration: line-through;&quot;&gt;(514) 462-6243&lt;/span&gt; (888) 403-5998. La page de contact est aussi mise à jour quand ce blogue disparaîtra de la page principale.  Je vous reviens bientôt avec des nouvelles trouvailles Ruby on Rails, et je regarde Ruby 1.9 incluant la machine virtuelle et Rails 2.0 qui doivent sortir en décembre. Oui on sait que les dates de livraisons et l'informatique ça fait deux mais on espère toujours.  Bonne nuit.&lt;/p&gt;</description>
+			<pubDate>Wed, 05 Dec 2007 22:30:40 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-12-cellulaire-web/</guid>
+		</item>
+		
+		<item>
+			<title>Le bon parlé français en informatique</title>
+			<link>http://m2i3.com/blogue/2007/2007-09-bon-parle-francais-informatique/</link>
+			<description>&lt;p&gt;&lt;img src=&quot;http://m2i3.com/files/blogue_2007_11_22.jpg&quot; alt=&quot;Homme qui a une ecriteau avec email biffe remplace par courriel&quot; title=&quot;&quot;/&gt;Comme vous l'avez sûrement remarqué, &lt;a title=&quot;Experts CMS Joomla, Méthodes Agile et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt; tente de diffuser de l'information de qualité en français. Écrire des blogues et articles sur des sujets informatiques n'est pas simple. Une grande quantité de mots nous viennent de l'anglais. Souvent, les traductions officielles nous laissent indifférent. Il est bien plus simple d'écrire « &lt;strong&gt;email&lt;/strong&gt; » au lieu de « &lt;strong&gt;courriel&lt;/strong&gt; ».  Notre but de communiquer avec vous est de fournir de l'information de qualité, claire et gratuite. Mais à quoi bon écrire toutes ces lignes si les mots employés ne sont pas du bon niveau de langage. Faut-il employé le mot juste ou le mot populaire?  En me basant sur les efforts de la chaîne de télévision publique &lt;a title=&quot;Radio-Canada.ca&quot; href=&quot;http://www.radio-canada.ca&quot;&gt;Radio-Canada&lt;/a&gt;, il est possible d'utiliser les bons mots français pour d'écrire nos idées. Par exemple, &lt;a title=&quot;Radio-Canada.ca&quot; href=&quot;http://www.radio-canada.ca&quot;&gt;Radio-Canada&lt;/a&gt; a commencé il y a quelques années à utiliser les termes « &lt;strong&gt;oiselet&lt;/strong&gt; », « &lt;strong&gt;aigle&lt;/strong&gt; » et « &lt;strong&gt;cocheur de sable&lt;/strong&gt; » pour d'écrire les termes de golf « &lt;strong&gt;birdy&lt;/strong&gt; », « &lt;strong&gt;eagle&lt;/strong&gt; » et « &lt;strong&gt;sand wedge&lt;/strong&gt; ». Plus un terme en français correct sera employé, plus il a de chance d'être utilisé de manière courante. Il en va donc de nous tous de la&lt;/p&gt;
+&lt;p&gt;communauté francophone de faire l'effort d'utiliser le bon parlé français sans quoi sans quoi celui-ci pourrait bien disparaître dans futur bien trop proche.  Pour vous aider dans votre démarche, je vous invite à faire vos traductions sur le portail de l'&lt;a title=&quot;Grand dictionnaire terminologique&quot; href=&quot;http://www.granddictionnaire.com&quot;&gt;office québécois de la langue française&lt;/a&gt;. Ce portail possède un excellent engin de traduction de mot réparti dans plusieurs domaines d'affaire. De plus pour vous aider lors de la rédaction de vos textes, j'ai trouvé le site &lt;a title=&quot;« BonPatron » correcteur d'orthographe et de grammaire en ligne pour les textes français&quot; href=&quot;http://bonpatron.com/&quot;&gt;BonPatron.com&lt;/a&gt;. Ce portail corrige vos textes en ligne à l'aide d'une interface facile à utiliser. La correction est bien meilleure que celle d'&lt;a title=&quot;OpenOffice.org&quot; href=&quot;http://www.openoffice.org/&quot;&gt;OpenOffice&lt;/a&gt; Write ou &lt;a title=&quot;Word Homepage&quot; href=&quot;http://office.microsoft.com/fr-fr/word/default.aspx&quot;&gt;Microsoft Word 2007&lt;/a&gt;. Maintenant, je ne sais pas comment je pourrais me passer de ce dernier outil extraordinaire. J'ai la chance d'essayer leur version professionnelle et pour 15 dollars par an, &lt;a title=&quot;« BonPatron » correcteur d'orthographe et de grammaire en ligne pour les textes français&quot; href=&quot;http://bonpatron.com/&quot;&gt;BonPatron.com&lt;/a&gt; est une aubaine.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Experts CMS Joomla, Méthodes Agile et Ruby on Rails à Montréal&quot; href=&quot;http://m2i3.com&quot;&gt;M2i3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Radio-Canada.ca&quot; href=&quot;http://www.radio-canada.ca&quot;&gt;Radio-Canada&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Grand dictionnaire terminologique&quot; href=&quot;http://www.granddictionnaire.com&quot;&gt;Office québécois de la langue française&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;« BonPatron » correcteur d'orthographe et de grammaire en ligne pour les textes français&quot; href=&quot;http://bonpatron.com/&quot;&gt;bonpatron.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;OpenOffice.org&quot; href=&quot;http://www.openoffice.org/&quot;&gt;OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Word Homepage&quot; href=&quot;http://office.microsoft.com/fr-fr/word/default.aspx&quot;&gt;Microsoft Word 2007&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 22 Nov 2007 19:32:28 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-09-bon-parle-francais-informatique/</guid>
+		</item>
+		
+		<item>
+			<title>La loi de Murphy et le développement Agile</title>
+			<link>http://m2i3.com/blogue/2007/2007-11-loi-murphy-developpement-agile/</link>
+			<description>&lt;p&gt;&lt;img src=&quot;http://m2i3.com/files/Mocking%20a%20professor-sm.jpg&quot; alt=&quot;Un eleve qui prend sont professeur pour un fou.&quot; title=&quot;&quot;/&gt;« &lt;strong&gt;Si une chose peut mal tourner, elle tournera mal&lt;/strong&gt; ». Tel est la loi de Murphy. Je relisais ce merveilleux livre d’Arthur Bloch intitulé la loi de Murphy et autres raisons pourquoi les choses tournes mal. Après seulement une page, mon esprit divagua sur l’application des corolaires de la loi de Murphy sur le monde du développement.  Corolaire #4 : &lt;strong&gt;Si vous percevez qu’il y a quatre moyens qu’une procédure aille mal, et que vous corrigez le tout, un cinquième moyen se développera aussitôt.&lt;/strong&gt; Corolaire #8 : &lt;strong&gt;Il est impossible de faire un système à l’épreuve des fous car les fous sont tout simplement géniaux.&lt;/strong&gt; En embrassant ces deux corollaires, nous avons le fondement du développement par&lt;/p&gt;
+&lt;p&gt;tests. Test-driven developement (TDD) part du principe que votre système logiciel aura des bugs indépendamment du contrôle de qualité mis en place et que le système crashera. Pour appliquer la méthodologie, on test de manière automatique les fonctionnalités le mieux possible sans aller dans l’excès. Suite à la découverte d’un bug, on écrira un nouveau test. On vérifiera que le bug existe vraiment. On corrigera le bug. On vérifiera que le bug est corrigé et que les tests précédant ne sont pas affectés.   Cette méthode ne garantie pas qu’il y aura de nouveaux bug, mais à chaque relâche le système se comportera de mieux en mieux. Peut-être qu’à l’aide de celle-ci, vous pourrez vaincre la loi de Murphy.  Mais comme la loi de Commoner sur l’écologie : &lt;strong&gt;Rien ne nous quitte jamais.&lt;/strong&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 06 Nov 2007 22:24:22 -0500</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-11-loi-murphy-developpement-agile/</guid>
+		</item>
+		
+		<item>
+			<title>de la beauté et du web</title>
+			<link>http://m2i3.com/blogue/2007/2007-10-beaute-et-web/</link>
+			<description>&lt;p&gt;Qu'est-ce qu'un beau site web?  En fait, est-ce qu'un site web est beau, laid?  Avant de répondre... et sans entrer dans un &lt;a href=&quot;http://fr.wikipedia.org/wiki/Beaut%C3%A9&quot;&gt;débat philosophique sur la beauté&lt;/a&gt;... il faut considérer que la beauté est très souvent dans l'oeil de celui qui regarde - Oscar WILDE.  Alors si on ne peut quantifier la beauté, comment la traiter lorsqu'on parle d'un site web?  Comment réagir lorsqu'on se fait dire qu'une page n'est pas belle (surtout lorsque c'est notre client qui le dit).  Eh bien, tout simplement, en ne traitant pas de beauté. Un site, une page, sont des &lt;a href=&quot;http://fr.wikipedia.org/wiki/Communication&quot;&gt;communications&lt;/a&gt;, des &lt;a href=&quot;http://fr.wikipedia.org/wiki/Message&quot;&gt;messages&lt;/a&gt;.  Son visuel aide ou oui nui au message offert à l'oeil.  Il l'obscurcit ou le rend clair.    En ce sens la question à laquelle on doit répondre est: &quot;est-ce que le visuel du site permet de transmettre le message de la façon voulu&quot;?  Si la réponse est &quot;oui&quot; alors le visuel est adéquat... aussi laid ou beau qu'il soit.&lt;/p&gt;</description>
+			<pubDate>Wed, 31 Oct 2007 07:02:21 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-10-beaute-et-web/</guid>
+		</item>
+		
+		<item>
+			<title>Étendre le code des modèles de plugins</title>
+			<link>http://m2i3.com/blogue/2007/2007-10-etendre-code-des-modeles-de-plugins/</link>
+			<description>&lt;p&gt;Un courriel que j'ai reçu récemment....  Cher Jean-Marc,  J'ai un plugin que je viens de développer et que j'aimerais réutiliser dans une nouvelle application.  Mon problème est que la nouvelle application doit être en plusieurs langues alors que mon plugin ne fonctionne qu'en une seule langue.    Je sais que je pourrais changer le plugin mais j'devrais aussi&lt;/p&gt;
+&lt;p&gt;modifier les applications qui l'utilisent déjà.  T'as une recommandation pour résoudre mon problème?  Pris-entre Deuxfeux  -------------------------------------------------------  Cher Pris-entre,  La solution à ton problème est au coeur même du langage Ruby.  Le langage  est dynamique même au niveau des classes et modules.&lt;/p&gt;
+&lt;div class=&quot;inline_ad&quot;&gt;// --&amp;gt;&lt;/div&gt;
+&lt;p&gt;Supposons que tu ai un plugin du nom de &quot;mon_plugin&quot;... et que la classe qui t'intéresse s'appelle &quot;ProfileUtilisateur&quot; (donc dans un fichier nommé &quot;profile_utilisateur.rb&quot; sous le répertoire &quot;models&quot;).  Finalement, supposons que tu utilises Globalize pour rendre ton application multilingue et que les colonnes à traduire sont le nom et la description.  Si tu créé un fichier avec le même nom que la classé à étendre dans le répertoire &quot;models&quot; de ton application tu vas cacher le fichier original et en perdre la fonctionnalité.  Pourtant cette approche est très proche de la solution finale.  Donc... tu créé le fichier &quot;profile_utilisateur.rb&quot; dans ton répertoire de modèle et tu place le code suivant dans le fichier:   extend_plugin_class(:mon_plugin, :models, :profile_utilisateur).class_eval do       self.keep_translations_in_model =  true       self.translates :nom, :description, :base_as_default =&amp;gt; true end   La méthode &quot;extend_plugin_class&quot; retourne la classe que l'on cherche à étendre... mais la technique à utiliser est déjà là avec la méthode &quot;class_eval&quot;.  Cette dernière permet d'altérer le code déjà en mémoire de la classe.  C'est donc ainsi que l'on peut utiliser les méthodes de Globalize pour indiquer que la classe doit être traduite dans cette application.  Reste donc à comprendre comment la méthode &quot;extend_plugin_class&quot; fonctionne... en voici le code:   def extend_plugin_class(plugin_name, class_type, class_name, &amp;amp;block)   plugin_location = &quot;/../vendor/plugins/%s/app/%s/%s.rb&quot;%[plugin_name, class_type, class_name]   require File.expand_path(File.dirname(RAILS_ROOT) + plugin_location)    class_name.to_s.classify.constantize end&lt;/p&gt;
+&lt;div class=&quot;inline_ad&quot;&gt;// --&amp;gt;&lt;/div&gt;
+&lt;p&gt;On sait que Ruby on Rails favorise la normalisation à la configuration.  Donc, l'emplacement des fichiers de classes d'un plugin seront nécessairement à l'endroit attendu.  Trois étapes très simples, déterminer le nom du fichier à charger, le charger en mémoire et retourner la classe à étendre.  Simple, bref, mais très efficace... enfin j'espère que ça répond à ta question.  Bonne chance!  Jean-Marc&lt;/p&gt;</description>
+			<pubDate>Tue, 16 Oct 2007 21:32:13 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-10-etendre-code-des-modeles-de-plugins/</guid>
+		</item>
+		
+		<item>
+			<title>Assez bien mais pas parfait (perfect good enough)? Vraiment?</title>
+			<link>http://m2i3.com/blogue/2007/2007-10-assez-bien-pas-parfait-vraiment/</link>
+			<description>&lt;p&gt;Un petit retour sur un ancien &lt;a title=&quot;Perfect Good Enough&quot; href=&quot;http://m2i3.com/node/15&quot;&gt;texte qu'Hugues a publié il y a plus d'un an&lt;/a&gt;...  J'suis à un point critique sur un projet.  Le site n'est toujours pas au niveau visuellement... et pourtant la fonctionnalité y est déjà.  Ce petit bébé étant notre premier bébé (enfin, conçu pour et par M2i3), on le voudrait parfait dès le lancement.  J'ai relu le texte et la citation sur laquelle Hugues s'est basé... Mais la réponse m'échappe toujours, à quel moment un site est assez bon?&lt;/p&gt;</description>
+			<pubDate>Fri, 05 Oct 2007 07:29:42 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-10-assez-bien-pas-parfait-vraiment/</guid>
+		</item>
+		
+		<item>
+			<title>RadRails, Console et Model</title>
+			<link>http://m2i3.com/blogue/2007/2007-09-RadRails-console-model/</link>
+			<description>&lt;p&gt;Un court blogue pour le retour de vacance.  Lorsque vous ouvrez une console avec RadRails, et vous faite de modification sur vos modèle, les changements ne sont pas immédiat. Vous devez absolument faire la commande &lt;strong&gt;&amp;lt;reload!&amp;gt;&lt;/strong&gt;. Ceci rechargera donc votre environnement de travail avec les modifications aux modèles.  Mais attention:  Si vous faites des changements dans un module, ceux-ci ne sont pas affectés par la commande reload! et vous devrez donc fermer et ouvrir de nouveau votre console.  En remplacement à RadRails, il y a Aptana. J'ai eu quelques bobo à ma première tentative d'utilisation, mais je crois que le problème est plus de mon côté que de celui de l'application. Je me dois de refaire un essai avec ce logiciel avant longtemps. Si vous voulez prendre de l'avance et nous donner votre avis, aller jeter un coup d'oeil au portail suivant.  &lt;a href=&quot;http://aptana.com&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://www.aptana.com/images/aptana_ide_tag.gif&quot; alt=&quot;Aptana&quot; title=&quot;Aptana&quot;/&gt;&lt;/a&gt; Bon Code.&lt;/p&gt;</description>
+			<pubDate>Mon, 24 Sep 2007 00:39:54 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-09-RadRails-console-model/</guid>
+		</item>
+		
+		<item>
+			<title>La beauté est dans l&#39;implémentation</title>
+			<link>http://m2i3.com/blogue/2007/2007-08-beaute-en-implementation/</link>
+			<description>&lt;p&gt;Je suis à travailler sur une intégration avec PayPal sur un projet en Ruby on Rails.    Pour ce faire j'ai donc téléchargé le &lt;a title=&quot;Ruby PayPal Gem&quot; href=&quot;http://www.elctech.com/projects/paypal&quot;&gt;Gem PayPal&lt;/a&gt; développé par &lt;a href=&quot;http://www.elctech.com&quot;&gt;ELC Technologies&lt;/a&gt;.  Les vérifications préliminaires sont prometteuses, le Gem se comporte tel que souhaité et fidèle à la philosophie de Rails il se concentre sur le résultat faisant fi de la configuration&lt;/p&gt;
+&lt;p&gt;au profit de la normalisation.    Au moment d'entamer le code qui vas assurer la modification du profil des utilisateurs en fonction de l'abonnement sélectionné j'arrive au point épineux des tests.  Je ne vais certainement pas écrire une portion si important du site sans m'assurer qu'elle se comporte adéquatement.   Le problème est simple, le Gem sers précisément à interagir avec le site externe qu'est  PayPal et je ne désire pas dépendre de la présence de leur serveur pour exécuter mes tests fonctionnels.  Après quelque recherches dans la base de code du Gem lui même j'ai trouvé ma réponse... et je dois admettre que la solution de Mr Luetke au problème est très... ingénieuse.&lt;/p&gt;
+&lt;div class=&quot;inline_ad&quot;&gt;// --&amp;gt;&lt;/div&gt;
+&lt;p&gt;Dans les tests du Gem, on trouve un fichier nommé « method_mock.rb » qui est utilisé dans les tests unitaires du Gem.  Après plusieurs lectures et un merveilleux mal de tête j'ai finalement accroché sur la première ligne du fichier... « class Module ».  Une révélation, &lt;a title=&quot;La part du plaisir dans l'apprentissage et la compréhension... des éléments essentiels au travail&quot; href=&quot;http://m2i3.com/2007/08/ces-ha-qui-nous-font-avancer&quot;&gt;un de ces « Ah Moment » dont je vous parlais l'autre jour&lt;/a&gt;.  Le code du fichier sers à remplacer temporairement le code de n'importe quelle méthode de n'importe quel module (et donc par extension classe) du langage... par exemple, le code nécessaire pour se connecter à un serveur distant.   Mon problème est résolu... pas le même moyen qu'à utilisé Mr Luetke pour tester son Gem.  La solution est élégante et permet beaucoup d'autre utilisations, comme par exemple fournir un fichier de la suite de test en remplacement d'un fichier externe.  Bon, j'y retourne, les doigts me démangent d'avance encore un peu... un test à la fois (ou comme chanterais les américains: « Test by test... oh baby... gonna get software that will works! »)&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Ruby PayPal Gem&quot; href=&quot;http://www.elctech.com/projects/paypal&quot;&gt;Gem PayPal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.elctech.com&quot;&gt;ELC Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;La part du plaisir dans l'apprentissage et la compréhension... des éléments essentiels au travail&quot; href=&quot;http://m2i3.com/2007/08/ces-ha-qui-nous-font-avancer&quot;&gt;un de ces « Ah Moment » dont je vous parlais l'autre jour&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 07 Aug 2007 23:15:48 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-08-beaute-en-implementation/</guid>
+		</item>
+		
+		<item>
+			<title>Ces &quot;Ha!&quot; qui nous font avancer</title>
+			<link>http://m2i3.com/blogue/2007/2007-08-ces-ha-qui-nous-font-avancer/</link>
+			<description>&lt;p&gt;Ceux, qui n'ont pas le bonheur comme Hugues** de travailler avec moi, n'ont jamais entendu certains des &quot;YES&quot; retentissant qui peuvent fuser de mon bureau dans les moments de grand travail.  Loin d'être un cri sauvage et sans raison ils sont l'expression du&lt;/p&gt;
+&lt;p&gt;plaisir de mettre en place tous les morceaux d'un problème ou encore de finalement comprendre clairement quelque chose.  Les anglophones ont une expression très juste pour les décrire... ils les appellent tout simplement &quot;those Ha! moment&quot; (ces moments où l'on fait Ha!).  Et franchement la grande majorité de ces moments sont silencieux mais quand même empreint d'un sentiment d'accomplissement.&lt;/p&gt;
+&lt;div class=&quot;inline_ad&quot;&gt;// --&amp;gt;&lt;/div&gt;
+&lt;p&gt;L'apprentissage et la compréhension nécessitent plusieurs éléments pour être effectifs et durable.  Un de ces éléments est le plaisir... eh oui... on retient mieux ce qui nous fait plaisir et arriver au travail le matin pour attaquer un problème motivant est cent fois plus intéressant que de se traîner la patte au bureau.  Donc, à l'instar de mes neveux dont les yeux pétillent de joie lorsqu'il trouve par eux-même la solution à une devinette, j'essaie aussi souvent que possible de trouver ma motivation et mon plaisir à l'intérieur même de mon travail chez M2i3.  En avez-vous aussi?    Jean-Marc  ** bonheur ou malheur... il a des moments où je doute puisque je ne suis pas toujours un collège évident... mais connaissant Hugues et sa franchise j'imagine que c'est le bonheur sinon... il m'en aurait parlé.&lt;/p&gt;</description>
+			<pubDate>Thu, 02 Aug 2007 22:49:35 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-08-ces-ha-qui-nous-font-avancer/</guid>
+		</item>
+		
+		<item>
+			<title>c&#39;est le temps des vacances</title>
+			<link>http://m2i3.com/blogue/2007/2007-07-temps-des-vacances/</link>
+			<description>&lt;p&gt;Je profite du fait qu'Hugues prends des vacances bien méritées pour faire l'école buissonnière au niveau du blogue.  Entre la piscine les bbq et mon projet actuel le temps disponible pour le blogue est limité.  Donc, plutôt que de diminuer la qualité des écrits je m’accorde un bon deux semaines de congés pour me ressourcer lire vos courriels.    Je vous réécrit donc le 2 août… et entre temps bonne baignade !&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Jul 2007 14:11:02 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-07-temps-des-vacances/</guid>
+		</item>
+		
+		<item>
+			<title>Connaissez vous votre cadre d’application (framework) ?</title>
+			<link>http://m2i3.com/blogue/2007/2007-07-connaissez-vous-cadre-application-framwork/</link>
+			<description>&lt;p&gt;En travaillant sur notre nouvelle création en Ruby on Rails, je rencontre un problème lors de l’élaboration des tests. Voici la problématique :  Lorsqu’un formulaire comporte la possibilité de télécharger un fichier sur le serveur comment ce processus peut-il être testé ?  Réponse #1 : On ouvre le fichier normalement puis on passe le fichier dans le POST du contrôleur.  &lt;strong&gt;Hiinn !&lt;/strong&gt; Mauvaise réponse ! Un fichier ouvert&lt;/p&gt;
+&lt;p&gt;de cette manière manque une propriété importante qui est original_filename, et donc votre code ne fonctionnera pas.  Donc avec l’aide de Jean-Marc on effectue une recherche dans la librairie CGI qui est responsable de la gestion des fichiers envoyés par POST.  Réponse #2 : Dans notre test, on dérive la classe FILE de la même manière que dans la librairie CGI, puis on passe ce nouveau type de fichier dans le POST.  &lt;strong&gt;Hiinn !&lt;/strong&gt; Mauvaise réponse ! Ça fonctionne mais l’ajout de ce traitement dans notre test est assez inélégant et répète de la fonctionnalité déjà existante.  Une heure plus tard d’arrachage de cheveux, Jean-Marc me lance la phrase suivante de manière désinvolte: « Sais-tu que dans &lt;strong&gt;ActionController&lt;/strong&gt; il y a une classe nommée &lt;strong&gt;TestUploadedFile&lt;/strong&gt; ? »&lt;/p&gt;
+&lt;div style=&quot;float:right;margin: 2em;&quot;&gt;
+&lt;p&gt;« Ah bien non je ne la connaissais pas. Dis moi pas qu’il y a une propriété original_filename quand même ? », que je lui rétorque en proliférant quelques blasphèmes parce que je suis sûr que ça va faire fonctionner mon test à merveille.  Et bien sur Jean-Marc de répondre en prenant bien soin d’asséner le coût de grâce : « Bien oui. Essaye je suis sûr que ça marchera. »  En 5 minutes ça fonctionne. Et voila 1 heure et demie de travail pour rien. Problème réglé et les tests sont maintenant fonctionnels.  Morale de l’histoire, lisez votre document de temps à autre, vous ferez de bonne découverte.&lt;/p&gt;
+&lt;/div&gt;</description>
+			<pubDate>Wed, 04 Jul 2007 23:10:26 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-07-connaissez-vous-cadre-application-framwork/</guid>
+		</item>
+		
+		<item>
+			<title>Tout est dans le &quot;mixins&quot;</title>
+			<link>http://m2i3.com/blogue/2007/2007-01-tout-dans-mixins/</link>
+			<description>&lt;p&gt;Une des fonctionalité que j'aime bien dans Ruby est le &quot;mixins&quot; qui permet d'inclure des bloques de fonctionalité à l'intérieur d'une classe.  En gros, plutôt que d'essayer d'obtenir de l'héritage multiple on peut classer les différentes facettes de&lt;/p&gt;
+&lt;p&gt;son code à l'intérieur de modules que l'on recombine dans les classes.  Hum... ça sonne bien en théories mais qu'est-ce que ça donne vraiment en pratique...  Voici un exemple que vous avez déjà utilisé:&lt;/p&gt;
+&lt;div class=&quot;sourcecode&quot;&gt;texte1 = &quot;aaa&quot; texte2 = &quot;bbb&quot; texte3 = &quot;aaa&quot;  puts &quot;#{texte1} &amp;gt; true puts &quot;#{texte1} &amp;gt; true puts &quot;#{texte2} &amp;gt; false&lt;/div&gt;
+&lt;p&gt;La class String ne définit pas la méthode &amp;lt;=.  Cette dernière provient du module Comparable.  Ce même module est inclus par d'autres classes (par exemple: Date et Numeric).    Qu'est-ce que ça me donne? À mon sens, une meilleure implémentation puisque si le code nécessaire pour établir une fonctionnalité est réutilisable vous pouvez alors le réutiliser dans autant de classes que vous pourrez.  Allez-y... jetez un coup d'oeil dans les librairies de Ruby, vous serez surpris du nombre de Mixins qui s'y trouve&lt;/p&gt;</description>
+			<pubDate>Wed, 20 Jun 2007 08:24:23 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-01-tout-dans-mixins/</guid>
+		</item>
+		
+		<item>
+			<title>Le compte est bon!</title>
+			<link>http://m2i3.com/blogue/2007/2007-06-compte-est-bon/</link>
+			<description>&lt;p&gt;J'était quelque peu déçu la semaine dernière en voyant que personne n'avait tenté de résoudre le &lt;a href=&quot;http://m2i3.com/2007/04/des-chiffres-et-des-lettres&quot;&gt;défi des chiffres et des lettres&lt;/a&gt; et j'en cherchais les raisons.  Est-ce que le défi était trop complexe?  Le code présenté déroutant?   Franchement, il devait y avoir&lt;/p&gt;
+&lt;p&gt;un peu de tout.  Le code de génération pour les chiffres a ceci qu'il propose une façon de vérifier si la solution présentée est valide ou non.  En relisant le code, et c'est bien mon côté philosophe qui prends le dessus, j'ai réalisé qu'en fournissant un code qui permettait de valider le résultat j'ai limité les solutions possibles qu'on pouvait générer.  En effets, comme vous pouvez le voir dans la solution que j'ai soumis au défi, je n'utilise aucunement le code fournit avec le défi (j'm'en suis inspiré, mais non utilisé).  Donc si vous voulez tenter à nouveau votre chance, oubliez le code dans le défi, laissez libre court à votre imagination.  Est-ce que le défi était trop complexe?  À vrai dire, j'en sais rien.  Après 10 minutes de réflexion, 20 minutes de prototypage, d'étonnement et environ 30 minutes pour obtenir une solution élégante j'ai obtenir la &lt;a title=&quot;solution de Jean-Marc au défi des chiffres et des lettres&quot; href=&quot;http://m2i3.com/2007/04/des-chiffres-et-des-lettres#comment-105&quot;&gt;solution suivante&lt;/a&gt;.  Est-ce que le code est complexe?  Je ne crois pas.  Il est riche en apprentissage sur le language Ruby et j'ai bien l'intention de le décortiquer avec vous.    Une grande surprise par rapport à ma solution.  Je croyais faire beaucoup d'optimisation, à la limite d'utiliser des threads multiples.  Eh bien, non... lorsqu'un solution est disponible le code le trouve en deça de 50secondes sur ma machine... plutôt impressionnant non?  Bon... je retourne a mes &lt;a title=&quot;Retrouvailles ESFL (École Secondaire Fernand Lefebvre) 1994&quot; href=&quot;http://retrouvailles-esfl-1994.zliki.com/&quot;&gt;autres&lt;/a&gt; &lt;a title=&quot;gay.chat4.us - clavarde à ta façon&quot; href=&quot;http://gay.chat4.us/fr&quot;&gt;projets&lt;/a&gt; et on se retrouve bientôt pour l'analyse du code de la solution.&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://m2i3.com/2007/04/des-chiffres-et-des-lettres&quot;&gt;défi des chiffres et des lettres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;solution de Jean-Marc au défi des chiffres et des lettres&quot; href=&quot;http://m2i3.com/2007/04/des-chiffres-et-des-lettres#comment-105&quot;&gt;ma solution au défit des chiffres et des lettres&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Thu, 07 Jun 2007 22:05:10 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-06-compte-est-bon/</guid>
+		</item>
+		
+		<item>
+			<title>RJS en long et en bref</title>
+			<link>http://m2i3.com/blogue/2007/2007-05-rjs-et-ruby-on-rails/</link>
+			<description>&lt;p&gt;AVERTISSEMENT, ce blog suppose que vous connaissez l'existence des fichiers RJS.  Si ces trois lettres ne signifie rien pour vous... je vous suggère une recherche sur Google avec les mots clefs &lt;a title=&quot;Une recherche sur google avec des liens sur Ruby on Rails et RJS&quot; href=&quot;http://www.google.ca/search?q=rjs+ruby+on+rails&amp;amp;lr=lang_fr&quot;&gt;Ruby on Rails, RJS&quot;&lt;/a&gt; avant d'effectuer la lecture de ce blogue.  Pour tous les autres, j'imagine introduire une méthode que j'ai découvert l'autre jour en fouillant&lt;/p&gt;
+&lt;p&gt;le code source permettant l'exécution des fichier RJS.  La méthode est publique et même documenté donc, j'assume ici, disponible pour être utilisé.   Sans roulement de tambour... la méthode call permet d'insérer l'appel à n'importe quelle fonction javascript à l'intérieur de votre fichier RJS et contrôler l'appel de celle-ci de la même façon dont vous controllez l'appel aux méthodes show, remove et autre.  Mais pourquoi diantre voudrais-je faire ça?  Eh bien! Dans une application Web2.0 vous aurez très certainement vos propres function JavaScript en plus de celle fournit part Prototype et Scriptaculous.  La méthode call vous permets d'appeler ces fonctions directement.  Dans mon cas (et j'ai hâte de vous montrer cette nouvelle application) c'est aussi pour minimiser la quantité d'information à échanger entre le serveur et chaque client.  En plaçant les comportements nécessaire à l'avance dans mon fichier application.js j'évite d'avoir à transmettre toutes les modifications à effectuer à ma page sur chaque mise-à-jour.  Tout ce qui est transmit est l'appel à cette fonction qui se charge ensuite d'effectuer localement l'ensemble des modifications.  En bref, rien ne vaut l'expérimentation... lisez donc la documentation de la méthode call et amusez-vous bien!  Sur ce... à bientôt je retourne à mon projet (surtout à travailler à l'extérieur, vue sur la piscine, avec ma connection sans fil... )&lt;/p&gt;</description>
+			<pubDate>Sat, 26 May 2007 15:45:31 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-05-rjs-et-ruby-on-rails/</guid>
+		</item>
+		
+		<item>
+			<title>Des routes hors de l&#39;ordinaire en Rails</title>
+			<link>http://m2i3.com/blogue/2007/2007-05-routes-hors-ordinaire-en-rails/</link>
+			<description>&lt;p&gt;Un des aspects intéressant de Ruby on Rails est la conversation d'URL en controller/action et paramètres de tout acabit.  Vous pensiez que le monde arrêtait avec la configuration par défaut? Il y a bien plus que la page par défaut et la séquence :controller/:action/:id à&lt;/p&gt;
+&lt;p&gt;explorer.&lt;/p&gt;
+&lt;h3&gt;Le lien attrape-tout&lt;/h3&gt;
+&lt;p&gt;Pour fonctionner ce dernier doit être le dernier paramètre de l'url.  Sinon autant utiliser l'autreméthode décrire plus bas.  Le lien attrape tout ressemble à:  map.connect '*path' , :controller =&amp;gt; 'blog' , :action =&amp;gt; 'inconnu?'  Ce code appellera la méthode inconnu? sur le contrôleur et placera dans params[:path] la totalité de l'URL.  Mignon? Pratique?  Surtout pratique si vous voulez-faire &lt;a title=&quot;The Perfect 404 on alistapart.com&quot; href=&quot;http://www.alistapart.com/articles/perfect404/&quot;&gt;une page intelligente pour les URLs non-existantes&lt;/a&gt;.  En analysant l'URL on peut guider le webnaute vers un contenu qui devrait répondre à ses besoins et ce malgré l'erreur.&lt;/p&gt;
+&lt;h3&gt;Les textes prédéfinis dans l'URL&lt;/h3&gt;
+&lt;p&gt;Sur un de mes derniers projets j'avais besoin de publier des textes avec l'engin de document créé chez M2i3.  Pour sûr je ne voulais pas avoir des liens du style &quot;/document/show/23&quot;.  En plus des raisons esthétiques un tel lien diminue la valeur des pages par les engins de recherche puisque l'URL n'a aucun lien textuel avec le contenu.  Pourtant faire un lien simple comme &quot;:alias_page&quot; aurait confondu Rails puisqu'il aurait assumé que je parle ici d'un contrôleur.  Donc... l'utilisation de textes prédéfinis dans l'URL permet de résoudre ce genre de situation.  Voici la configuration en question:  map.connect ':alias_page.html' , :controller =&amp;gt; 'document' , :action =&amp;gt; 'show'   Je n'utilise pas l'ID puisque le nom de ma page est une chaîne de caractère que j'ai nommé &quot;alias_page&quot;.  La beauté de cette configuration est que la méthode &quot;url_for&quot; construit l'url proprement.  Donc dans mon code lors que je veux créer un lien vers la page dont l'alias est &quot;a-propos-de-nous&quot; j'utilise le code:  'document', :action=&amp;gt;'show', :alias_page=&amp;gt;'a-propos-de-nous' %&amp;gt;   et le lien généré est &quot;/a-propos-de-nous.html&quot;  beaucoup plus propre non???&lt;/p&gt;
+&lt;h3&gt;Les routes nommées&lt;/h3&gt;
+&lt;p&gt;Ce truc permet de simplifier le code en nommant la route lors de la configuration.  J'ai une relation haine/amour avec cette technique puisque même si elle permet de simplifier le code elle en diminue aussi la portabilité puisque la route nommé doit exister dans l'application où l'on veut copier/utiliser le bloc de code.  Donc, en reprenant le truc précédent nous pourrions le réécrire avec une route nommée comme:  map.document_link ':alias_page.html' , :controller =&amp;gt; 'document' , :action =&amp;gt; 'show'  Remarquez comment on remplace la méthode &quot;connect&quot; par une méthode représentant le nom de la route.  Ça nous permet d'utiliser le code suivant: 'a-propos-de-nous') %&amp;gt;.... intéressant? non?&lt;/p&gt;
+&lt;h3&gt;Les expressions régulières&lt;/h3&gt;
+&lt;p&gt;Ce dernier truc permet d'obtenir des effets vraiment intéressants.  Je reviens à mon exemple précédent.  Par l'utilisation du texte prédéfini on peut rapidement identifier dans l'URL le type de document à servir, l'action et le contrôleur à utiliser.  Pourtant le truc ne permet de traiter qu'un niveau de profondeur dans l'URL (i.e. je peux lier vers /ceci-est-une-page.html mais pas vers ceci/est/une/page.html).  Le dernier truc permet justement de passer le contenu de l'URL tel que dans le lien attrape tout mais sans les avertissements que Rails vous générera si vous essayez de configurer map.connect '*alias_page.html' , :controller =&amp;gt; 'document' , :action =&amp;gt; 'show'.  Dans un tel cas Rails passerait son temps à vous dire que le paramètre optionel ne peut être optionel à cause du texte.  Donc, j'utilise la configuration suivante:  map.document_link ':alias_page.html' , :controller =&amp;gt; 'document' , :action =&amp;gt; 'show',  :requirements=&amp;gt;{:alias_page =&amp;gt; /.*/ }   Le &quot;/.*/&quot; est l'expression régulière qui indique à Rails de tout attraper et de passer outre les &quot;/&quot;.  Donc mon alias de page peut maintenant ressembler à une url complète.&lt;/p&gt;
+&lt;h3&gt;En conclusion&lt;/h3&gt;
+&lt;p&gt;La configuration et personnalisation du fichier routes.rb permet de faire la différence entre une application Ruby on Rails qui ressemble aux autres et un site web qui a sa propre personnalité.  Allez-y! amusez-vous à sortir des sentier battus ;)&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;The Perfect 404 on alistapart.com&quot; href=&quot;http://www.alistapart.com/articles/perfect404/&quot;&gt;une page intelligente pour les URLs non-existantes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Expression rationnelle sur wikipedia&quot; href=&quot;http://fr.wikipedia.org/wiki/Expression_rationnelle&quot;&gt;Expression rationelle (ou régulières)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Tue, 22 May 2007 21:41:54 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-05-routes-hors-ordinaire-en-rails/</guid>
+		</item>
+		
+		<item>
+			<title>Mais vous êtes brillant!</title>
+			<link>http://m2i3.com/blogue/2007/2007-05-mais-vous-etes-brillant/</link>
+			<description>&lt;p&gt;Dernièrement je vous parlait du &lt;a href=&quot;http://m2i3.com/2007/05/vous-vous-pensiez-brillant&quot;&gt;problème causé par l'utilisation de Kernel.puts sous fast-cgi&lt;/a&gt;.    On se demande alors comment générer des traces sous Ruby on Rails.  Le framework vient avec un &lt;a title=&quot;Utilitaire de trace de Ruby on Rails&quot; href=&quot;http://wiki.rubyonrails.org/rails/pages/logger&quot;&gt;utilitaire de trace&lt;/a&gt; qui générera, selon la configuration dans environment.rb, un fichier developement.log, production.log ou test.log.&lt;/p&gt;
+&lt;p&gt;L'objet est acessible sous le modèle, le contrôleur ou le &quot;mailer&quot;.  Il définit des méthodes comme &quot;info&quot;, &quot;warn&quot; et &quot;error&quot; en fonction de l'importance du message à tracer.  Donc, bien simple et presque omniprésent l'utilitaire de trace pour savoir ce que l'application fait.&lt;/p&gt;
+&lt;p&gt;Bonne trace!&lt;/p&gt;
+&lt;p&gt;Jean-Marc&lt;/p&gt;
+&lt;div class=&quot;postslinks&quot;&gt;
+&lt;h2&gt;Liens discutés dans ce blogue&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;Utilitaire de trace de Ruby on Rails&quot; href=&quot;http://wiki.rubyonrails.org/rails/pages/logger&quot;&gt;utilitaire de trace de Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://m2i3.com/2007/05/vous-vous-pensiez-brillant&quot;&gt;problème causé par l'utilisation de Kernel.puts sous fast-cgi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description>
+			<pubDate>Fri, 18 May 2007 11:28:26 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-05-mais-vous-etes-brillant/</guid>
+		</item>
+		
+		<item>
+			<title>Les hauts et les bas d&#39;un compte partagé</title>
+			<link>http://m2i3.com/blogue/2007/2007-05-haut-et-bas-compte-partage/</link>
+			<description>&lt;p&gt;Comme vous l'avez probablement remarqué hier M2i3 et certains &lt;a title=&quot;clavarde à ta façon&quot; href=&quot;http://gay.chat4.us/fr&quot;&gt;autres&lt;/a&gt; &lt;a href=&quot;http://retrouvailles-esfl-1994.zliki.com&quot;&gt;projets&lt;/a&gt; ont vu une page de &quot;compte suspendu&quot; être affiché.  La raison en est simple et découle du fait que pour le moment nous utilisons &lt;a href=&quot;http://www.bluefur.com/inbound/go.php?aid=205&quot;&gt;un compte partagé chez Bluefur&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Voyez-vous, l'avantage d'un &lt;a href=&quot;http://www.bluefur.com/inbound/go.php?aid=205&quot;&gt;un compte partagé&lt;/a&gt; est qu'il coûte moins cher que d'avoir un &lt;a href=&quot;http://www.bluefur.com/inbound/go.php?aid=205&quot;&gt;serveur dédié&lt;/a&gt;.  L'espace disque y est, la bande passante aussi... le désavantage est qu'on doit partager les ressources du serveur avec d'autres gens et que le fournisseur de service peut suspendre le compte de quiconque utilise trop de ressources sur le serveur.&lt;/p&gt;
+&lt;p&gt;C'est ce qui est arrivé hier.  Un des projets (actuellement hors ligne en attendant que le problème soit réglé) a vue le nombre de visiteurs augmenter énormément dans les dernières semaines et fait apparaître des problèmes de performances au niveau de l'application.  Pour protéger les autres utilisateurs du serveur Bluefur a donc suspendu notre compte le temps qu'on puisse leur expliquer le pourquoi du problème.&lt;/p&gt;
+&lt;p&gt;Comme quoi il n'est pas toujours avantageux de partager... ou pas toujours bien d'être populaire... du moins sans les ressources nécessaires.&lt;/p&gt;</description>
+			<pubDate>Tue, 15 May 2007 17:05:37 -0400</pubDate>
+			
+			
+			<guid>http://m2i3.com/blogue/2007/2007-05-haut-et-bas-compte-partage/</guid>
+		</item>
+		
+
+	</channel>
+</rss>
